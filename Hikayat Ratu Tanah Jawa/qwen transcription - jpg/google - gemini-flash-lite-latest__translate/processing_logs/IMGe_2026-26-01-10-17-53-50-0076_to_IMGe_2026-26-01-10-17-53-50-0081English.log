@@ -1,0 +1,149 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0076.txt', 'IMGe_2026-26-01-10-17-53-50-0077.txt', 'IMGe_2026-26-01-10-17-53-50-0078.txt', 'IMGe_2026-26-01-10-17-53-50-0079.txt', 'IMGe_2026-26-01-10-17-53-50-0080.txt', 'IMGe_2026-26-01-10-17-53-50-0081.txt']
+start_time: 2026-03-28 16:01:59
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+# 
+
+tumeka ing sabarang rupane, sabarang kang ngaran znikir iku kabeh, iya Qu'ran; mama dadi nora kena lamun den aranana loro jenggerengira iku lan jenggarenging Qu'ran. Nanging lamun nora solat wus pasthi loro jenggerengira iku lawan jenggerenging Qu'ran, sabab Qu'ran iku kang prentah sira kang anglakoni printah, mama fardlu lamun nora solat sira amacana Qu'ran aja tawang ing sakuwasanira, sabab iku upama seba maring Ratu mangkana manawa ana karsa wus pasthi lamun sira kang anglakoni, maka lamun oleh sih sira dadi manjing ratu iku / iku dalil naso...... nasa nusiri wa sirhu.....
+
+## p.98
+
+eling2 sarupane duriyat Adam.....[^1]
+
+donya iku kabeh marang ing pangeran iku pangandikane Gusti Allah Subhanahu Watangala kang nguza wajala kang wahidulkohhar iku tegese manusa kang wus tu maka iman khakiki sajatine manusa kang wus sampurna iku, mapan wus tan kena pisan iku lawan kodrat iradate Gusti Allah Subhanahu Watangala kang nguza wajala kang wahidul kohar, mapan wus ing ngaken manungsa kang / maha...... kerat pisan dadi.....
+
+## p.99
+
+ing sarupane kahelokan kang sebet iku kabeh, maka lamun... kena mring kang padha ana ing donya iku kabeh, lamun durung weruh marang ing ngawake dhewe iku, bu ajidoh temen2 lamun weruha marang ing pangerane wong iku kabeh, maka lamun nora weruh ing pangerane, wong iku kabeh kang ana ing donya bawa maya apa2 lamun nora kabedhanga punggale maring ing sarupane kahelokan donya kang endah2 iku kabeh maka lamun wus kabedhung punggale wong iku, bo tapin temen2 / lamun bisa ikilah rupane ngelmu kang telung perkara akhadiat mangkene rupane, wahdat mangkene rupane, mahadiat mangkene rupane, iya akhadiat iku rupane wijine ngelmu, nanging maksin gnoib akuadiat iku durung pertela rupane. ne Ngabdul Hamid, maka Gusti Allah Subhanahu Watangala marang pratelane / ngalam akhadiyat iku ana ing ngalam waakhdat. Maka winiwitan lahire ngalam akhadiyat iku maring ngalam waakhdat, Ngabdul Hamid teka telung perkara iku pratelane rupane: "Ngsiaqi, Ngasiqu, maksuq, Dene kang ngisiqi iku mangkene rupane kang ngasiqu iku mangkene rupane kang maksuq iku mangkene rupane, iku ngabdul Hamid,Gusti Allah Subhanahu Watangala olehe karsa ningali marang kagungane kang ghoib iku, minangka dadi dedalane Maka dadi pertela rupane sawiji2 iku Insan-kamil arane anam ing ngalam wakhdat pan minangka dadi gedghong kastuba iya iku pasanetan zhatullan
+
+## p.102
+
+tegese / ana ing sajrone atinira kati iku dadi padang sabab iman iku, upama srengenge ana sajrone ngalam kabir iku, tegese kang den arani ngalam kabir iku, iya iku kati dadi wus nora samar sira marang kagungane Subhanahu Watangala sarupane kang gnoib2 iku kabeh. Dene bab solat iku, iku pakumpulan, iya iku kang ginawe tandha zhohire Insan-kamil, dene bab znikir iku t rupane sjahadat, dene sjahadat iku upama geni gedhe amorsesus, dene iman ana ngati iku upama srengenge, dene sarupane susu-
+
+## Footnotes
+
+[^1]: (page torn in the lanang, wadon kang padha Islam maksih...... Mss.)
+
+He eling-eling maring papaning Qu'ran iku, sabab iku kang minangka wadhahing iman kang dhohir Qu'ran iku ginawe pangeling-eling marang kagungane Robbilngalamin kaben kang ana dunya, apadene kang ana ngakherat sabab Qu'ran iku minangka tandha dhoheiring iman lawan ginawe saksi marang bener luputira ana donya. Maka lamun wus tutug olehiira den karsakake ana donya marang Allah Tangala dadi eling wujude papalme Qu'ran iku sayekti nora hilang, Qu'ran iku wus munggal ana ing jenggerengira, iku tegese iku lamun dloro bangei sira / maka teka sakarotilmaut. Iya sakarotilmaut iku kang minangka dedalanira mulih marang kalanggengan, mangkana maneh Gusti Allah Subhanahu Watangala kang wahidulkohhar olehe ngersakake ananira ing donya iku, winiwan teka bayi, ulihira donya dinalanan teka mati, marma dadi wong ana donya iku kudu arep den eling lamun ana donya awit bayi sira muli bocah, bocah nuli balegh, balegh iku mangsane lamun gugulanga kang dadi sabab beja cilakanira ana donya. Lamun besuk mulih maring wekasana maka sawuse rabi dadi bapa arane iku ing mangsane lamun ngelingeling marang dedalame pati sira sabab / iku kaliwat dene rangsitira dedalane pati iku, lawan wajib lamun wus dadi bapa sira angarep-arepa marang pati sira, sabab iku wus tutug olehiira ana donya sabarang nikmat kang ana donya wus pasthi lamun weruh rasane sira, I Marma kudu den ngati-ati lamun wus dadi bapa sira, sabab iku kang minangka watesira ana donya, pangrungunira paningalira, pangan, bunira wus pasthi lamun wus waspada sira marang ka-gungane Subhanahu Watangala, sabarang kang ana donya kabe, lamun wumuh maneh ulihira ana donya kongsi aran kaki utawa buyet, iku ana kang/dadi / Sabab muwuhi bejane, ana kang muwuhi cilakane. Lamun teka ing wekasana sabab donya iki panggonan ala lan becik, marma dadi lamun wus tekan bapa wus cukup wong ana donya, sabab iku wus weruh kabe kagungane Robbilngalamin, sakehe kang ana donya, he mukmin langang, mukmin wadon, islam lanang, islam wadon, padha elinga marang pati sira, marma ana dalil: "ngisqi, ngasiq, maksuq, tegese ngisqi kala m arep gawe, tegese ngasiq kala gawe, tegese ing donya iki panggonan gawe ala becik. Tegese maksuq iku sawuse gawe tegese iku /
+
+### p.103
+
+gusuker  
+susuka kang ana ing sajrone badan iku kabeh iblis awa nafsu / iku upama megamendhung iya iku kang angaling-alingi2 srengenge, marma dadi peteng, mangkana maneh iman iku olehe peteng ana ing sajroning ati, sabab kaling-kalingan telung perkara iku, sabab ati upama langit dene, awak kang ana ngisore puser iku upama jagat kabeh iku zhohire kang nyata jenggerengira iku lamun kangganon telung perkara dadi peteng jagatira kabeh. Tegese telung perkara iku: iblis hawa nafsu iku, nanging sjahadat kang bisa ngilangake telung perkara iku. Tegese sjahadat iku zhikir Kalimah Toyibah, iku lamun oleh sih pitulunge Subhanahu Watangala dadi geni amor lesus sirna kabakar / sakena raregede iku, apadene minangka
+
+### p.104
+
+mendhng kang ngaling-alingi marang srengenge iku sabab katiyub marang angin pasthi lamun padhang jagatira kabeh, nanging lamun garing kayune, lamun teles kayune iku nora bisa murup geni iku dadi/bisa ngilangake rareged iku, upama malam lamun kena geni masthi lamun hilang malam iku, maka lamun wus hilang sarupane areged iku kabeh dadi padhang jagatira iku kabeh sawa bengesan, iku soroting cahyane wus pasthi lamun weruh sira maring kagungane Subhanahu Watangala kang ghoib2, marma aja pegat sira / ngakherat marma tandha lamun dlaro banget iku bakal maksuq sira, tegese dloro banget iku sakaratulmaut, sabab iku panggonan pakumpulan afngalira ing donya iki kabeh marma dadi Qu'ran wus ngumpul lawan iman papaning Qu'ran wus ngumpul marang badan. Maka lamun maksin sifat jenggerengira iku. Tegese sifat jenggereng iku lamun maksih kharkat panggotane iku, durung kena lamun atinggal ing sembahyang sifat jengg-ereng iku. Maka lamun wus nora kharkat sifat kang jenggereng iku, sabab iku wus ngumpul lawan Qu'ran sifat jenggereng iku. Maka kang kari iku
+
+### p.105
+
+dadi / wong Yahudi iku padha angestokaken lamun Nabi Ngazara iku, anaking Allah, mangkana maneh pangucape wong Hasara iku padha angestok-ake lamun Nabi Ngisa anaking Allah. Maka pangucap kang mangkana iku padha batal kabeh karone, iku sabab padha lali lamun Gusti Allah Subhanahu Watangala kang ngaza wajala kang wahidul kohhar iku: Akhad, wakhid nora anak2 lawan nora nganak-anakaken sjazhate lan sja sipate iku dadi sakersane. Maka kang padha angestokaken ing pangucap mangkana iku, iya iku kabeh padha pangucap ing Kapir Laknatullah iku, sabab zhuriyat Adam kang padha lali ngucap mangkana iku dadi / wong hilang sabab wus kena marang ing iblis laknatullah iku kang padha tinurut pang-ucap x mangkana iku. Maka islam sira angelina iku marang ing sarupane zharoyan Adam kang padha angestokaken marang ing pangucap mangkana iku kabeh. Sabab pangucap kasar iku sa iblis laknatullah kang gawe ing pangucap mangkana iku. Maka lamun nora kena kudu meksa zhuriyat Adam iku dna muni dadi kapir laknatullah iku, ya banjur padha perang, ana kongsi tumeka ing sakaline kabeh iku. Maka lamun durung ana karsane Gusti Allah Subhanahu Watangala kang nguza kang wahidul kohhar iku
+
+### p.106
+
+prentah kaya sarupane kang wus padha muni / iku nora kaya sarupane zhuriyat Adam sira kang padha islam lanang, wadon, iku kabeh, nanging zhalil nasro ing Qu'ran iku bahe poma2 den eling iku padha sira anggoha iya: "Ya Ayyuhalzhina amanu allahullaha wa athingur rosula wala tabtholu
+
+## p.109
+
+tabthalu akmalakim. he eling sarupane zhuriyat Adam iku kabeh sira kang padha islam lanang wadon marang ing zhalii naso ing Qu'ran iku. Tegese iku padha angimanaken sarupane Islam sira iku kabeh marang ing sarupane pangandikane Gusti Allah Subhanahu Watangala kang nguza wajalla kang wahidul kohhar iku kang wus ana ing naso ing Qu'ran iku kabeh ing donya dene / tumeka ing ngakherat pisan iku kabeh lawan padha angimana sarupane islam sira iku kabeh marang ing pangandikane Kanjeng Nabi Mohammed rosulullah sollallohu ngalaihi wassalam. Tegese iku kang wus padha muni ing hadits iku kabeh. Tegese aran Hadits iku, iya iku sarupane kitah wasiyate kang Nabi Mohammad Rosulullah sollallahu ngalaihi wassalam iku kabeh nora kena noxra sarupane islam lanang wadon padha sira anglakonana maring ing prentahe khadits rosulullah iku kabeh, Maka kang dadi anggere prentahe khadits rosul iku maring ing sira sarupane islam kabeh
+
+## p.110
+
+sira ana donya iku, nora kena nora / sira iku kabeh kudu den gedhe sira kabeh ing patobatira angrasaha lamun akeh ing kaluputanira marang ing Robbilngalamin sira iku kabeh lawan padha den bisa sira iku kabeh sarupane zhuriyat Adam kang padha islam kari ana ing donya iku, padha den bisa rumeksa marang ing imanira iku kabeh kalawan sarupane ing ngamalira iku kabeh salawas-lawase uripira ana ing donya, sira iku kabeh, maka tegese rumeksa marang imanira iku poma ing aja wani ing perak marang ing sarupane kang wus den larangi ing iman iku. Maka lamun wani minggir ing sira iku kabeh marang ing larangan / iku, maka lamun wus minggir sira maring ing larangan iku bahadon temen ing lamun wus minggir iku sira lamun nora gagebyur marang ing larangan iku, lamun wus kagebyur sira marang larangan iku bokja apa ing iku, lamun nora elinga imanira iku maka tegese rumeksa marang ing ngamalira iku ana ing donya iku, iya iku kudu arep lebur lakunira iku lawan rumeksa maring ing nafsunira, X tegese nafsu iku sabarang karepanira patut lawan ing prentahe zhalil khadits, karepira dadi kamoran karepe iblis lakmatullah karepira iku. Mangkana maneh lawan pangu-/-cap tekabur kang terus ingati iku, iya iku iblis. Lamun tekabur marang ing sapadhane islam iku bokja apa ing iku lamun manggung laklinira nora tobat maring ing sarupane lalinira iku lamun nora elinga imanira iku lawan batal kabeh sarupane ngamalira iku salawase uripira ana ing donya sira. Maka lamun wus pasthi batal iman lawan ngamalira ana ing donya iku botangeh temen lamun bisana mulih maneh maring suwarga iku sira sabab sarupane duriyat Adam kang padha islam kari ana ing donya iku kabeh, kajaba kang oleh maring ing dedalan sirullah iku, nanging iman lawan ngamal iku kang minangka / sangunira sira mulih iku marang ing kamulyanira, Maka sarupane zhuriyat Adam kang padha islam iku ing donya iku kang sampurna iku kang den paringi wanyu maring ing Robbilngalamin kaya kang wus muni ing zhalil naso ing Qu'ran iku
+
+## p.111
+
+sira iku kabeh marang ing larangan / iku, maka lamun wus minggir sira maring ing larangan iku bahadon temen ing lamun wus minggir iku sira lamun nora gagebyur marang ing larangan iku, lamun wus kagebyur sira marang larangan iku bokja apa ing iku, lamun nora elinga imanira iku maka tegese rumeksa marang ing ngamalira iku ana ing donya iku, iya iku kudu arep lebur lakunira iku lawan rumeksa maring ing nafsunira, X tegese nafsu iku sabarang karepanira patut lawan ing prentahe zhalil khadits, karepira dadi kamoran karepe iblis lakmatullah karepira iku. Mangkana maneh lawan pangu-/-cap tekabur kang terus ingati iku, iya iku iblis. Lamun tekabur marang ing sapadhane islam iku bokja apa ing iku lamun manggung laklinira nora tobat maring ing sarupane lalinira iku lamun nora elinga imanira iku lawan batal kabeh sarupane ngamalira iku salawase uripira ana ing donya sira. Maka lamun wus pasthi batal iman lawan ngamalira ana ing donya iku botangeh temen lamun bisana mulih maneh maring suwarga iku sira sabab sarupane duriyat Adam kang padha islam kari ana ing donya iku kabeh, kajaba kang oleh maring ing dedalan sirullah iku, nanging iman lawan ngamal iku kang minangka / sangunira sira mulih iku marang ing kamulyanira, Maka sarupane zhuriyat Adam kang padha islam iku ing donya iku kang sampurna iku kang den paringi wanyu maring ing Robbilngalamin kaya kang wus muni ing zhalil naso ing Qu'ran iku
+
+## p.112
+
+maneh lawan pangu-/-cap tekabur kang terus ingati iku, iya iku iblis. Lamun tekabur marang ing sapadhane islam iku bokja apa ing iku lamun manggung laklinira nora tobat maring ing sarupane lalinira iku lamun nora elinga imanira iku lawan batal kabeh sarupane ngamalira iku salawase uripira ana ing donya sira. Maka lamun wus pasthi batal iman lawan ngamalira ana ing donya iku botangeh temen lamun bisana mulih maneh maring suwarga iku sira sabab sarupane duriyat Adam kang padha islam kari ana ing donya iku kabeh, kajaba kang oleh maring ing dedalan sirullah iku, nanging iman lawan ngamal iku kang minangka / sangunira sira mulih iku marang ing kamulyanira, Maka sarupane zhuriyat Adam kang padha islam iku ing donya iku kang sampurna iku kang den paringi wanyu maring ing Robbilngalamin kaya kang wus muni ing zhalil naso ing Qu'ran iku
+
+## p.113
+
+sirullah iku, nanging iman lawan ngamal iku kang minangka / sangunira sira mulih iku marang ing kamulyanira, Maka sarupane zhuriyat Adam kang padha islam iku ing donya iku kang sampurna iku kang den paringi wanyu maring ing Robbilngalamin kaya kang wus muni ing zhalil naso ing Qu'ran iku:
+
+> Qul lilmukhalifina minal maghribi satadnguna ila qauli ula biksa sadid tukotilu nanum au yuslimun.
+
+he eling sarupane zhuriyat Adam kang padha islam maksin ana ing donya kang minangka dadi tandha lamun islam kang oleh sine Gusti Allah Subhanahu Watangala kang nguza wajalla kang wahidulkohar iku, kang wus dadi tandha lamun pinilin iku kang dningin
+
+Iku nora gelem iku lamun angucap ing sawiyah bahe, lamun nora ana kang dadi kasile iku marang ing kautaman ing wekasan atine wus den niyatake marang rusake badane ana ing donya iku lan dadi kareme nanging sabarang kang metu teka ing prentah iku bahe, kang pada basa Ngarab iku. Tegese zhalil lan khadits nanging iku bahe kang ana ing sajroning atine kang dinileng utawa rininggu maring wong iku lan kang wus dadi tandhane zuriyat Adam iku lamun oleh sih ing Robbilngalamin iku. Nanging limang perkara iku, kang dhingin rasa, kapindho kendel, kaping telu mantep, temen nora goroh marang ing sabarang ujare, kaping pat Islam, kaping Klima taklim, iya iku lamun Gusti Allan Subhanahu Watangala kang ngaza wajalla kang wanidul kohhar, lamun karsa paring wanyu perang sabilullah kang minangka dadi pangirid perang ing sarupane zuriyat Adam iku kabeh, kang pada Islam lawan dalil naso ing Qu'ran iku: "[^1] 
+
+> tikumullahu ajrun akhsana wa in tatawallu kama tu litum minkobli yung-izadkum ngazhaban alima.
+
+He, eling sarupane zuriyat Adam kang islam kabeh sira padna ngemanana maring ing prentah aprang sabilullah iku kabeh sira tur luwin bagus ing donya tumeka ing ngakherat pisan sarupane zuriyat Adam kang padna Islam iku kabeh, sira iya ing aprang sabilullah iku, maka lamun zuriyat Adam kang padna angaku Islam iku kabeh lamun durung anglakoni perang sabilullah bogoroh temen2 lamun islam mapan sayektine iku lamun weruha ing prentah kang sabenere2 iku, ikilah prentahe kang sayekti Gusti Allan Subhanahu Watangala kang ngaza wajalla kang wahidul kohhar dalil naso ing Qu'ran iku: 
+
+> Huwallazhi arsala rosuluhu bilhadu dinil khaq liyuthohiruhu ngalalazhi kullihi wakafa billani sjahidan Muhammadar/rosulullahi wallazhina manganu asjaddaa wa ngalal ngafaro rommaa hainamm taronum rukangisujud yabta-ghuna fadi lamminallah wa ridlwanan sam nghim fi' wujuhikumin afsar-isujud zhalika matsalunum fitauroti wanatsaluhum fil'inzil, kazamgu akhroju sjatlulu fazronu fastaqnalazna fastawa ngala suggini yakjibu-zaronga layazhumullahufa rawa ngidullamu llazhima amanu wangamilusso-likhati minham maqnifiratun wa ajron ngazhima,
+
+He, eling2 sarupane zuriyat Adam kang padha maksih Islam lanang wadon sira iku kabeh marang ing utusane Gusti Allan Subhanahu Watangala kang nguza wajalla kang wahidul kohhar iku, tegese Kanjeng Nabi Mohammad rosullallah sollallahu ngalaihi wassalam iku kang ingutus tumurun maring ing alam donya kang sarta anggawa Kanjeng Nabi iku prentane ing Robbilngalamin tur kang kaliwat gedhe dhewe iya prentah kang tumuru iku kalamullah kang sakhakiqine iku, lamun prentah kang sabenere2 iku, lan kaliwat sucine sarupane prentahe iku kabeh, Tegese iya iku agama Islam karsane Gusti Allan Subhanahu watangala kang ngaza wajalla kang wahidul kohhar lawan wus anyukupi kabeh iya Agama Islam iku maring ing sarupane agama iku kabeh ing donya tumeka ing ngaherat pisan. Maka kang minangka dadi sjahide temurune agama islam iku marang ing ngalam donya teka lakinl mahfud iku Kanjeng Nabi Mohammad khabibullan ngalaini wassalam iku kang ngutus maratakeke prentahe agama Islam iku kabeh marang ing sarupane zuriyat Adam iku kabeh manusia lan jin, apadene lamun sarupane wong [^2]
+
+## Footnotes
+
+[^1]: He'in talingu ayuk
+[^2]: kafir
+
+## p.120
+
+kafir iku kabeh nora kena lamun padha nganggo ing sakerepe dhewe2 kabeh iku, nora kena nora kabeh iku ya padna anganggona ing prentah kang kari iku. Tegese iya agama Islam iku prentan kang keri karsane Gusti Allah Subhanahu Watangala kang nguza wa jalla kang wahidul kohhar iku. Tegese prentan kang dningin, ya wius nora ana / loro, ya prentah kang kari iku pan wus tan kena nora sarupane zhuriyat Adam kang padha maksih ana ing donya iku kabeh kinon mardi marang ing solat limang wektu iku kabeh, jin lawan manungsa. Maka nora kena prentah ing agama Islam iku lamun ana kang angucap marang ing agama kang saliyane ing agama Islam iku.
+
+## p.121
+
+Tegese agama Islam iku kang dningin iku nora kena nora iku kudu anges-tokaken marang ing Kalimah Sjahadat loro, tegese Kalimah Sjahadat loro iku nora kena lamun duwe tekad iku lamun ana hatu loro ing donya iku tumeka ing ngakherat pisan lan Kanjeng Nabi Mohammad iku kang minangka dadi zhoire ing donya tumeka ing ngakherat pisan iku wus tan ana manen2. Kang tegese marang ing sarupane zhuriyat Adam iku kabeh ing bener lupte ing donya tumeka ing ngakherat pisan lan nora kena nora prentah-ing agama Islam iku ing saben2 dina iku, sarupane zhuriyat Adam kabeh iku padha angadhepna maring ing rarahnira iku kabeh balan ping lima ing sadina lan sawengi iku kang fardlu maring ing Gusti Allan Subhanahu Watangala kang ngaza wa jalla kang wahidul kohhar iya iku Ratu kang sabenere pan nora ana lobo, iku tegese padha ngadhepake ing rarahnira iku sujud. Maka lamun ana zhuriyat Adam kang ngaku maksih duwe agama dhewe2 iku Toret lawan Injil bohdon / temen2 lamun dadiya agama iku.
+
+## p.122
+
+Sabab Kitab Qu'ran wus tumurun iku bohya apa2 lamun duduha iblis lak-natullah kang padha ngempeng2 ing iku ngaku padha wus duwe agama dhewe2 iku. Maka prentahana islam marang kang padha ngaku, duwe agama iku, Toret lawan agama Injil iku padha kinon ninggal maring ing agamane kabeh iku, wus nora kena liyane agama Islam iku karsane Robbil 'ngalamin. Maka lamun wus meksa nora gelem metu teka ing agamane iku kabeh sahingga rasa nora nurut marang ing prentahe agama Islam, Toret Injil iku wus banjur padha rusaken pan wus wajib iku / sarupane Islam lamun angrusak sabab kabeh wus nyata lamun dados kafir laknatullah kang maksih padha kudu nganggo marang ing agama Toret lawan Injil iku kabeh, wus padha goron olehe ngaku duwe agama angimanake marang ing prentane Robbil-ngalamin iku kabeh. Maka lamun wus Yahudi lan Nasara iku lawan sira Islam kabeh iku banjur padha perninen padha kinon angimanaken marang ing prentane Gusti Allah Subhanahu Watangala kang nguza wajalla kang wahidul kohhar marang ing solat iku kabeh.
+
+## p.123
+
+Maka lamun wus gelem anglakoni marang ing prentah solat iku kabeh, ya wus ing ngapura sakehe dosane si kafir laknatullah/iku marang ing Robbilngalamin. Maka lamun wus kalah si kapir laknatullah iku nora gelem anglakoni ing prentan solat iku bodho temen2 si kapir laknatullah iku, lamun nora anumunkuli bale marang ing kalimpenira Islam kabeh iku maka lamun wus tito si kapir laknatullah iku nora gelem anglakoni marang ing prentah solat iku wus banjur padha patenana bane islam sarupane si kapir laknatullah iku kabeh, bokya apa2 lamun duduha rupane si iblis laknatullah iku kabeh
+
+## p.124
+
+sarupane
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 20767, 'chunks': 1, 'response_chars': 21314, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': "```markdown Whatever exists, everything called *dhikr* is the **Qur'an**; therefore, it is not permissible for your physical being to be considered separate from the **Qur'an's** b..."}]}
+status: Success
+end_time: 2026-03-28 16:02:20
+==================================================

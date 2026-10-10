@@ -1,0 +1,121 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0070.txt', 'IMGe_2026-26-01-10-17-53-50-0071.txt', 'IMGe_2026-26-01-10-17-53-50-0072.txt', 'IMGe_2026-26-01-10-17-53-50-0073.txt', 'IMGe_2026-26-01-10-17-53-50-0074.txt', 'IMGe_2026-26-01-10-17-53-50-0075.txt']
+start_time: 2026-03-28 16:01:32
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+anna nua mentul hak Allalu akbar." Hak wallanu aklam bisawab sukma;; roh; urip; Anapun pratelane islam kejaba kang wus den kersa-kake sampurnane marang Gusti Allan Subhanahu Watangala kang wanidul konhar telung perkara iku, tege se: nabi, wali, mukmin; Islam iku patang perkara kang dhingin islam khakiki, kapindho Islam pasiq, kaping telu islam / murtad, kaping pat islam munafiq. Tegese islam kang khakiki iku, nora wani tinggal prentane Qu'ran ing sathithik bane, maka lamun ora oleh ati ing tanah iku den lampu lunga ngumpul marang tanan liyane kang pada islam iku kang lumaku prentahe Robbil 'Alamin kang ana Qu'ran iku. Anapun pratelane islam fasiq iku wedi tinggal karone anggere nora den larange ngibadale bahe nanging batin liwat sukure atine nora pegat.
+
+prinatine nunuwun maring Robbil Ngalamin lumakune prentane Qu'ran / iku ing tanah iku. Anapun pratelane islam murtad iku kang wus lali marang printahe islam panganggone, sandhangane, pangucape, panganane, wus nora ana kang den singkir, anggere enak atine bahe, dadi wus kaya kewan uripe. Anapun pratelane islam munafiq iku, nora pegat ngibadane lawan azhim, lamun nyritakake tuture kitab ujare, nanging atine wus nora pisan lamun arep nganggo maring tuture kitab kang bakal malarati marang badane, pangrasane dadi manut apa kang lumaku prentane ing wektu kuwi.
+
+dadi / kaya iblis uripe. Anapun ana maneh bebasan loro kapir: kapir ngindanas islam ngindallah, kapir ngindallah islam ngindanas, iku ing tanah islam lamun tanah rusun iku wus nora kena kang kapir ngindanas islam ngindallah ikux iblis, kang aran kapir islam ngindanas iku hewan. Anapun tegese kang aran kapir iku, papat kang dhingin kapir khasanah, kapindho kapir nahiah, kaping telu kapir billahi, kaping pat kapir nasbi. Ing dinten Jummah wulan sapar tanggal kaping sawelas, taun.
+
+Ehe Hijriah / minasjamsi mulki minallahi min walijin wala nasir. Pemut Ratu Tanah Jawa awit Kyai Ageng Mataram, Kyai Ageng Mataram peputra Sultan Mantaram, Sultan Mantaram peputra Sultan seda Krapyak, Sultan seda Krapyak peputra Sultan Ngabdulrahman, Ngabdulrahman peputra Sunan Pleret, Sunan Pleret peputra Sunan Mangkubuwana, Sunan Mangkubuwana peputra Sunan Prabu, Sunan Prabu peputra Sultan Mangkubuwana jumeneng Ngayoga, Sultan Mangkubuwana Ngayoga peputra Sultan Lelana, Sultan Lelana peputra Sultan seda Kedhaton, Sultan seda Kedhaton peputra Sultan Ngabdul Hamid, iku Kyai Ageng Mantaram, Sultan Mantaram seda Krapyak, Sultan Agung, Sunan / Mangkurat, Sunan Mangkubuwana, Sunan Prabu. Iku rupane wahyuning jawata, malem khemis tengah sewelas sasi Ruwah tanggal pisan tahun Wawu, ana kitha Makasar, maka ana sasmitaning Allah Tangala, Fakir Ngabdul Hamid mulat marang kang dadi satru iku banget gila sabab dening rupa banget agawe hebat, apadene kang suwara maka anggoleki marang gone nendra Fakir Ngabdul Hamid. Maka Fakir Ngabdul Hamid bareng ngrungu suwara, kagete bareng mulat rupa banget karya hebat. Maka banget wedi Fakir Ngabdulhamid iku lan gumeter badane kabeh bacut-ake nendra sarta gugupe. Maka kang dadi satru iku anggoleki marang Fakir Ngabdulhamid sarta bareng-kang, dene kang gemleger ngapa sarta gumluthuk.
+
+gunluthuk. Maka Fakir Ngabdul Hamid sangsaya gila, sabab angkir upama pitik sura lan macan. Maka nuli manggah marang panggonane nendra Fakir Ngabdulhamid, nanging Fakir Ngabdulhamid wus asran marang Allan Tangala, tan noleh maring kang liya Allah. Maka nuli kang dadi satruning agama iku anggrajangi marang Fakir Ngabdulhamid. Fakir Ngabdulhamid bareng mulat kang warmaning saya banget gumeter cape sagung kahuwatane kabeh dadi wus tanpa batyu. Maka awas mulat Fakir Ngabdulhamid / iku marang warmane kang dadi satruning Agama iku, alir macan lorek nanging lumaku angkir manungsa, dene gedhene siyunge sagedhang gabu, lengene sapucang nanging siyunge dhewe; maka Fakir Ngabdulhamid ginawa sabab wus tan bisa suwala dadi nurut bahe; nanging wawuh siji satru iku rupa manungsa wadon kuru dhuwur maksih anom. Maka nuli den iringake Fakir Ngabdulhamid wus tan bisa yen gingsira, nanging Fakir Ngabdulhamid wus ngesthi palastara aning Allah kang gumantung ing nala. Maka prapta ing pernahe kang si Peja satru loro iku kaya gedhung penapen, mangkana banjur Fakir Ngabdulhamid dikon lungguh, banjur lungguh Fakir Ngabdulhamid iku dene wong loro iku padha ngadeg. Maka Fakir Ngabdulhamid nabda: "Arep kok kapakake ingsun." Maka satru iku mojar: "Arep ingsun mangsa," kang rupa macan iku kang sumanur, kang rupa manungsa meneng bahe ngadeg ana kiwa. Maka nabda Fakir Ngabdulhamid: "Lamun sira arep nguatal marang ingsun mara untalen aja suwe." Maka nuli den angkat ayun ing nguntal, nanging Fakir Ngabdulhamid wus tan ana kang katingal nanging Allah lan enget maca surat Akhad. Maka nuli ana marmaning Allah Tangala angkir kudhung aneng lahireng Fakir Ngabdulhamid. Nuli gumeter satru iku nora bisa ngungkuli maring Fakir Ngabdulhamid, maka nuli ngucap satru iku: "Lamun sira bisa Ngabdulhamid, ingsun patenana, wus pesthi tetepe Tanah Jawa kang duwe sira." Maka nuli sumanur Fakir Ngabdulhamid lan waspada kang dadi satru iku wus tuwa: "Insja Allah, ingsun weruh uga ing patinira." Lawan marmaning Allah pinaring kuwat Fakir Ngabdulhamid lan pinaring wani, maka nuli ngadeg Fakir Ngabdulhamid anyedhak marang satru iku, kabeneran pusere banjur denundha banjur tiba mati kang siji jaluk den balekake. Maka nuli den balekake, ya kaya mangkana gone pati uriye ing pusere padha mati mujur ngalor ngulon, maka sawise mati satruning agama loro iku dadmi tetep Tanah Jawa bali marang Fakir Ngabdulhamid maneh[^1] Tamat wallohu aklam[^2] Malem isnen wulan Sura tanggal tigalikur ing tahun Ehe ana suwara: "Kurang pat belas tahun."[^3]
+
+## Footnotes
+
+[^1]: Anapun kang minangka dadi pikukuheng Islam iku limang perkara, kang dhingin sjanadat, kapindho solat limang wektu, kaping telu puwasa ing wulan romadhon / mangkana tegese iku, nabi wali mukmin, telu iku sayektine wus tunggal, iya iku. Maka bakda kang para nabi ing donya iku kang minangka gagantine dadi papan guruhane maring ing sarupane darajate Adam kang padha Islam lanang wadon iku kabeh, kang padha maksin keri ana ing donya marang ing bener lupute utawa ing ala lawan becike iku kabeh maring ing sarupane darayat Adam kang padha kari iku mapan kang minangka dadi sjamide, iya wali lawan mukmin iku, lan ingkang dadi gedhong kastuba wali mukmin iku marang Gusti Allah Subhanahu watangala
+
+# p.73
+Watangala kang nguza Wajala kang wanidul kohar, iku lawan nora nganggo beda / kang wali mukmin iku. Sahingga durung pinudhut Qu'ran iku tulise teka ing ngalam donya, sabab kang minangka dadi sjanite Qu'ran iku, iya wali lawan mukmin iku bakda nabi kersane Gusti Allah Subhanahu Watangala kang nguza wajala kang wanidul konar iku lawan ngiras kinon anekseni iya wali mukmin iku marang ing sarupane ing donya iku kabeh kang ala lan kang becik kagungane Robbilngalamin. Maka kang dadi tandha lamun ngarepake entek umurming jagat ngalam donya iku bakal salin wawangunan, tegese iku
+
+# p.74
+bakal salin alam iku nora langgeng / nora ana kang nganggo kena owan2 iku kabeh sarupane iku tegese lamun angarepake ing donya bangsa Qu'ran iku pinundhut tulisan iku mulih marang ing Laukhilmakhmut wali, mukmin iku wus padha mulih kabeh marang ing suwarga tan ana kang keri ing donya iku. Maka duriyat Adam kang maksih kari ana ing donya iku kang padha ala2 bahe. Iku tegese kang padha dadi kapir laknatullah, badane iku wus padha kaya khewan iku bahe, kang minangka dadi nyawane kapir laknatullah iya iku iblis laknatullah.
+
+# p.75
+Iya iku kang dadi tandhane lamun ngarepake ing donya bangsa sarupane becik bener iku kabeh wus padha pinundhutan iku maring ing Robbulngalamin kabeh kang ana ing donya iku wus ing ngilang-aken kabeh iku maring ing Gusti Allah Subhanahu Watangala kang nguza
+
+# p.76
+wajala kang wanidul kohar iku kabeh ⊗⊗⊗ / Iku nabi, wali mukmin marma dadi saben iku telu renggane, 4 sabab nabi wali mukmin iku telu jenggar-onge sayektine iku, tunggal bahe padha agedhong kastuba ginawe wayangan zhatullah kang ghoib. Maka lahire mukatu nurullah iku dadi Kalimah Sjahadat loro iku kang dadi wijine iman mangkene rupane [^1]
+
+# p.77
+gedhe utawa cilik,/ sjin tegese sjin iku kang dadi iman hidayat tegese iman hidayat iku imane kang para wali iku olehe hidayat bisa manjing marang iman amantubillah iku ing samuse wani angrusak donyane. He tegese iku kang dadi iman makbul lawan iman taqhiyur, marma ne iku dadi iman loro, makbul lawan taqhiyur, sababe iku awang-uwung, tegese awang-uwung iku, weruh ngisor dhuwur, tegese dhuwur iku marang suwung, ngisor iku tegese marang ana. Dal, tegese Dal iku kang dadi iman mardud, tegese
+
+# p.78
+iman mardud iku kaduwe / marang sarupane kapir laknatullah, sabab tegese Dal iku donya, marma iman taqhiyur iku lamun mundur dadi mardud lamun maju dadi makbul, sabab iman loro iku wus timbangan karsa Subhanahu Watangala ginawe pungkasan, iman maksum lawan iman mardud, tegese iman maksum iku Kanjeng Nabi Adam Ngalahissalam iya iman amantubillah, iku tegese iman maksum. Tegese iman mardud iku iya iblis laknatullah iku kang pasthi imane mardud. Anapun iman kang pasthi ananira iku, nanging telu iman maksum iku kaduwe ing Kanjeng Nabi Adam Ngalahissalam, awite
+
+# p.79
+lawan sakeh / para Nabi sabab sakeh para Nabi iku padha kepanjingan nu buah kala maksih ghoib para Nabi iku wus pinasthi lamun iman maksum. Anapun iman taqhiyur iku wus pinasthi lamun kaduwe sakeh anak Adam, sabab sakeh anak Adam iku loro rancangane, kang satengah dadi isi suwarga kang
+
+## Footnotes
+[^1]: Alip iku kang dadi iman amantubillah, iku tegese iman amantubillah iku iya iman maksum, tegese maksum iku rineksa, tegese para nabi iku kala durung lahir iku wus kapanjingan iman amantubillah, iku marma adoh marang sakehe dosa
+
+## p.80
+kang satengan dadi isi naraka. Lamun iman taghiyur iku amundur marang iman mardud, wus pasthi lamun bakal dadi isi naraka anak Adam iku. Sabab iman mardud iku iblis lakmatullan kang duweni lamun maksih ana, tapi iman taghiyur bane pasthi lamun / bakdal isab anak Adam iku. Anapun iman loro makbul lawan iman nidayat iku gumantung ana ing iradaxte Robbilngalamin dhewe iman loro iku. Anapun iman taghiyur iku ngalamate lamun bakal maju marang iman makbul iku, ngantepi marang iman amantubillah iku lamun oleh pitulung, dadi oleh iman makbul lamun maju maneh iku iman hidayat, iman telu iku truntunan bahe, maksum hidayat makbul iku lahir padha iman amantubillah. Tegese iman amantubillah iku kang wus gumantung ana ing sandhuwure iman taghiyur / iku kang minangka dadalan maring iman telu iku.
+
+## p.81
+Anapun bedane nabi, wali, mukmin iku, nabi lamun rare imane wus amantubillah balegh banjur maksun, wali mukmin rarere padha iman taghiyur balegh iman amantubillah, unggahe marang iman makbul utawa iman hidayat iku, kersa Subhanahu Watangala dhewe kang manci. Anapun iman telu iku padha duwe kelakuhan dhewe, iman maksun, iman hidayat, iman makbul, sabab iman maksun iku nganggo bakda ing donya iki, bakda Kanjeng Nabi Mohammad s.m.wus m era / iku sjetan arane ☓ Mangkana maneh pangucap, aja jinabat, ingsun wus jinabat; sabao wus jinabat batine bahe iku banyu kang luwih suci jinabat sinarawedi arane, dene anggere eling telung perkara iku bahe batinira iku jinacat sinarawedi arane, nora susah nganggo banyu mundhak adhem, tura sampurna iya jinabat kang sinarawedi iku banyu kang luwih suci tur sampurna lawan nora adhem.
+
+## p.82
+Dene pangucap mangkana iku mula nyata lamun luwih suci kang ngaran jinabat sinarawedi iku, lamun tinimbang lawan sira jinabat niyat bahe kaya upama. -ane solat limang wektu / lan solat kang lima iku, nanging karo-karone iku solat lan jinabat iku mili kang dadi anggere, iya niyatira kang lahir pan sayekti lamun wus sah karo2ne iku, nanging kurang utamane bahe, dene kang aran jinabat sinarawedi iku iya kaya solat kang lima patrape kudu arep eling sira maring anggone banyu kang kaliwat sucine iku, sabab kaliwat rong siti, apadene liwat ghoibe iku ana ing sajroning baital-makmur. Maka lamun karep sira dadi tumurun maring ing ati bakda campunghe rasa iku ana ing cupu manik astagina iku kang mawa lamun nora patut
+
+## p.83
+karepira iku dadi bangat bendune Robbilngalamin sabab iku kang sinelir dhewe padha2 gadnuhanira maring subhanahu Watangala, banyu urip iku marma lamun nora nganggo tata krama dadi haram tumurune iku, tegese iku nikah lawan den eling niyat lamun anglakoni pakon sira iku, lakune wong Islam mak. Maka lamun wus weruh sira marang seling surupe kang ngaran banyu suci iku lawan pituduh ing guru. Dene patrape kang aran jinabat sinarawedi iku, lamun wus adus jinabat nuli niyat sembahyang kifarat utamane iku, utawa elingira bahe maring Robbilngalamin nuwun apura sabab lalinira
+
+## p.84
+isdhela iku jinabat / sinarawedi arane dadi kena karone, mangkana maneh bab sembahyang. Lamun wus nunggal karone kang lahir lan kang batine iku, iya sembahyang sinarawedi arane ☓ mangkana maneh pangucap wadon iku wus nora susah nganggo nikah sabab iku wus adune lamun lanang karo wadon, dadi
+
+dadi nikan batin bane kang utama, apadene pepanganan apa kang dadi karepira iku, iya becik sabab iku rupane kamurananing donya apa dhadn-emenanira anggere, nora den sereg ing wong bane, Dene pangucap mangkana iku sayekti dhasarana tuture iblis iku olene muruk, nanging dudu donya kagungane Subhanahu Watangala kang maksin ginaib. Tegese ing suwarga dene donya wus pasthi lamun nora kena sabarang ana watese, sabab donya iku dadi antarane suwarga lawan naraka; dene kang den arani nikah batin iku rong perkara, kang dhingin kala dhuriyat, kapindho panjingger roh marang badan marma dadi karepe iblis olehe muruk lanang karo wadon iku, anggere pado karepe iya iku nikah batin arane lan tan ana wawengane ghofarolahum[^1] Anapun ikilah bab pertelane wite panarima iku iman, tegese kang den arani iman iku, iman amantubillah / dudu iman taghiyur dudu tegese iman amantubillah iku, iya wus percaya ngandel maring prentane Robbilngalamin kang wus ana ing sajrone Qu'ran iku kabeh kang kinon iku. Dene lakune kang cinegah iku den singkiri dene bab ing donya wus nora ngetung begja loro pati badane iku pan wus tan ana kang liya Subhanahu Watangala, sabab badan iki tunggale[^2] padha ganjaran mangkana maneh ngalam donya iki sakisine iku ya ganjaran dene kang ginanjar sarupane isine ngalam donya iku, iya manungsa, iku kang dadi tandha begja cilaka wakasani iku kang dadi tekade manungsa / wus amantubillah tan ana liyane Allah kang den kasihi barang kang katon kang krungu iku nora liya, eloke Robbilngalamin iku paningale pangrungune wong mukmin kang hakiki, sabab sawiji sawiji iku kang lanir kang batin iku wus pasthi nora kaliya kodrat iradate Subhanamu Watangala kang wahidul kohhar. Dene kang dadi lakune ana donya iku telung perkara: sabar, sjukur, ridlo, tegese sabar iku sabar lamun katekan coba, tegese sjukur iku sjukur lamun katiban nikmat, tegese ridlo iku ridlo maring khukumu-Allah, sabab tekade wus tan ana maneh kang liya Subhanahu watangala kang wahidul kohhar, anggere nora / pisah iman bane, tegese iman iku iya prentahe Robbilngalamin kang aneng sajro ing Qu'ran, iku lahire marma dadi lakune telung perkara, sabab wus pasrah bane percaya marang subhanahu Watangala iku rupane lamun wus mantep percayane marang iman. Sabab wus tan ana prentan maneh ing saliyane Qu'ran, marma dadi wus nora kena pisan kagungane Allah Tangala kang telung perkara iku. Anadene pan minangka gendheng kang dhingin solat, kapindho zhikir, kaping telu mace Qu'ran kang dadi tandha lamun wus bisa nama manungsa kang mantep bisa nakikine rumeksa marang kagungane / Subhanahu Watangala kang telung perkara iku ana donya pasthi lamun wedi pisan lawan telung perkara iku, sabab iku afngalullah, dene Qu'ran iku ora tan kena ora ing saben dina pasthi ya den buka papane iku, sabab iku upama badan papane Qu'ran iku, me dene tulis upama rupa, dene kalimahe aksara iku upama obahe badan, dene unine Qu'ran iku iya upama urip khak Subhanahu watangala guofarolahum; marma nora kena lamun gepok papane Qu'ran iku sira lamun durung susuci amek banyu wudlu sira, kajaba ana nguzhur kang banget, sabab Qu'ran iku angsale Allah Tangala kaliwat sucine / dadi padha lamun sembahyang limang wektu iku, sabab szembahyang iku kang minangka lahire Qu'ran dadi
+
+## Footnotes
+
+[^1]: 
+[^2]:
+
+dadi Insankamil arane iku, kang minangka gedhong angdhohirake kagungane Robbilalamin kang ghoib sakehing sajrone Qu'ran iku, tegese iku Nabi Wali Mukmin. Anapun pertelane bedane Qu'ran iku lawan kitab kang padhane nurunake satus papan kalebu Qu'ran kagungane Subhanahu Watangala kang khakiki, iya Qu'ran iku kang minangka dadi babone kang satus punjul telu marma dadi keri dhewe tumurune Qu'ran iku, sabab karsa Subhananu
+
+Watangala ginawe tandha lamun wus / wos sampurna. Dene pratelane bedane Qu'ran iku lawan kitab kang satus punjul telu iku: "Bismillah, iya Bismillah iku kang wahidul kohhar marma saepet surat iku padha nganggo Bismillah Qu'ran iku,———Kang minangka pratandha ucap asmaning Subhananu Watangala wahidul kohhar marma saben2 surat iku padha nganggo Bismillah Qu'ran iku, tegese surat iku iya rupane prentahane Robbilalamin maring sarupane umat Kanjeng Nabi Mohammad s.a.w. mukmin lanang, mukmin wadon, kang wus kapanjengan iman marma dadi fardlu papan Qu'ran iku
+
+kudu den becikma sabab / derapon elinga sira lamun sakehe sawiji2 iku wite marma dadi aksara Qu'ran iku nganggo ngedhe, melike, dawa, cendhak, kandel, tipis iku, tandha rupane Maluk iku kabe, apadene darajate suwiji2 iku dawa, cendhak iku marang umur kandel tipis iku maring dosa, tasjid iku maring lore pati iku tandha lamun nora kena sakehe sawiji2 iku wus pasthi lamun dalan pati utawa rusak sarupane maluk ing donya iku kabe marma poma aja lali sira maring Qu'ran iku ing saben2 dina
+
+sabab Qu'ran iku kang minangka dadi zhohire sjahadat marma / tan nyata rupane sjahadat iku sabab iku wijine ngelmu iku kabe, maka tinandur wijin dadi nora katon rupane wiji iku bareng cukul dadi nanging wite kang katon lawan wohe lan rasane sjahadat iku, wite marma dadi wit sjahadat iku, solat, kang dadi wone sjahadat iku zhikrir, kang dadi rasane sjahadat iku Qu'ran, nanging telu iku kang nyata rupane uwit, woh, rasa, iku kang katon dhingin paningale lamun uwite iya solat limang wektu iku rupane wite ngelmu, dene wone zhikir Kalimah Toyibah iku rupane wohe ngelmu dene rasane Qu'ran iku kang / minangka rasane ngelmu
+
+rupane sabab rasa iku iman, tegese iman iku prentahe Qu'ran marma dadi nora kena lamun den arani ana loro rupane rasa lan wit, wiji lan uwone, wus pasthi lamun iku padha rupane. Dene kumpule iku ana Insankamil jenggerenge iku minangka zhohire sifafulan dene panggawene Insankamil iku, pan minangka zhohire afngalullah, dene prentahe Insankamil iku, pan minangka zhonire zhatullah, iku tegese Kanjeng Nabi Mohammad rosulullan s.a.w. kang ngaran Insan-kamil iku minangka dadi zhohire
+
+sifat ngelmu kabe, mangkana maneh / jenggerenge badane mukmin iku lan papaning Qu'ran iku sayekti lamun loro ana nora loro, siji nora siji, papaning Qu'ran lan badane mukmin iku marma dadi sarupane mukmin nora kena pisan lan papane Qu'ran, iku sabab papane Qu'ran iku pan minangka badaning iman, dene sabarang prentahe ing sajrone Qu'ran iku sabab wus ngalih dadi badanira iku kang minangka papaning Qu'ran, sabab sarupaning Qu'ran, sabab sarupane wawacane solat iku nora ana kang liya Qu'ran tumeka ing sampurnane solat, tegese zhikir Kalimah / Toyibah tumeke
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 19374, 'chunks': 1, 'response_chars': 23526, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': '```markdown "There is no god but **Allah**, **Allah** is the greatest." All things are judged by their essence;; spirit; life; Furthermore, the explanation of Islam, except for wha...'}]}
+status: Success
+end_time: 2026-03-28 16:01:59
+==================================================

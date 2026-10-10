@@ -1,0 +1,119 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0082.txt', 'IMGe_2026-26-01-10-17-53-50-0083.txt', 'IMGe_2026-26-01-10-17-53-50-0084.txt', 'IMGe_2026-26-01-10-17-53-50-0085.txt', 'IMGe_2026-26-01-10-17-53-50-0086.txt', 'IMGe_2026-26-01-10-17-53-50-0087.txt']
+start_time: 2026-03-28 16:02:20
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+sarupane laknat kapir kang padha wus tan bisa eling iku kabeh. Ikulah zhalil nasa ing Qu'ran kang minangka dadi uger2re paningalira sarupane zhuriyat Adam kang padha Islam kari ana ing donya kabeh iku maring ing Gusti Allan Subhanamu Watangala kang nguza wajalla kang wahidul kohhar iku zhalile: "Mirojal bahraini yaltaqyani bainaha birri zakho la yabqhoyan." He, eling2 sarupane zhuriyat Adam kang padha Islam kari ana ing donya, iya maring dalil naso ing Qu'ran iku gawenmen ugering paningalira ana ing donya iku kabeh, bedane kholiq lawan mahlug iku pomaz padha den angati-ati Islam kabeh sira, tegese kholiq iku kaya upamane banyu segara, mahlug iku kaya upamane banyu qodla bokya apa2 lamun qodla iku bisaha padha lawan sagara nanging wening qodlo iku lamun den arani segara iku, nanging lamun wus tempur banyu qodlo iku lawan banyu segara iku dadi hilang aran karone iku qodlo lawan segara iku dadi siji arane sawangan lan banyune rasane iku, ya wus salini ana rasane banyune iku, mangkana manen mahlug iku wawenange hilang karane mahlug iku lawan arane kholiq dudu kala sembahyang, sadhela iku ing takbiratulihron,
+
+Maka lamun wus bakda iku dadi bali mahlug maneh arane iku, hilange arane mahlug babar pisan iku, lamun wus banjur mati sajrone takbirotulihron iku, mangkana maneh hilange banyu qodlo iku rasane babar pisan iku lamun wus banjur ing marang ing sagara, maka iya sagara iku kang dadi upamane zhatullan qodlo iku kang dadi upamane afngalullah, sabab marmane sagara iku ing ngupamakake zhatullan iku. Cahya rasa jerone lan tan awah2 banyu segara iku, beninge lawan tan karuwan segara iku kang minangka dadi sirahe. Maka marmane sarupane qodlo iku ing ngupamakake afngullan iku sabab sarupane qodlo iku karuhan kang dadi upama sirahe lawan ageng kasiyate buthek beninge sarupane qodlo iku kang minangka dadi afngale maka gedhene banyu qodlo iku sabab dene kawuwuhan ing banyu udan. Maka lamun gedne banyu qodlo iku wus pasthi lamun bobot banyu gedhe iline sarupane qodlo iku kabeh, maka hilange sarupane banyu qodlo iku kabeh ageng kasiyate iku marang ing segara.
+
+Maka ing sawuse manjing ing segara sarupane banyu iku kabeh dadi hilang rupane banyu qodlo iku nanging segara kang katon rupane banyune iku kabeh, iya iku marmane banyu segara iku ing ngupamakake zhatullan sabab nora wuwuh2 banyu segara iku, sabab dene kawuwuhan ing sarupane banyu qodlo iku apadene ing sarupane banyu udan iku kabeh lawan nora bisa asat2 banyu segara iku, sabab lamun nora kajogan ing banyu qodlo iku lawan banyu udan, dene kang dadi tandha agung sudane banyu segara iku wening eruh, tegese erun iku iya iku angin nanging angin iku karsane Gusti Allan Subhanahu "atangala kang ngaza wajalla kang wahidul kohhar iku bisa ngobahake marang ing banyu segara, nanging kang sayekti banyu segara iku wus nora bisa owan2 ing sajrone segara iku, dene orah kang katon gedhe cilik, sabab obane banyu segara iku katut dening angin iku sayektine, nanging jaba bahe iya angin iku kang minangka dadi nafsune ing sagara iku, dadi kaliwat elok padna2 kagungane Robbilngalamin kang ana ing donya, tur kena ginawe iya segara iku sanajan turu iku pan lumaku dhewe kang dningin solat jum'ah
+
+jum'ah, kapindho solat khaji, kaping telu solat wustho, kaping pat solat da'im, kaping lima solat ismu ngazhim. Dene solat jum'ah iku ing lisan zhonire pangucap, tegese pangucap nora ana karsa kang haq iku kang minangka dadi niyate solat jum'ah, sabab pangucap iku zhonire golamullah. Solat haji iku ing karna zohonire pangrungu, tegese pangrungu iku paliwarane lan tusama wakhaq sabarang karungu ala becik iku pasthi nora liya kodrate Subhanahu Watangala / iku kang minangka niyate solat haji pan nora ucul lawan haq. Solat wustho iku ing niyatira dnonire paningal, tegese paningal iku paliwarane sifat haq sabarang katon iku ala becik, nora liya kaben iku pasthi lamun afngale kang haq iku kang minangka niyate solat wustho, wus nora ucul lawan paningal haq. Solat da'im iku anggerana zhohire nafas, tegese nafas iku paliwarane sifat hajatu haq, iku pakumpulan sakehe ngrasa, isine, pangrungune, rasane, paningale, ala, becik kaben iku kumpule marang nafas2 iku olene napeni marang sakehe rasa iku ala becik iku nora liya iku kodim / naku pitune marang Gupermen iku. Dene minangka bapaita iku, Residhen Sumiser arane, nanging wektu iku ana kang dadi sabab Ngabdul Hamid sira. Marma dadi ana pitulunge Gusti Allah Subhanahu Watangala kang wanidul kohhar Ngabdulhamid marang sira. Kala Tegalreja karepira iku Ngabdulhamid rebut bener sira lawan Danureja, dene Danureja iku. Lamun den nompa kena sadulurira bener padha den cekeli prentah marang Gupermen iku nanging senajan. Padha den cekeli cekelana / prentah ika Danureja iku, Ngabdulhamid pan sayekti lamun maksih tuwa sira. Sabab kang den cekelake marang Danureja iku prentah / he, Patih kang den cekelake maring sira parentah keraton. Lamun den nampa makana abdinira Danureja iku bener, sabab yekti dningin iku dadine wit teka sira. Maka ing wektu iku Ngabdulhamid, Danureja iku wus akeh temen lupute marang sira. Dadi nora wekasan ratan kang dadi perkara iku bahe dene kang dadi karepira rebut bener sira lawan Danureja iku. Lamun den paeluha sira maring Bapakira kang ngaran Residhen Sumiser iku, mastni lamun duwe panjaluk sira. Dene kang bakal sira jaluk marang Sumiser iku, nanging ilange Danureja iku bane sabab agawe susan salawase. Danureja iku / kaping pat zakat ing saben bakda Romadlon, kang lima munggah haji maring Mekkah iku. Anapun tegese sjanadat iku wus angestokake lamun Allah iku nora loro lan Kanjeng Nabi Mohamad iku utusane Allah bakda Nabi Mohammad pan wus tan ana nabi maneh2 kang ing ngutus pratakake prentahe Gusti Allah Subhanahu Watangala kang sabenere marang sarupane anak Adam kang ana donya kang minangka ngamale sjanadat iku perang sabilullah ana donya lawan laknatullah wus nora ngeman marang wutuhe getine ana donya setan kapir laknatullah iku minangka / kurungane setan2 iku satrune Nabi kang angrusuhi marang prentahe Allah marang sarupane anak Adam kang maksih ana donya iku, tandha lamun wong Islam kang sabenere cukule sjanadat. Anapun tegese solat iku antepe prentah solat pardlu limang wektu iku, tandha zhonire zhatullah kang ghoib kang minangka ngamale, solat iku ana donya lakune sabar. Anapun tegese puasa iku anglakoni prentahe Subhanahu Watangala pardlu ing telung puluh dina sasi Romadlon kang minangka
+
+## Footnotes
+[^1]: This appears to be a footnote marker in the original text
+[^2]: This appears to be a footnote marker in the original text
+[^3]: This appears to be a footnote marker in the original text
+[^4]: This appears to be a footnote marker in the original text
+[^5]: This appears to be a footnote marker in the original text
+[^6]: This appears to be a footnote marker in the original text
+[^7]: This appears to be a footnote marker in the original text
+[^8]: This appears to be a footnote marker in the original text
+[^9]: This appears to be a footnote marker in the original text
+[^10]: This appears to be a footnote marker in the original text
+[^11]: This appears to be a footnote marker in the original text
+[^12]: This appears to be a footnote marker in the original text
+
+minangka dadi ngamale ana donya iku, nora nuruti sabarang kang dadi karepe hewani[^1]. Anapun tege se zakat iku angresikmi niya-mte ing saben 2 bakda puwasa pardlu ing sasi Romadlon kang minangka dadi ngamale ana donya iku angasgrake dirine maring sapadhene islam lumaku lungguh ngucap lamun marang sapapadhane Islam wus pasthi lamun den sorhake dhirine dhewe, nanging lamun lawan laknatullah wus pasthi lamun nora gelem kasaring sathithik bane iku rupane wong Islam kang sabenere[^2]. Anapun tege se Haji iku anekake badane marang Mekkan sabab iku prentahe Subhanahu Watangala lawan haq iku sampurnane kang aran pikukuh ing islam
+
+limang perkara, nanging bab Haji ckunana pangudang telu / perkara kang dhingin pangudaring Nabi, kapindho pangudanging Malaekat, kaping telu pangudanging ngiblis lakmatullah. Tege se lamun haji oleh pangudanging Nabi iku tekaning Mekah lawan mulihe padha bane oleh ngantepi prentahe Islam kalakuhane, iya iku kang wong sampurna Isla me. Dene kang minangka dadi ngamale ana donya iku, sjukur lan karana Allah sabarang polane terusing zohir batin. Anapun naji kang oleh pangudang Malaekat iku, tegese bareng bakda haji mati ana Mekah utawa ana dalan durung teka Mekah,
+
+mati iku pan wus padna bahe / sampurnane ugere kasdume niyate nanging babasan zohire bahe kang ana beda2ne. Anapun haji kang oleh pangudanging ngiblis iku tege se teka ing Mekan sawuse mulih marang ing Negarane dewe banjur banget tekabure, sabab pangrasane wus sampurna awake, nora ana kang nimbangi kajaba kang sapadhane haji. Dene wus kelakon prentane Robbilngalamin ingkang pardlu pikukuhing Islam limang perkara iku, dene kang minangka dadi ngamale ana donya nanging dadi marjane iku dadi rusak sabarang agamane Insja Allah uga lamun mangkana tekade, iya iku
+
+rupane / iblis kang tetela dadi manungsa, rupane setan maknowiya arane, sabab iku bakal nenulari tuture maring wong kang nora reksa imane. Ya iku rupane lembut-lembute kagungane Subhanahu Watangala kang ana donya tur kadim nora kena owan loro iku. Tege se iman lan setan, iman iku zohireng ngelmu setan iku, zohiring ngakal[^3]. Pemut fidlobabehimpun fakir Ngabdul -namid wonten keraton kadospaten muju dinten malem Jum'ah Wage bakda rotib wulan Muharom tanggal kaping wolu ing tamun Be, Alip Kulawu kang lumampah[^4]. Sareng balegn / Kitna Tegalarja yuswa kawan dasa langkung satunggal kinarsakake dhateng Gusti Allah kang wanidul kohhar dados pangiriding perang sabilullah ing Tanah Jawa dadoso Khalifah Kanjeng Rosulullah pinaring preparab: "Ingiang Simuhun Kanjeng Sultan Ngabdul hamid Gherucakra Akhirulmukminin Panatagama Khalifah Kanjeng Nabi Moh-mammad s.m. ing Tanah Jawa?" awiting perang ing Tegalarja wulan
+
+Dulhijjah, Tahun Be[^5] +[^6] / iku niyate adus tulak bilahi ing sasi Sofar dina Rabo Wekasan: "Jawatu gmalal K lidakhlosi tulak libal-aitu sunatan lillahi Tangala," Iru niyate sembahyang Rebo Wekasan,
+
+## Footnotes
+
+[^1]: X
+[^2]: X
+[^3]: A
+[^4]: X
+[^5]: X
+[^6]: A
+
+p.142.  
+"Usolli tangatan tulak libalaitu arbanga rokangatin makmumal lillahi Tangala, allohu akbar," ☓ Iki pujine sujud / rukuk: "Subhana sjadidul mihal, subhana sjadmidul ngawan," Iki zimat kang den umbe:
+
+> سلام قول من رب الرحيم و سلام على منوح في الحامدين و سلام علي ابراهيم و سلام علي مالك يوم الدين و سلام علي نوئس في لرسليين و سلام علي اليناس علي اليناس للرسلين و سلام علي الصالحين للرسلين و سلام علي نوئس في لرسليين و سلام علي صود للرسلين و سلام علي موسى و هارون و سلام علي ملائكة على ملائكة العرشين و سلام علي ملائكة لعمراء علي الايامين و مارين
+
+p.143.  
+Ing ngalam donya iku iya ing ngalam donya iku rupane naroka wel maka nora ana ing saliyane Kanjeng Nabi Adam Ngalaihissalam iku kang minangka dadi wijine ing sarupane kang sifat manungsa iku kabeh, maka sarupane kang padha sifat manungsa iku kabeh wetune maring ing donya iku iya ing donya iku kang ngaranan naroko wel mulane ingaranan naroko wel ing ngalam donya iku, sabab nanging ginawe pandadaran marang iman sadhela bahe. Tegese kang ngaran iman iku, iya iku Kanjeng Nabi Adam lawan iblis iku tinandhingake karsane Gusti Allah Subhanahu Watangala kang nguza wajalla kang wahidul kohhar iku lawan karsa nyatakake ningali marang
+
+p.144.  
+kagungane / sifat kang patang perkara iku, jalal, jamal, kohhar, kamal, marmane dadi rasaning naroko wel iku, iya iku mohire Kanjeng Nabi Adam khalifatullah ngalaihissalam iku tinandhingake lawan iblis laknatullah ana ing ngalam donya, tegese ngalam donya iku, ngalam leburan iku maka marmane Kanjeng Nabi Adam Ngalaihissalam kalakon nandhang wirang kena ing babendu iku. Banjur tinurunake teka ing suwarga marang ing naroko wel iku sabab dene olehe dhahar woning khulfdi ing suwarga iku, iya iku kang bakal dadi wijine sarupane risqi ing ngalam donya iku kabeh. Maka
+
+p.145.  
+wus winelaran Kanjeng Nabi Adam iku /  
+Bismillahir-rahmanirohim albab anapu ikilah bab pratelane kegungane Gusti Allah Subhanahu Watangala kang ngaza wajalla kang wahidul kohhar, kang ing ngarananm ngalam iku ora ana liyane qu'ran, iya qu'ran iku kang ing ngaranan maju mukhith sabab Qu'ran iku kalamullah karsane Gusti Allah Subhanahu watangala kang nguza wajalla kang wahidul kohhar qu'ran iku ginawe / iman, tegese iman iku ginawe panggagaren prentahe nobbil-
+
+p.146.  
+ngalamin ing donya teka ing ngakherat pisan kang bener kang luput kang ala kang becik kang beja kang cilaka ing donya tumeka ing ngaknerat pisan iku kabeh ing Qu'ran kang dadi anggere prentane nobbilngalamin kang awal, kang akir, kang dhonir, kang batin, tumeka ing kiyamat pisan iku pan wus tan ana kersane Gusti Allah Subhanahu Watangala kang nguza wajalla / kang wahidul kohhar prentan saliyane qu'ran iku marma dadi
+
+p.147.  
+nora kena ginopek utawa winaca Qu'ran iku lamun durung ngamek banyu wulu suci, sabab Qu'ran iku wijine teka kaliwat sucine tan kamomoran iya Qu'ran iku dhonire ing zhatullah, kang ghoib karsane Nabbilingalamin Qu'ran iku ginawe srengenge ing ngalam kabir. Tegese ngalam kabir iku, iya iku atine manungsa ingkang telung perkara iku, iya iku tegese, Nabi, Wali, mukmin, marma dadi padhang ngalame Nabi, Wali, mukmin iku wus tan kena samar
+
+samar marang sabarang kagungane Subhanahu Watangala paningale ing donya tumeka ing ngakerat pisan marmane sarupane nora kapanjangan Qur'an iku wus pasthi lamm peteng ngalame iku,// dadi nora weruh marang ing kagungane Hobbilingalamin ing sabarang kang endana sarupane iku kabeh, wus sayekti lamm padha bawur paningale ing donya tumeka ing ngakerat pisan kang padha dhengere iku kagungane Subhanahu Watangala iku nanging patang perkara: sandhang, pangan, lorō, kapenak, iku dadi bangsa kewan iku kang selamet, kang ala, bangsa iblis iku. Anapun kagungane Gusti Allah Subhanahu Watangala kang nguza wajalla kang wahidul kohhar. Kitab iku satus punjul papat, tegese aran Kitab iku, iya iku iman, yegese iman iku iya iku prentahe Hobbilingalamin marang sarupane zhuriyat Adam. Maka Kanjeng Nabi Adam khalifatullah ngalainissalam iku kang minangka wijine marang sarupane / kang padha sifat manungsa tinurunaken teka ing suwarga marang ing ngalam donya iku dadi nabi kang awal iku pinaringan Kitab sapuluh, Kanjeng Nabi Sjis ngalainissalam iku pinaringan Kitab seket, Kanjeng Nabi Idris ngalainissalam iku pinaringan telung puluh Kitab, Kanjeng Nabi Ibrahim kholilullah ngalainissalam iku pinaringan sapuluh Kitab[^1], Kanjeng Nabi Musa kalamullah ngalainissalam iku pinaringan sawiji Kitab iku nama Toret, Kanjeng Nabi Dawud kholifawul ardhi ngalainissalam iku pinaringan sawiji Kitab iku namanā Zabur, Kanjeng Nabi Ngisa ruhullah ibnu marjam ngalainissalam iku pinaringan sawiji Kitab iku nama injil, Kanjeng Nabi M / Mohammad khaibullah salallohu ngalainissalam kang kang mustafa iku minangka panutup sakahe para nabi tumurun maring ing ngalam donya iku jaman akir, arane dadi nama Kanjeng nabi iku, Nabi akir jaman kang awal kang akir kang dhohir kang batin iku wus sayekti lamm nora ana loro ing donya ngakerat sabab badaru ngalam Kanjeng Nabi iku pinaringan Kitab sawiji iku nama Kitab Qur'an. Iya kitab Qur'an iku wijina-ne Kitab kang satus punjul telu iku. Kitab satus punjul telu iku temurun marang ing ngalam donya teka ing lamhil manfudh kabeh iku, malaekat Jabarail ngalainissalam kang ing ngutus maringake marang para Nabi kang padha pinaringan Kitab iku marna dadi / Kitab satus punjul telu iku, lamun winaca utawa ginepok nganggo susuci iku, nanging utama bahe, sabab wus inaken bahe lan nganggo lantaran tumurune kabeh iku lauknil manfudh iku maring ing ngalam donya, iya malaekat Jobarail ngalainissalam kang ing ngutus maring Gusti Allah Subhananu Watangala kang ngaza wajalla kang wahidul kohhar. Anapun tumurune Kitab Qur'an iku teka ing laukhil mahfudh marang ing ngalam donya iku marang Kanjeng Nabi Mohammad solalluho ngalaihi wassalam iku nora nganggo lantaran malaekat dadi wus kalāmullah, balik marmane dadi kham lamm gepok utawa maca iku maring Qur'an / lamm durung suci badane iku, maka Qur'an iku telung puluh jus, telung puluh jus iku kang minangka dadi wijine sarupane Kitab satus punjul telu iku, dene kang minangka dadi wijine Kitab Qur'an iku, iya iku fatekah kang minangka dadi wijine patekah iku, iya Bismillan kang minangka dadi wijine Bismillah iku be ning Bismillah. Anapun be ning Bismillah iku karsane Gusti Allan Subhanahu Watangala kang ngaza wajalla kang wahidul kohhar kang minangka dadi wijine sarupane kagungane ngelmune hobbilingalamin
+
+## Footnotes
+
+[^1]: Note regarding the text about Kanjeng Nabi Ibrahim kholilullah ngalainissalam iku pinaringan sapuluh Kitab.
+
+Robbilingalamin iku kabeh kang ana donya tumeka ing ngakerat pisan iya be ning Bismillah iku / kang ing ngaran muqot ghoib, maka ing zohoiraken muqot ghoib iku ing ngaranan muqot nurullah iya muqot nurullah iku mim ming Bismillah, iya mim ming Bismillah iku kang minangka dadi wewadah marang ing sarupane kagungane subhanahu Watangala iku kabeh, lan minangka dadi wijine marang sarupane kang sifat mauluq iku kabeh kang ana donya lan kang ana ngakerat, iku nora liya kang dadi wijine ayamu nurullah, tege se m nurullah iku iya iku Kanjeng Nabi kita Mohammad salallahu ngalaihi wassalam nanging maksih ghoib sabarang m iku, tege se maksih ghoib iku mapan durung pratela rupane m iku ing sawiji2ne apadene lan arane m iku kabeh. Maka dhohir sabarang m iku kabeh pratelane rupane kang sawiji2ne m apadene lan arane kang sawiji2ne iku sakehe m sarupane kang ana ing donya lan sarupane kang ana ing ngakerat iku, metu teka ing pangandikane Gusti Allah Subhanahu Watangala kang ngaza wajalla kang wahidul kohhar ing dalil naso ing Qu'ran iku kum fayakun, maka dadi banjur nyata ing sawiji2he m iku kabeh kang ana ing donya, apadene sarupane m kang wus pastai dadi perabat ing ngakerat iku kabeh wus banjur sampurna tan ana kang kurang sarupane m iku ing donya tumeka ing ngakerat / pisan sabarang perabat tege se lafaz Allah kang ana ing Bismillah iku, iya iku Alif mutakalimu wahid iya alifing Bismillah iku kang dadi lafaz Allah iku iya iku Allohuwa-sjaiun mukhit, lafaz Allah ing Bismillah iku nanging ginawe ing pasabutan bane Alif mutakalimu wahid ing Bismillah iku sabab iku nanging kang den pasthi anane kang mohalaken ngadame sabab wus tan kena lamun kinoya ngapa iya Alif mutakalimu wahid ing Bismillah iku nora aran enggon nora kantha nora warna, nora anak2 lawan nora inganak-anakaken jumeneng iku lawan kersane dnewe agung iku lawan nora winuwunan dhu hur iku, nora / ktungkulan, lan mulya iku nora lawan sinebut iku elok nora lawan ginolekan dadi barang sakersane iku lawan nora kasereng iku tur ahad wahid, urip nora mati langgeng nora owah kuwasa nora lawan perabot iya Alif sjaiun muhit, iku anat wahid anging ghofur, sifate alif mutakalim wahid iku iya iku Allahuwa sjaiun muhit, tege se Allah huwa sjaiun muhit, iku wus muhit, muhit, ing donya tumeka ing ngakerat iku nora nyata kaya sarupane mahlug mangkana kholiq iku nanging muhit, ing donya tumeka ing ngakerat pisan. Maka alif mutakalimu wahid ing Bismillah iku kang minangka wewayangane / alif mutakalimu wahid ing Bismillah iku Alif tamasur arane iku, iya iku dhohire lafaz Allah ing Bismillah. Lafaz Allah ing Bismillah iku, iya iku kang minangka wewayangane sifat ing zhat kang wajibul wujud, tege se iku Kanjeng Nabi Adam kholifatullah ngalainhissalam iya iku dhohire sifate Alif temasur ing Bismillah iku lafaz Allah, iya lafaz iku kang minangka wijine maring sarupane kang sifate manus a kabeh, iya iku Kanjeng Nabi Adam kholifatullah ngalainhissalam kang minangka wijine sarupane kang sifat manungsa iku kang minangka wewayangane ing sifatullah kang ghoib ing ngakeni gegenti Kanjeng Nabi Adam ngalainhissalam / iku maring Gusti Allah Subhanahu Watangala kang ngaza wajalla kang wahidul kohhar. Maka alif ing Bismillah iku dadi nanging telu kang dhohir sifate sabab *alif*
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 19893, 'chunks': 1, 'response_chars': 21646, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': "```english All those cursed ones who have lost their sense of awareness are indeed lost. This is the clear evidence from the **Qur'an** that serves as the guiding principle for all..."}]}
+status: Success
+end_time: 2026-03-28 16:02:42
+==================================================

@@ -1,0 +1,147 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0064.txt', 'IMGe_2026-26-01-10-17-53-50-0065.txt', 'IMGe_2026-26-01-10-17-53-50-0066.txt', 'IMGe_2026-26-01-10-17-53-50-0067.txt', 'IMGe_2026-26-01-10-17-53-50-0068.txt', 'IMGe_2026-26-01-10-17-53-50-0069.txt']
+start_time: 2026-03-28 16:01:03
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+## p.27
+baitullah, lamun wus angrasa tutug lakune nafasira iku, maka nuli wetokna dalan irung / maneh nafasira iku den alon. Lamun wus kothong nuli seroten maneh dalan tutuk panyerotira iku, unggaheña marang baital makmur nafasira iku, turuna maring baitullah, kaya kang dhingin mahu lakune banjur maring tufig, banjur mulin maring baital makmur maneh, iku bali ping telu, dene lakune padha bahe lawan kang dhingin. Iku lebune teka tutug wetune, teka ngirung nafas iku, lamun bali maring baital makmur maning wetokena nafasira, dalan ngirung lamun wus angrasa aso napasitra iku, nuli angkatna maneh seroten napasira iku, unggaña marang
+
+## p.28
+baital makmur maning wetokna napasira iku dalan ngirung. Lamun wus / angrasa aso napasira iku, nuli angkatna maneh seroten napasira iku manegh, lamun wus teka baitul makmur, nuli turuna maring noqota ghoiba napasira iku. Dene bab lebu wetune napasira iku, iya kaya kang dhingin mahu. Lamun metu teka ngirung, lamun malebu teka cangkem iku, bali ping telu nuli banjur nuqot ghoib iku marang balung ngadibunda nabi iku, ya bali ping telu dene lakune nafasira iku, ya nora beda kaya kang mahu, nanging beda lamun wus ganep ping telu nafas iku ana ing bolung ngadibunda nabi
+
+## p.29
+iku, nuli niyat amaratahake marang sar- / -upane dandanan kang dhohir iki kabeh, aja ana kasi kaliwat den patut jaba jerone. Lamun wus tutug lakune nafasira iku, nuli welokena den alon den aja kesusu2, iku dalan tutugk. Sabab iku wus bangsa jenggireng gho farlahum. Maka lamun wus tutug sakehe dra jate zhikir iku kabeh, nuli ambal enana maca isfiqnar ping telung puluh, salawat ping telung puluh sujud taqorub, tanginira sujud banjur amacaha munajat, munajat macaha surat ikhlas ping telung puluh telu, falaq ping telu, binas ping telu, patekah ping telu, iku niyat angaturi ruruba marang gurunira kang dhingin lan gurune gurunira kabeh lawan
+
+/sawuse
+
+## p.30
+sujuda mangkene lafazne: "He guru, kawula lan gurune / lan gurune guru kawula sadaya. Kula ngaturake ganjarane salawat kawula duateng sampeyan ka lan puji zhikir kawula dhateng sampeyan mugi katur ing Allah lan ing rosulullah lan mugi sampeyan apeungana panut buri kawula dhateng sampeyan ing dunya dhateng ngahirat pisan, lan mugi angsal pitulunganing Allah lan pambaning Allah, nuli tangi teka sujud maca patekah, nuli sujud maneh iku, niyata marub marang sahabat papat lan para sanabat kabeh,"dene lafazhe iya kaya marang gurunira, mangkana sawuse tangi teka sujud maca fatekah maneh iku, niyata ruruba marang Kangjeng Rosul-ullah, sujud kaping telu iku mangkene niyate: "Ya Khabibullah, Ya
+
+## p.31
+Mohammad Rosulallah /
+
+Maka sawuse sampurna sakene darajate iku kabeh lamun ana sihing Allah Subhanahu Watangala maring sira tandha maksih angrasa kangen sira marang Robbil Ngalamin, durung tutug trisnan-ira iku, maksih cuwa, nuli napakna zhikir maneh iku kang nora nganggo winilang lan nora susan nganggo tata krama maneh, apa kang dadi saseneng-ira dhewe, nanging nora tan kena ara iku, kudu amiliha lafazhe / ana
+
+## p.32
+ing karsa
+
+## Footnotes
+[^1]: /sawuse
+
+[^1] ana ing karsa iku, ing nyatane urip iku ana ing karsa, nyatane karsa iku ana ing ngurip, nyatane urip iku ana ing rasa, nyatane rasa ana ing sukma, nyatane sukma iku, ana sarira, tegese sarira iku iya iku manungsa, kang ngaran manungsa iku raya, wong kang wus tan kena pegat elinge maring ing Pangerane, iya iku manusa kang tumeka ing sajatine, manungsa, iya iku kang wus pinaringan wahyu marang ing Robbulngalamin iman sagara batine iku, kang anglimputi marang sagara kang lahir iku kabeh, iya iku imane
+
+p.33. manungsa kang wus sampurna iku kang den ampamakake kaya / tuwa iku ing pasanetane ing zhatullah, iku bakda nabi zhuriyat Adam iku kang maka leres ana ing donya kang minangka dadi pasanetane zhatullah iku iya iku wali mukmin iku, yen dadi siji iku tan siji loro, iku pan tan roro wali lawan mukmin iku mapan minangka lahir ing zhat kang wajibul wujud iya wali lawan mukmin iku, pan ingaken menika dadi wewayanganing sifatullah iku. Khaqiqi iya wali lawan mukmin iku, ika teges lamun wali mukmin ingaken wawayengane Gusti Allah Subhanahu Watangala kang ngaza wajala kang washi dul kohar iku nyatane / nging karya badan wadnak lan kang ngalus tegese badhan wadnaq iku jisim, tegese badan alus iku pitung perkara, pangucap, pangambu, pangrungu, paningal, dadi maksih lumaku salat batin iku. Ana pan salat batin papat iku kang menang dhingin iku; pangucap2 iku, ngumpul marang pangrungu2, maring ngumpul maring paningal2, maning ngumpul maring pangambu2, iku tegese napasira iku panggonane pakumpulan sakehe kang alus iku, lamun wus tata napas iku, banjur ngumpul maring iman2, banjur marang zhat, iya iku kang ngaran ngakerat, dene jisim kang k
+
+p.34. idul kohar iku nyatane / nging karya badan wadnak lan kang ngalus tegese badhan wadnaq iku jisim, tegese badan alus iku pitung perkara, pangucap, pangambu, pangrungu, paningal, dadi maksih lumaku salat batin iku. Ana pan salat batin papat iku kang menang dhingin iku; pangucap2 iku, ngumpul marang pangrungu2, maring ngumpul maring paningal2, maning ngumpul maring pangambu2, iku tegese napasira iku panggonane pakumpulan sakehe kang alus iku, lamun wus tata napas iku, banjur ngumpul maring iman2, banjur marang zhat, iya iku kang ngaran ngakerat, dene jisim kang k
+
+p.35. keri iku donya ahazane, marma dadi tandha lamun ngalam / donya iku bakal kena rusak sabab jisim iku panganggo rusak lahira, sabab karo iku karsa Subhanahu Watangala ginawe kenyatahan lamun barang nganggo rusak saliyane znat kang wajibul wujud, tegese barang iku kang ginawe tandha lamun kuwasa sa kabeh dene wekasane iku iya munggal badan wadhaq iku, lan kang alus sabab balung mujabanda nabi iku, mangkana maneh ngalam donya lawan ngalam ngakherat iku iya ngumpul wekasane iku lamun bakda bangas iku tekade manungsa kang wus tumeka marang ing Insan Kamil, tegese
+
+p.36. iku nabi, wali, mukmin, kang hak kang wus / oleh iman amanutabillah sabab sabarang iku pastni wewayangan bane dene tabiyate kaben iku wus pasthi lamun tan pisah lawan kang dhuwe wewayangan, sabarang lamun wus bakda bangas kumpule kabeh iku sarupane suwiji2 marang kang dhuwe wewayangan dhe we2, marma sebute nanging: " Ina kama wa inna ilaini rogingun", iku lamun sembahyang sebute imame iku rupane lamun wus oleh iman dmane tabillah wallahu aklam bisawabi ghofarolahum. Anapun ikilah pratelane islam kang maksih iman tagyurud najan ngalima sugiha kitab
+
+p.37. lawan nora towong sembanyange / lamun maksih kaling-alinganana, paningale, pangrungune lawan nora nora angarah-arah pangucape iku sayekti, lamun maksih mangeran loro wong Islam kang mangkana iku, sabab kang den andel-aken nanging bakdal, isab bahe anggere sjahadat lan sembah-yang puwasa wus pasthi lamun bakdal hisab sabab wus ana donya, lamun nora oleh lawan kang kuwasa ana donya, dadi rusak ngibadane lawan lamun angarani Quran iku, iya anyar bahe, sabab Qu'ran iku anane lawan ginawe kang sayekti nora ana
+
+## Footnotes
+
+[^1]: kamil, ma- banyus
+
+[^2]: amantu billah
+
+nora ana bedane Qu'ran iku lawan kitab kang ngakeh kuwe olehe den arani kodim iku, sabab lamun gepak Qu'ran iku nora kena lamun nora anganggo wudlu iku, sangking durung sumurup atine dhewe bahe den wedeni den arani iman, Qu'ran kuwe sajatine kang ngaran iman iku iya nanging karepe dhewe. Ana satengahing wong Islam ngucap dene bab Qu'ran iku, nora anyar, nora kodim, lamun pangucap mangkana iku, maksih satengan bane, sabab maksih wedi, mamang, atine melu ngaranan anyar, wedi maring prentah kitab, sabab sarupane kitab iku padha anyebut lamun Qu'ran iku
+
+wijine. Arep melu ngarani kodim sabab nyata Qu'ran iku dadine lawan ginawe lan sajekti lamun durung weruh ing seling surupe marang kang dadi tekade Qu'ran iku anyar lawan kodim iku. Rupane lamun maksih imane, nanging iman *taghiyur*, iya iku rupane sabab maksih mangeran loro, kang dhingin tekade lamun wong iman *ngakherat* iku, wedi luput, karone, olena ing donya, *pangarit* nanging lamun wong mangkana iku lamun mora oleh jaluk pitulung Subhanamu Watangala dadi kapirentekad kang mangkana iku. Donya
+
+mangsa oleha *pangarit* pan kaliwat ampe lamun nekat manggung mamang marang ngelmune iku. Dene kang dadi saeab was-wase iku, iya iku iblis sabab sajati kang dadi tandha lamun iman, nanging iku lamun bakal oleh pitulung barang ngelmu lamun peteng atine nora susah, anuli tatakon marang pandhita kang wus dman billahi lamun isin manawa den arani bodho iya iku, kang dadi tandha lamun wus kena maring ngiblis, iman *taghiyur* iku, sabab kang den andelake nanging oleh netepi sembahyang kang limang wektu bahe, lawan taghbir, sabab iku janjine kitab mawon, tanapi sabarang dosa pasthi lamun den apura, nora weruh lamun dadi wong munafiq, lamun iman *taghiyur* iku, mangkana tekade wekasane iku, olen pitulung pasthi banjur
+
+geburo iman *taghiyur* iku maring pandhita kang wus olen iman amantubillah, sabab iman amantubillah iku awite iya iman *taghiyur*. Dene pangucaping wong kang wus anekadhake marang anyarang Qu'ran iku, wus pasthi lamun lahir batin ngiblis kang katon wus kang mankana iku. Wus ilang imane kabedhang marang eg'aethan iku, Bakal gagawa marma kholil iku, lamun den wetokena getihe insja'Allan iku uga Anapun tegese iman amantubillah iku, Nabi, wali mukmin, tegese iman *taghiyur* iku, mukmin fasiq mukmin
+
+/fasiq, lamun oleh pitulung maring Robbil'Ngalamin, dadi munggan maring mukmin khos, mukmin khos lamun munggan maneh iku dadi mukmin Ngan, mukmin Ngam iku lamun oleh pitulung munggah maneh dadi mukmin khowasil khos, iku tegese para wali kang ngaran khowasil khos iku, lamun mukmin khos bahe teka ing mukmin Ngan iku, imane iman makbul arane, lamun wus munggan marang mukmin khawasil khos iku imane iman hidayat arane Anapun imane kang para nabi iku, iman maksum arane, iman telu iku iya padha iman amantubillah uwite, ikilan ru-pane ing panawang nabsi alif. iku nabi imane maksum ajire Alif. Iku wali imane hidayat jabari'Alif
+
+iku, mukmin imane makbul. Tegese iman maksum iku kang wus rineksa, tegese iman hidayat iku kang wus tinurutan, tegese iman makbul iku kang katrima Anapun tegese iman *taghajur* iku, imane wong fasiq, wong fasiq iku, tegese oken kang den kuwatiri apadene kang den kepengini lamun kebanjur wong
+
+### p.44
+
+wong Islam fasiq iku dadi wong Islam munafiq iku wus ilang imane taghajur, iku dadi salin iman mardud arane, tegese / iman mardud iku, iman kang wus katulak, iya imane lakmatullah, sabab wong Islam kang wus manjing dadi wong munafiq iku, wus kebandhang marang kafir laknatullah. Kafir laknatullah iku wus kahandhang marang iblis laknatullah anguzubillahi minha. He ngabdul Hamid poma[^2], aja suka atinira marang Qu'ran iku ing sathithik bahe den eling sira lamun wus nyata Qu'ran iku laniire ing iman kang ghoib. Qu'ran iku wus sayekti lamun kalamullah, kang dadi jenggeronging Qu'ran iku marma dadi jujuluk bahelmukhit, Qu'ran iku. Sabab Qu'ran iku pan ginawe tandha wewa yanging aname nginu muknit. He
+
+### p.45
+
+ngabdul Hamid denebirah[^2], he ing sajrone Qu'ran iku pan wus tan kena kinaya ngapa, dene kang katon iku aksarane lawan papane jus surate lawan barang perabetea Qu'ran iku wus temudun lamun anane jagat iki kabeh, pan wus pastni lamun Qu'ran iku tan kakurangan kang minangka wadhane Qu'ran iku, jus telung puluh kang minangka rupane Qu'ran iku, surate satus sepuluh lima. He ngabdul Hamid jus surate Qu'ran iku kumpule ana ing surat patekah, marma dadi kurang siji2 welangane jus surate Qu'ran iku
+
+### p.46
+
+sabab patekah iku surat / ngiras surat iya Patekah iku kang minangka wijine Qu'ran. Iku kabeh marma dadi adege solat iku lawan Patekah. Ora ngadeg Solat iku lamun ora lawan Patekah kang minangka wijine, Patekah iku ana ing Bismillah, iya Bismillah iku kang minangka dadi wijine sarupane ngelmu kagungane Robbulngalamin. Aksarane Patekah iku satus rong puluh lima, lawan Bismillah ayate pitu utawa wokalu Patekah. Allah kang ana Bismillah iku rong puluh kang minangka wijine, Bismillah iku iya bening: tegese bening Bismillah iku, iya iku naqtu ghoib, maka lahir
+
+### p.47
+
+naqtu ghoib iku ana ing miming Bismillah; tegese mim ming / Bismillah iku, iya iku nuqot nurullah. Nuqot nurullah iku iya iku Kanjeng Nabi Mohamad s.m. nugotulghoi[^1] iku Malaikat Jobarail mangiring. Maka kumpul nuqot ghoib iku lan noktu nurullah. Maka dadi jenggoronge iku aran nuqot ghoib iku lan noktu nurullah. Maka dadi jenggoronge iku aran Qu'ran marma nora kena Qu'ran iku lamun den aranana anyar sabab noqtu ghoib iku wijine lan noqtu nurullah iku qodim, nora anyar marma dadi ing ngaran iman Qu'ran iku, sabab iku kaang dadi tandha anane Kanjeng Nabi Mohamad s.a.w lan Malaikat Jobarail Qu'ran Anapun sine2 Bismillahi iku, iya iku kang minangka gedhong maring Subhanahu Watangala
+
+### p.48
+
+ana donya tegese / tumurun maneh iman maksun iku maring donya, dadi manging kari loro iman kang kiasih ana ing donya maring Robbilngalamin. Iman hidayat lawan Iman makbul iku teka ing kiyamah, pisan iman loro iku. Anapun iman maksun iku olene ora tumurun maneh maring donya, sabab wus ginagantenan Qu'ran, iya Qu'ran iku rupane iman maksun hidayat makbul iku, wus ngumpul dadi siji kang memper kalakuane iman maksun iku, iman makbul sabarang karepe makbul iku lantaran donya hidayat orantara, ikilah rupa
+
+### p.49
+
+-ane wijine / tunggal iman kang telu aksane asjin iman telu iku tunggal ana ing sjin iku dadi wawayanganing alif. Aksarehe iku awang2, awang2 iku tegese loro ngisor dhuwur kang dhuweni, he iku iman taghiyur kang ana dhuwure, he iku iman amantubillah, kang ana ngisare, he iku iman mardud iman
+
+## Footnotes
+
+[^1]: 
+[^2]:
+
+# Text Transcription
+
+iman mardud iku, iku metu teka aksara dal, tegese dal iku donya, tegese donya iku rusak wekasane, sabab sakehe anak Adam kang manut marang iblis laknatullah, iku bakal padha rusak wekasane kekal ing naraka. Iki rupane kang dadi wijine iman kabeh, iku lafazhe *asjhadu* tegese sjin iku wus kumpul lawan Alif, marma ora kena lamun iblis iku perak, tegese lan dal iku maksin pardudon wallonu aklam ghofarolahum. Bab iman iku wijine aksara sjahadat papat iku "He Ngabdul Hamid, anapun lafazhe sjahadat iki:" Asjmadu an la ilaha illallah wa asjhadu anna Mohamadar-rosulallah." Maka lahire kaliman loro iku dadi sifat loro astaghnak lan aftakor, tegese astaghnak iku:"La ilaha illallah", aftaqariku iku: "Monamad rosulullah", maka lahir sifat astagmnak dene marma sifat kang moknalling Allah sawelas: wujud, kidam, baqok, mokhalafatu lilkhawa-ditsi, waqiyamu binafsihi, samingan, basiron, kalam, samingan, basiran, mutakalimu, sifat astaqor iku lahir maring sifat kang mokhaling Allah iku sanga; kodrot, irodat, ngalam, khajat, kodiran, mridan, ngaliman, khajan, wandaniyat, iku dadi sifat kang mokhaling Allah rong puluh. Maka dene sipat rong puluh dadi sifat papat iku pangjinge marang isim zhat: Ikilah rupane Hu.jalla lahu, sifatu nafsihi, tegese wujud, lan achir khamala lahu sifat salbiah, iku tegese kodam bakok mukhalafatu lilkhawaditsi wa kiyamu binafsihi wahdaniah lam awal kohar walahu, sifat mangani, tegese iku kodrat, irodat, ngalim, khajat, samingan, basiran, kallam Alif / kamala lahu sifat maknowiyah, tegese iku kodiran muridan, ngaliman, khajan, samingan, basiran, mutakalima He Ngabdul Hamid lahire isim zhat iku dadi aji sindhung arane, ikilah rupane: "Ingsun sindhung aliwengan liwang-liwung, ingsun ana ing kene agung, ingsun sugih kuwasaningsun wasesaningsun sampurnaningsun, jumenengana ing pulo kencana, angrajoni sakehe roh ingkang dumadi kabeh rohing geni rohing angin, rohing banyu, rohing bumi, rohing wesi, rohing nabi, rohing wali, rohing mukmin, roning malaekat, roning ngejin, roning setan, roning / srengenge, rohing buana kabeh sujud kukud sakehe kang dumadi kabeh ingsun Ratu Agung ana ing dhadhaning manungsa. Ingsun Ratu kang minangka wawayanganing zhatullah la jalallahu illallah la kamaluluh millallah. Ingsun Ratu Agung ana ing keratoningsun dnewe, pagerbata wasesa alawang Ratu sugihane nabi, Ratu agung kancinge Ratu sampurna, mangamini ing dheweke tan ana kari la ilaha illallah monamad-durrasulullah Ingsun sindhung sewu si jaran panolen ingsun sipat jalal anuli ana ing sira manungsa apa pangawasaning angraga sukma ingsun sindhung sewu si jaran / panoleh ingsun sipat jamal, anuli ana ing rasane manungsa apapanguwasaningsun nora katon, katon Allah amurba misesa ing dharat ing gunung ing barat ora pisah, ora kumpul ingsun lawan Allah Ingsun sindhung sewu andaduti Allah Tangala sipat kohar-ullah kang ana guwa garbaningsun, sipat kamalullah den lungguhi rasa-ning sun dening Allah, den lungguni sajatiningsun dening Allah apa Allah sarira ingsun, salah rupa salah warna, warna putih, kuning, ijo, abang, ireng, dadi sewu sajatiningsun sadha Ingsun sindhung aliwungan si sindhung / pepetana babananira kang nawa sanga iku lan kumpulena sakehe pancodriyanira iku kabeh den dadi siji, lamun wus kumpul panca-driyanira
+
+## p.56.
+
+pancadriyanira iku den kongsi aja ana krasa nuli ciptanen aji sindhung iku, endi kang sira karepakeden waspada marang ing kuthane dewe2 utawa kumpule kabeh aji sindhung iku kang minangka soroge aliya mijile murasa hidayalullan saring urip kanghak. Anapun lakune aji sindhung iku telung perkara kang dhingin arep angreksa marang papanganan kang rong perkara iku, tegese kharam, makrun iku den eling poma2 / aja kasi kal-ebon sira, kapindho jina, mamutnik, dadi dhukun iku den eling sira, kaping telu sabar iku kang dadi lakune aji sindhung maka lamun wus den paringi kelar anglakoni sira marang kobbilalamin laku kang telung perkara iku, mangkene anggepera alungguhira iku puji paningalira iku sjahadat tekadira mangkene siruhu tegese sirullah ora duwe rasa ingsun anging lawan rasaning Allah zhatuhu zhatullah tegese ora duwe kuwasa ing-sun anging lawan kuwasaning Allah Hidayatuhu / kang dadi kulambi ingsun iya jalalullah, siliwung kang dadi makuthaningsun, iya si jamalullan sajatiningsun, kang dadi payungingsun iya kohharullah, sindhung liwung dadi buta, iya kamalullah, asiung rosulullah, kang tangan kang kiwa sakehe kang para Nabi kang dadi siung ingsun kang kiwa angemut jagat peramudipa sun emut dadi sapulukan la ilana illallah Muhamadarosulullah Anapun aji sindhung okeh rupane, nanging iku kang perlu bane lawan dudu pangucape kewala kang ngucap mangkana iku, iya iku kang duwe pangucap nak ing sjahadat, maka lamun / karep sira maring wetune aji sindhung iku den waspada maring pernahe dalan kang patang perkara iku, kang dhingin napas, kapindho tan napas, kaping telu anapas, kaping pat nupus, kaping lima janggeringing wujud iku, ana pernahe dewe2 ikilah rupane dhaeran aji sindhung sabab jangkrunge ing minangka jagat ngalam kabir anapun aji sindhung kang patang perkara iku, minangka ratu ana ing kedhatone dewe2, maka lamun karep sira maring ing wetune aji Sindhung iku suwunen marang Subhananu watangala kang wanidul konhar kang sarta /hidayatullah, tegese ora duwe ingsun anging lawan karsaning Allah, darojatunu darajatullah, tegese ora duwe aran ingsun anging lawan asman-ing allah znat kang wajibul wujud iku, lamun wus manthuk tuknidu abra-sabarang kang dadi panuwunira marang Gusti Allah subhanahu watangala kang wahidulkonhar insja allah tinurutan uga tamat.
+
+Mastni sekhidul lazhi fiq arbanga biliawallah aklam bisawabi ghofarolahum Anapun pertelane anaq Adam iku kang aran wong iku canggrange, dene kang aran manu-/-ngsa iku pangucape, kang aran sukma iku panggawene, kang aran ron iku ngilmune kang aran urip iku tekade anapun anaq Adam kang wus hilang donya iku, kang aran khewan iku jenggoronge, kang den isur iku pangucape, kang den arani bodho m iku polane, kang aran setan iku iqadle, kang aran mati iku tekade, walillahu aklam
+
+## p.59.
+
+Anapun ikilah niyate solat ati:" Usoli ananingsun zhalullah Allahu Akbar," Ikilah niyate solate sukma;"Usali langgeng urip zhatullah saring urip Allahu Akbar," Anapun ikilah niyate solate ron: " Usali daim annal hak, la hak, wala nak, la midid angin illallah allanu akbar" ikilah niyate solate urip: " Usali uripingsun zhatullah anna huwal hak, anna hua
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 19970, 'chunks': 1, 'response_chars': 23555, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': '```markdown ## p.27 **Baitullah**, when you feel your breath cycle is complete, gently exhale through your nostrils. When empty, inhale again through your mouth, sending your breat...'}]}
+status: Success
+end_time: 2026-03-28 16:01:32
+==================================================
