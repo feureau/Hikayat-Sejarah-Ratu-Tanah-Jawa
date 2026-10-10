@@ -1,0 +1,9 @@
+==================== Processing Log ====================
+input_filepaths: ['IMG_0040.jpg', 'IMG_0041.jpg', 'IMG_0042.jpg', 'IMG_0043.jpg', 'IMG_0044.jpg', 'IMG_0045.jpg', 'IMG_0046.jpg', 'IMG_0047.jpg', 'IMG_0048.jpg', 'IMG_0049.jpg', 'IMG_0050.jpg', 'IMG_0051.jpg', 'IMG_0052.jpg']
+start_time: 2026-02-23 01:42:49
+engine: google
+model_name: models/gemini-flash-latest
+prompt_sent: transcribe. give me only the transcription in the original javanese font. no commentary.
+status: Success
+end_time: 2026-02-23 01:46:23
+==================================================
