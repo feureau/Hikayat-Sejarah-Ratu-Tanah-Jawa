@@ -1,0 +1,83 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0055.txt', 'IMGe_2026-26-01-10-17-53-50-0056.txt', 'IMGe_2026-26-01-10-17-53-50-0057.txt']
+start_time: 2026-03-28 15:48:47
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+peputra Kyai Ageng Nis, kyai Ageng Nis iku peputra kyai Ageng Mentaram. Kyai Ageng Mentaram iku peputra Kangjeng Panembahan Senopati Ngalaga ing Mantaram. Yaiku awitnya jumeneng kapisan turune Lembupeteng Bondhan Kejawan ana ing Mantaram, ajejuluk Kangjeng Pamenanan Senopati Ngalaga Mangkurat Tanah Jawa ing Mataram kadatonnya, lan kaliwat kuwat aprang ing Tanah Jawa. Marmane dadi ing Tanah Jawa, dadi siji karaton iku. Kangjeng Sulthan Mantaram peprarabnya Kangjeng Sulthan Seda Krapyak. Kangjeng Sulthan Seda Krapyak iku peputra Kangjeng Sulthan ngabdulrahman, peprarabnya Sulthan Agung. Kangjeng Sulthan Agung iku Ratu kang wus sampurna Islame, sabab kang wus ametepi rukun kang lima iku. Nanging kedhatone Kangjeng Sulthan Agung iku ngalih teka ing ngaranan Kutha Gedhe Mantaram ing iya maksih Mantaram, iku mulya peputra Sunan Mangkurat. Kangjeng Sunan Mangkurat iku. Kangjeng Sunan Mangkurat kedhatonnya ngalih pleret iku, iya maksih Mantaram; Peprarabnya Kangjeng Sunan Tegalarum, sabab olene seda Kangjeng Sunan, karsane siumare ana ing Tegalarum bahe, iku mulya peputra lorox Kangjeng Sunan Tegalarum iku, kang sepuh nama Sunan Mangkurat, kang anom nama sinuwun Mangkubuwana kadhatonnya ngalin teka ing Tanah Mentaram iku. Ing Tanan Pajang, Kartasura arane, nanging kang raka kangjeng sunan mangkurat iku, nora jumeneng turune, kang jumeneng eng ing Kartasura iku, turune kang raya Kangjeng Sinuwun Mangkubuwana iku, Kangjeng Sinuwun Prabu. Kangjeng Sinuwun Prabu iku loro putrane, yaiku kang jumeneng dadi loro Kraton ing Tanah Jawa iku, Pajang lawan Mantaram. nanging kraton Pajang iku ngalih teka ing Kartasura, kedhaton Pajang iku, Surakarta arane. Dene kraton ing Tanah Mantaram iku, ya ngalih Ngayogyakarta arane, lan namine Ratu loro iku, ya wus padha bahe padhe Mangkubuwana sabanjure, nanging kang bedha iku wiwitane bahe, ing Pajang nama Sunan, ing Mantaram nama Sulthan. Iku awitnya rusak ing Tanah Jawa, sabab kapir wus melu masesa sarupane Tanah Jawa, padha sabar iku saparone ing Tanah Jawa iku ginadhun den aturaken pametune marang kang jumeneng Ratu ing Pajang lawan Mantaram, kang saparone kang jumeneng Ratu bumi Jawa iku den para padha, rasane kaduwe ing Ratu loro. Iku akale kapir lakmatullah. Ngajeng Mantaram katedha Pagelen, mancanagari pagunungan marmane dadi saya akeh laliyane wong Jawa maring ing Agamane ing wektu iku. Awite tan kim cinatur niskarrane, nanging kersane kang nulis kang cinatur. nanging kraton Tanah Mentaram ing Ngayogyakarta bae, Kangjeng Sulthan Mengkubuwana kang jumeneng ing Ngayogyakarta kapisan iku pepraraban Kangjeng Sulthan Prakosa. Iku peputra nora owah2, naman iya padha Kangjeng Sulthan Mangkubuwana, nanging peprarabna iku kang beda2 Kangjeng Sulthan Mangkubuwana kapindho iku pepraraban Kangjeng Sulthan Mangun tapa. Kangjeng Sulthan Mangun Tapa iku peputra Sulthan Mangkubuwana kaping telu, paparaban Kangjeng Sulthan Raja. Kangjeng Sulthan Kaja iku peputra Kangjeng Sulthan Mangkubuwana kaping pat, pepraraban Kangjeng Sulthan seda Pesiya, marmane mangko iku sabab kasun/-dhulan kersane Gusti Allah Suhhanahu Watangala, ing Tanah Jawa kang
+
+## Footnotes
+[^1]: Dutch divide and # Rule Jacobs
+
+kang den kersakaken prang sabil lawan kapir laknatullah kang den kersakake dening Gusthi Allah Subhanahu Watangala jumeneng dadi Khalifah Rosulallah s.a.w. pangirid prang sabilullah iku kang raka putrane Kang-jeng Sinuwun Sulthan Raja kang sepuh dhewe nama: Sinuwun Sulthan Ngabdul Khamid Eruca kra Kabirul Mukminin Panatagama Khalifan Kangjeng Nabi Monamad Rosulullah Sollallohu Ngalaihi wasalam, ing Tanah Jawa Senopati Ngalaga prang sabilullah. Maka ing wektu iku perang2 kapir laknatullah kang jedhit lamun campuh prang lawan wong Islam. Nanging wong Islam lamun campuh prang selamet terkadhang kang Matu bane tan ana, nanging akeh wong Islam kang sahid, kenane iya malah pirang2 jinis kapir murtad kang den tokhake mring Tanah Jawa, suruhane Walonda arang kang bisa mulih mring negarane dhewe2 maneh, akeh kang padha mati neng tanah lan pirang2 tandha asih pitulung nging Gusthi Allah Suhhanahu Watangala marang wong Islam. Dene wekasane ghaib wallahu / 'alam bissawab.
+
+tanggal ping telu likur sasi Romadhon, tahun Jim, hijrah Nabi sewu kalih atus seket tiga, hijrah Jawi sewu pitung atus suwidak lima Anapun hikayat ing Tanah Jawa ing sawuse Islam awit Demak saprene iku, nora kena lamun gingobar ginawe crita wayang iku, mapan kharam sabab wus Islam marang ing Tanah Jawa iku kajaba cinarita-kake ing tulis bae lamun ginambar ginawe rerupan kaya kala maksih Buda ikux ing Tanah Jawa pan wus nora kena, utawa padha ginambar ginawe crita wayang wong Islam iku mapan haram, sabab Kangjeng Nabi Mohammad Rosulullah Sallallahu Ngalai wasalam iku wus tan kena, tegese printane Iman, dene kang aran 'iman iku,prentah kang ana ing sajroning Qu'ran pan wus nora kena lamun Islam ginawe crita wayang lan rerupan, insja Allah, uga sabab isine Tanah Jawa kala Demak saprene iku, nanging telung perkara, manungsa, iblis, hewan iku.
+
+Anapun hikayat ing Tanah Jawa kala maksih / Buda, kang dadi wekasan ikux ing Majapahit kang dadi carita iku wayang kayu kang ginawe. Iku wayang Klithik arane, awit ing Majapahit Jumeka ing Pajajaran kang wekasan iku kang dadi crita ing Tanah Jawa kang padha ginawe lelepdhan marang sarupane wong ing Tanah Jawa, getdhe, cilik, ala, becik kang dadi wekasan beja utawa kang dadi wekasan cilaka, iku kang padha tiniru maring sarupane wong Jawa kabeh iku.
+
+Anapun hikayat awit ing Pajajaran iku tumeka ing Jenggala kang dadi crita iku wayang wqlulang kang ginawe, dene arane iku wayang Getdhog kang crita pan tan beda karyanira Panadaran sakeh jalma iku. Maka ing awitira Jenggala awit Resi Gethayd tumeka Sang Prabu Suwela Cala, iya iku Sang Yang Sindhula, kang ginawe crita iku, wayang tinulis ing daluwang kaya gambar mangkana, dene arane wayang Purwa Beber iku,arane sabab purwa-ne ana jalma ing Tanah Jawa iku Kangjeng Sulthan ing Rum iku, iya padha agama Srani, sabab manut Kangjeng Sulthan Rum, / dene
+
+## Footnotes
+[^1]: 30 Ramadhan
+[^2]: p. 170
+[^3]: p.173
+[^4]: p.172
+
+Maka sarupane wong Ngerum iku bareng ana ing Tanah Jawa dadi padha salin agamane iku, sabab manut marang Ratune, Ratu Sindula iku mapan Buda agamane, dene kang dadi pasebutane agama Buda iku nanging laku Dewa Bathara, ya wong ing Rum iku kang dadi wijine jalma ing Tanah Jawa kongsi saprene marma dadi wayang Purwa, Beber arane, sabab dadi wiji sarupane jalma ing Tanah Jawa wong ing Rum kasi saprene iku. Maka awit sang Yang sindhula iku kasi tumeka ing ngalam antara iku, kang dadi crita wayang Walulang kang ginawe. Dene arane iku iya wayang purwa, nanging iku wayang Purwa ning Dewa ngalami ngalam antara, iku kang tinut ginawe pasebutan marang sarupane wong ing Tanah Jawa kang den arani Agama Buda ing Tanah Jawa, awit ing ngalam antara kang dadi wekasan ing Majapahit agamane Buda, wong ing Tanah Jawa iku. Titi tamat ingkang sejarah Ratu ing Tanah Jawa, Apadene dadi wijine sarupane wong ing Tanah Jawa iku.[^1]
+
+Sejarahe insja'Allah, uga iku nora liya wallahu 'alam bissawab ghofarolahum allahu ya ghofur[^2]. Ikilah tamat duk nurun buku sejarah Ratu Jawa ing malem nebo, wanci jam sanga, wulan kaping gangsal, ing sasi lulkaidah, tahun Jim, hijratunabiywli s.a.w. sewu kalih atus seket tiga Hijrah, Jawi sewu pitung atus sawidak lima, Tinulis ing Makasar.
+
+## Footnotes
+
+[^1]: p.175.
+
+[^2]: Riho 9 p.m.  
+    5 Dulkarjodah  
+    Jim 1765.
+
+[^3]: Beginning of Islam  
+    in Java (Pemak)
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 7464, 'chunks': 1, 'response_chars': 8763, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': '```markdown **Kyai Ageng Nis** was the son of **Kyai Ageng Mentaram**. **Kyai Ageng Mentaram** was the son of **Kangjeng Panembahan Senopati Ngalaga ing Mantaram**. This marks the ...'}]}
+status: Success
+end_time: 2026-03-28 15:48:57
+==================================================

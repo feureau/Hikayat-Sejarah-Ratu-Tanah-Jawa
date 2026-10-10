@@ -1,0 +1,127 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0043.txt', 'IMGe_2026-26-01-10-17-53-50-0044.txt', 'IMGe_2026-26-01-10-17-53-50-0045.txt', 'IMGe_2026-26-01-10-17-53-50-0046.txt', 'IMGe_2026-26-01-10-17-53-50-0047.txt', 'IMGe_2026-26-01-10-17-53-50-0048.txt']
+start_time: 2026-03-28 15:47:52
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+sira nadhahi sira Wasesa, anging kalah lawan sira." Ngandika nateng Jenggala: "Lamun kang ngabdi palastra sinten Gusti ngeladasana ?" mangkana dadya sangsaya bendunira Ratu Galun iku, meh lumepas Jayacapa cinandhak mring Sang Yang Sindula, lawan aris ngandika Sang Ratu Sindula mring kang wayah Prabu Rara: "Wus nini sira selehna iku ta gendhewanira, ya iku lakinira kang aran Mas Tanpa una, wus paya mulin marang pura." Putu Prabu mreneha, gya majeng nateng Jenggala lajeng kinathi kalinya mring kang Yang Ratu Sindhula, sagung ingkang Waragana samya mudhun sangking kudanya. maka banjur Nata Sindhula iku kundur mring pura lan kang wayah karonira, inggiring gung Waragana, nging Satma lan Satmi, manawa manawi iku catur kang dherek manjing jro pura, sagung buyut lan Dipatya kantun Pagelaran /
+
+Maka banjur miyos Sang Yang Sindhula lan kang wayah Sang Prabu Banjaransari iku maring myang jim Seluman kabeh tinimbalan iku pan wus padha teka dadya kumpul jalma jim Seluman kasalin pepeak iku. Kabeh ana ing Galuh negara dadi lewat dhingin aryane ing Galuh iku, apadene kang Waragana wolung pulun punjul papat mapan tetep dadi isining kenva pura kabeh iku. Maka kang tetep dadi Pepatihira iku, karsane Ratu Sindhula Kyai Satma, ingkang wayah Prabu Banjaransari iku pinaringan nama mring kang eyang nata Sindhula: "Sang Prabu Gusti Haji Jayabaya" sineksen sagung Ratu2 nulya munya jumegur ingkang gegana, iya iku kang pratandha tunggal ratu ing Tanah Jawa. Ing samusnya prentah Sang Yang Ratu Sindhula banjur musna kundur maring ketdhatonnya ing Guwa Terusan iku. Maka ing sawuse kondur Sang Yang Ratu Sindhula iku, Gusti Haji Jayabaya banjur luar sineba / sakeh Ratu2 jim Seluman kasaleh iku, wus kalilan mulih mring kahyane sowan2. Nanging Ratu Gagawati lawan Ratu Ragawati iku bali ana ngisare Ratu Angin2, dene pasebane kabeh iku mring Galuh kaya dhingin pendhak Garebeg bahe jim Seluman kasaleh iku.
+
+Anapun hikayat sakehe jalma ing Tanah Jawa bang wetan iku sakehe kang para Bupati ing wektu iku kang tinut prentahira haja Kalungkung ing Bali, lawan Lipati Jayaningrat ing Belambangan iku kang tunggu negara. Ing Jenggala samusne Sang Prabu Banjaransari iku; maka ing wektu iku ngrungu warta Raja Kalungkung lamuh ing bang kulon, ana negari anyar kaliwat getdhene apadene baguse lan arjane, nanging kang jumeneng Ratu iku wus misuwur lamun Prabu ing Jenggala. Banjur rembugan Raja Kalungkung iku lan sakene kang para Dipati, lamun padha mokalake yen Sang Prabu Jenggala kang jumeneng iku, sabab wus kawarta lamun wus seda iku. Maka dadi padha rembug sakene para Lipati lamun linurugan nagara ing Segalun iku, nanging Dipati Jayaningrat kang maksih setengan rembuge. Mangkana Sang Pra-bu Gusti haji Jayabaya iku mapan sanga pepek sakene pra Dipati bang kulon. Ki Satma kang mungging ngarsa, dene anakira Ki Satma kang tuwa iku pinaringan nama Prabu Sangkan lan prentah marang sakene pra Dipati ing bang kulon, kabeh iku. Maka kersane Gusti Haji Jayabaya, Prabu sangkan iku ing ngutus animbali marang sarupane bupati ing bang wetan kabeh, nanging tan linilan
+
+linilan Prabu Sangkan iku ingngaturan lamun kapranga lan tan kalilan gawa bala nanging padha Bupati bahe patang puluh iku padha jaranana bahe mangkata sadina kiyi. Ki wus prentan Sang Nata banjur luar sineba iku, Maka Prabu Sangkan banjur mangkat lawan ing ngiring Bupati patang puluh iku, pada jaranan bahe ing Jenggala kang den seja iku. Mangkana ing Jenggala, "aja Kalungkung iku pinuju pepak sakehe Bupati ing bang wetan iku kabeh padha tata2 bakal kang lurug marang negara Segaluh. Nanging Dipati Jayaningrat iku kang meksa durung ngumpul rembuge iku, Maka kesaru praptanira Prabu Sangkan iku, banjur temu lawan Raja Kalungkung dhinawuhan Raja Kalungkung iku lamun den timbali maring Galuh saka / kancane Bupati iku kabeh. Banjur napsu Raja Kalungkung iku natang jurit.
+
+Prabu Sangkan iku nora wang2 lan Raja Kalungkung iku banjur tantang2--ngan bahe banjur mundur Prabu Sangkan lawan mojar: "Lamun nyata lanang, heh Kalungkung nututana sira iku." Maka banjur nembang tengara Raja Kalungkung iku dhasar wus sumekta, banjur budhal teka ing Jenggala tan petung kene kang bahe. Nanging Dipati Jayaningrat iku kang kemba ing lampahira, mangkana pan wus tan winarna niskara kalaning marga. Mangkana ingkang winarna Sang Nata Galuh sineba, Dipati Satma ngarsa durung ngandika, kasan Prabu Sangkan praptanira myang Dipati kawan dasa, banjur katur gung niskara, miyos Gusti Haji Jayabaya, mangkana aris ngandikax marang Ki Patih satma: "Heh bapa lan pretana marang sakeh wong Galuh padha aja na rubiru Bapa." Dimekne iku prapta si Kalungkung sakancanire: Ki Patih matur sandika, Sang Nata luar sineba, Satma prentah nulya marang sarupane wong ing Galuh iku. Maka nora antara lama prapta--nira sakehe gung Dipatya ing Jenggala pepak niskara lan rusuh samarga2.
+
+## p.132
+Raja Kalungkung parentahnya nging wong Galuh iku / padha
+
+SaIma sumingkir kewala. Mangkana mapan meh prapta ing negara Segaluh, nulya utusan Sri Maranata sakeh jim kinon nyripungana mring sagung kang pra Dipatya kabeh iku, kang teka saka Jenggala nging Jayaningrat bahe lewatana Manawa Manawi iku sira angirida maring sakehe jim. Kalih matur sandika, nulya mangkat sing ng-arsa wus tan winarna iku. Maka kang winarna sagung wadya ing Jenggala iku ana tata masanggrahan aneng sajaban pura anggenteni marang wetune wong Galuh iku, mapan lawan kasukan tan sah drawina. Mangkang geng jim praptanya ngirid Manawi Manawa wurahan umyung kang suwara dadya geger sagung jalma tambuh2 kang den ungsiya bingung giris miyarsa suwara, Raja Kalungkung anulya rinujag maring jim samya, kaliwat ing rosanira pan kontal sakeh jim samya, manawi lan manawa tulung jeglung nulya tan rubuh kontal pribadya, lamun wikana kang rupa kadya lebur kang jim.
+
+## p.135
+iku ingamuk Raja Kalungkung iku. Maka Ratuning jim iku /
+
+ingerikaken badannya iku, den srimpung sukumira mapan sagung Dipatya myang Mantri wus padha kena simimpungan, pan samya nging Jayaningrat pribadya iku kang tan pinusara, gya rawun sing Jayabaya, jumeneng ing ngajengira Sang Raja Kalungkung lan ingiring sagung ingkang Waragana wolung puluh papat iku. Maka Sang Jayaningrat iku wus
+
+- 41 -
+
+iku wus tan samar ing tyasira, yen nyata Nateng Jenggala iku banjur nangis anungkemi padha. Mangkana sagung Dipatya pan samya nangis sadaya lan tobat nuwun apura tanapi Kalungkung Raja, pan sangat denny a karuna lan tobat nuwun apura. Mangkana anulya Nata ngatag manawi manawa kabe h kinon ngurana iku. Maka ing sawuse ucul kabe h iku Raja Kalungkung iku nulya nungkemi pada karuna kabe h iku lir supena. Mangkana wus tan winarna sagung ingkang niskara saniskara ambujeng menggaling kandha pan wus kinon manthuk samya Bupati bang wetan, iku ing Galuh kaliwat arja ing wektu iku jumenengira Gusti Kaji Jayabaya ing Galuh keratonira /
+
+## p. 136
+
+Anapun hikayat Ratu Galuh iku, Gusti Haji Jayabaya, Ratu Suprabawati iku wus tetep dadi garwane, Waragana wolung puluh papat iku wus dadi isi pura iku. Maka wus lawas Gusti Haji Jayabaya iku olehe jumeneng Nata negara Galuh, Ratu Suprabawati iku wus peputra loro, kang sepuh Wanadya pinaringan nama mring kang rama, Kangjeng Ratu Pagetdhongan, kang rayi priya kinarya Pangeran Dipati iku nama Gusti Haji Dipa. Dene sakeh Waragana iya wus peputra jalu putri iku ana kang dadi Dewa Waragana ana kang maksin dadi manungsa iku. Maka ana ajar kaliwat gentur ing tapanira iku ing Gunung Padhang peratapanira agar iku. Gusti Haji Jayabaya tetedhak maring Gunung Padhang lan kang putra Ratu Pagedhongan iku, nuli rawuh Gusti Haji Jayabaya iku ing Gunung Padhang lan kang putra Ratu Pagedhongan iku.
+
+## p. 137
+
+Pagedhongan iku. Maka nulya ngadhep Kyai Ajar iku, ing sawuse tata lenggah iku nulya angaturi suguh iku rupane suguhe gadhung kanji kembang melathi, kembang saruni, kunir, juwatdhah, indhang brancuh suguhe Kyai Ajar iku. Maka dadi bendu Gusti Haji Jayabaya iku, maka nulya narik curiga banjur linarih an Kyai Hajar iku, banjub mati, nulya kondur Gusti Haji Jayabaya iku, teka Gunung Padhang lan kang putra Kangjeng Ratu Pagetdhongan, sarawuhe iku, banjur matur mring kang rama Kangjeng Ratu Pagetdhongan iku; "Sabab punapapun Ajar, panduka telasi punika?" Maka mesem Gusti Haji Jayabaya lan aris angandika: "Sabab si Ajar marma ingsun pateni iku wus dadi karepe dhe we mangkana iku. Sabab suguhe si Ajar maring ingsun iku, brancuh rupa nem perkara iku pasemon ing tembe turun ingsun, ing Tanah Jawa, ana lelakon nem perkara iku."
+
+Anapun hikayat Ratu Pagetdhongan iku, wadat tan kersa krama, lewat genture tapanira Ratu Pagetdhongan iku, sasedane kang rama Gusti Haji Jayabaya karsane kang eyang Ratu sindhula iku kang wayah Ratu Pagetdhongan iku kinon ngadhaton ing Sagara kidul, Ratu Angin2 iku kang dadi Patihe prentah maring sakehe lelembut kabe h iku. Maka kang jumeneng ing Galuh iku kang rayi Gusti Haji Dipa dadi Ratu sakehe jalma ing Tanah Jawa iku. Dadi maremkali ing Tanah Jawa iku, Gusti Haji Dipa iku wus peputra Prabu Naradipa, Prabu Naradipa iku peputra Prabu Jayadarma, Prabu Jayadarma iku peputra Prabu Mundhingwangi, Prabu Mundhingwangi iku.... Tamat hikayat Nagara ing Galuh wallanu 'alam bissawab ghofarolahun allahu ya nubbi ya Ghofur'.
+
+## p. 138
+
+naji Jayabaya karsane kang eyang Ratu sindhula iku kang wayah Ratu Pagetdhongan iku kinon ngadhaton ing Sagara kidul, Ratu Angin2 iku kang dadi Patihe prentah maring sakehe lelembut kabe h iku. Maka kang jumeneng ing Galuh iku kang rayi Gusti Haji Dipa dadi Ratu sakehe jalma ing Tanah Jawa iku. Dadi maremkali ing Tanah Jawa iku, Gusti Haji Dipa iku wus peputra Prabu Naradipa, Prabu Naradipa iku peputra Prabu Jayadarma, Prabu Jayadarma iku peputra Prabu Mundhingwangi, Prabu Mundhingwangi iku.... Tamat hikayat Nagara ing Galuh wallanu 'alam bissawab ghofarolahun allahu ya nubbi ya Ghofur'.
+
+Anapun hikayat Nagara ing Galuh kala jumenengira Prabu Mundhingwangi iku
+
+iku wus tuwa, dadi akeh kang dadi rubeda mring Prabu Mundhingwangi iku. Maka muli tampa wangsite kang eyang Ratu Sindula iku, Prabu Mundhingwangi lamun kinon ninggal nagara ing Galuh iku, sabab wus tuwa, kinon ngalih karya nagari ing Patjajaran, Prabu Mundhingwangi iku.
+
+Maka banjur ngalih Prabu Mundhingwangi iku teka Galuh maring ing Patjajaran. Kaliwat arja ing Tanah Jawa kala jumenengira Prabu Mundhingwangi ana ing Patjajaran iku. Maka wus puputra Prabu Mundhingwangi iku Maka wus puputra Prabu Ardisari, Prabu Ardisari iku peputra Prabu Perwatasari, Prabu Perwatasari iku peputra Prabu Dewanata. Kala jumenengira Prabu Dewanata negara Patjajaran iku wus tuwa. Maka aken kang dadi sangsarane negara ing Patjajaran kala wektu iku kang puputra Raden Jaka suruh iku wus kinarya Pangeran Dipati iku. Maka nulya ana ajar ing Gunung Padhang kaliwat aken cantrike iku, tinimbalan tan gelem seba banjar kinon nglurugi, wani ajar iku kalah wong Patjajaran iku. Lewat bendu Sang Nata, banjur kyai Patih dhewe kang kinon lumaku banjur aprang tumpes cantrike ajar iku. Maka banjur teluk ajar iku maring Ki Patih, kang sarta tobat Kyai Ajar iku. Nanging Ki Patih iku mapan sangsaya bendune banjur sinuduk ajar iku
+
+ratunira nora wurung ing tembe sun walesira rabine natunira kang lagi kang lagi mene ng iku, sira den waspada wus sayekti, lamun titisingsun iku. M Maka lewat gentune manahira Ki Patih iku, lan liyune cantrikira kabeh iku melu musna tan ana kari sajuga wus menduwar Kyai Patya sing marga sawadya kuswa prapta, wus katur niskara langkung ngungun Sri Nalendra iku. Maka wus lama garwanira Sri Nalendra kang bobot iku waspada jalu[^1], mapan enget Sri Nalendra maring ature Ki Patih, banjur kinon dulang wisa, nging bayi maksa m wentala malah welagang. Nulya kersane Sri Nalendra kinon nglabuh bayi iku maring Kali Ciliwung kang sarta den wadhahi pethe lawan den kunci, sabab dimekne mati bayi iku. Maka banjur linabuh bayi iku ing Kali Ciliwung, nanging peti iku nora ngilem, banjur keli kesangsang maring widhene juru sawah peti iku m prantine masangi iwak banjur tinemu peti iku maring juru sawah, banjur ginawa mulih ing ngungkaban pethi iku, isi bayi lanang banjur den pak anak bayi iku marang juru sawah den jenengi bagus Banyakwidhe bayi iku. Maka liwat welagang bagus Banyakwidhe iku, lawan bagus rupane wus sapangon gedhene lan Kliwat rosane bagus[^2], lan bagus rupane liwat trisnane juru sawah iku maring anake kucita anake dhewe juru sawah iku. Maka ing wektu iku juru sawah mapakake bature arep ngalebekake puti maring negara. Banyak widhe kudu melu pinenging iku, nora kena, banjur melu bahe, bareng teka ngalas ana manuk muni, maka takon Banyak Widhe iku maring Bapakne, tinuturan manuk siung iku arane. Maka ana maneh nganggo buntut takon Banyak Widhe iku, apa arehe Bapa, sumahur juru sawah wanara iku arane. Maka mojar Banyakwidhe maring juru sawah: "Iya iku aran ingsun Bapa dadi siungwanara / araningsun iku Bapa." maka wus teka juru sawah ing negara sagetrah kang padha amikul pari iku kabeh nora idhep lamun anake lunga iku, ketungkul milang pari bahe iku. Maka jaka Siungwanara iku banjur munggah maring Sitinggil nabuh gong sekar dalima ing ngatdhang nora kena, banjur kapirsa Sang Nata, kinon mirsa, lamun juru sawah
+
+## Footnotes
+[^1]: laku mriya
+[^2]: kadyo
+
+# p.143
+
+jurusawah anakira ingkang nabuh gong iku ingatdhang pan tan kena iku. Maka banjur den timbali juru sawah iku lawan anakira, banjur pinundhut anakira juru sawah iku maring Sang Nata, kinarya Wadana mring sarupane pandhe iku kabeh, lan banjur katrima gawene jaka Siungwanara iku Maka lawas? Jaka Siungwanara iku gawe paturon gedhong wesi lan winehan glindhingan getdhong wesi iku, ing sajrone getdhong pepak niskara kang endan2, dadi akeh wong kang padha gawok maring akale Siungwanara iku, dadi padha nonton maring getdhong iku, nanging / Raden Jaka suruh lan Kyai Pati.
+
+unina maring sabarang akale Siungwanara iku. Maka Sang Prabu Dewanata iku ing ngaturan maring Siungwanara ningali maring ing peturone getdhong wesi iku, dumadak gampang galihe Sang Nata banjur tedhak lawan kang garwa iku lagi bobot kacaryan Sang Nata ningali marang getdhong iku, lan kang garwa, banjur sarehan Sang Nata lawan kang garwa ana ing sajrone getdhong wesi iku. Maka banjur kinunci getdhong wesi iku maring Siungwanara iku, teka ing jaba, banjur sarupane kang padha dherek iku padha kinon nyekeli maring ing sarupane empu iku, banjur padha pinatenan, getdhong wesi iku banjur kinon nyeret maring sarupane empu iku linabui maring segara getdhong wesi iku. Banjur sirna marga layu Sang Prabu Dewanata iku lawan kang garwa lagi bobot iku. Maka Kyai Patih bareng ngrungu nora nganti bela, saking gugupira banjur ngamuk iku lawan karuna, tinadhahan maring sakena empu lan Jaka Siungwanara, Ki Patih banjur palastra, liwat rusak kang kunarpa, pan banjur Siungwanara maring Kadipaten prapta ing
+
+# p.144
+
+ngiring / sagung empu iku. Maka liwat kaget Raden Jaka Suruh iku lan banjur kinuya-kuya ingusir saparane siji kang ngiring tan ana, banjur manjing wana kelangan kang buru iku, banjur padha bali mundur mulih mring negara sakehe empu wus matur lamun tiwas gennya buru Narpaputra mapan katilap ing wana lewat ngungun Siungwanara nilangnya Sang Narpaputra iku. Maka ing wektu iku nagara Pajajaran pan liwat denny a sangsara, mapan akeh kang padha pinatenan Bupati, Mantri ing Pajajaran kang tan kecadhak padha minggat nging nak rabinya iku padha binayongan. Mangkana wus jumeneng Nata, Jaka Siungwanara iku, ana ing Nagara Pajajaran nora salin namanira nanging wuwuh nganggo Prabu bahe. Sang Prabu Siungwanara ing namajaran kang dadi Patih, Bopati, Mantri ing wektu iku, Pajajaran nangir empu lawan kang para meladhang iku, sajatinnya mapan cantrikira dhewe Kyai Ajar kang padha anitis dadi empu lan meladhang iku. Tamat hikayat Negara ing Pajajaran, wus tutup Prabu Siungwanara iku jumeneng Nata ing negara Pajajaran iku, wallahu 'alam bissawab ghafarolahum.
+
+# p.145
+
+Anapun hikayat Raden Jaka Su-ruh iku liwat tanpa rewang iku nanging pribadi nusup tan ana baya kahetang rina wengi lumaku, lamun sayah ing sa-enggon2nya bahe denny a sare iku, mudhun jurang, munggah gunung iku, sawiji mapan tan kepepag jalma. Salaminya lelampah Raden Jaka Suruh ngidul ngetan teka ing Pajajaran, tan karuhan kang sinedya ing driya iku. Maka dadi kalunta2 lampahira Raden Jaka Suruh iku nging manut sasenenging karsa kewala, sarira gagir usik. Mangkana pan munggah ngarga pura iku aranira dhasar
+
+dhasar wus sanget sayahnya, dadya banjur matriaga Raden Jaka Suruh iku, ana wukir Ngargapura, mapan wus mindha kunarpa. Mangkana mapan wus lama Raden Jaka Suruh iku dennya ana ing Ngargapura, obah2 salaminya iku. Maka Samodra Kidul winarna Kangjeng Ratu langkung welasnya mring kang rayi Raden Jaka Suruh iku. mangkana nulya rawuh Kangjeng Ratu Kidul iku ing Ngargapura, Raden Jaka pan lajeng nungkemi padha iku lawan karuna Kangjeng Ratu pan mangkana kang rayi rinangkul, nulya lawan kumembeng
+
+## kang waspa mangkana
+
+Sang Yang Wasesa iku, mangka nulya angandika Kangjeng Ratu Kidul iku: "Wus kulup sira lungguha, ingsun kang ngrewangi sira." nulya lenggah Raden Jaka Suruh iku, mangkana kang pangandika Ratu Kidul iku: "Wus kulup, sira luwara yaiku gonira tapa mudhuna sing Ngargapura, kulup sira golek ana tengah ngalas iku pan ana maja kang pahit rasanya, liwat wangi ambunira, ing kono sira lungguha." Kangjeng Ratu nulya musna iku. Maka Raden Jaka Suruh nulya tedhak sangking Ngargapura. Mangkana mapan wus prapta Raden Jaka Suruh iku aneng tengah ing wana wasa iku, liwat ageng liwang-liwung sawiji, tilas tan ana jalma ingkang ngambah ing ngalas iku. Mangkana Rahaden Jaka Suruh iku, mapan wus manggih kang wit maja iku[^1] ana ing tengah ngalas nging juga lewat ngambar gandanira maja iku. Maka banjur lenggah Raden Jaka Suruh iku lawan sendhehan kang wit maja pahit iku, watara pitung dina nulya munya jumegur ingkang gegana, banjur obah iku gonjing sarupane ing Tanah Jawa, mapan iku ingkang tandha lamun tunggal pan gonursan iku,
+
+## Ratu Tanah Jawa. Banjur
+
+hilang kang wit maja iku liru praja saniskara, pan wus sumekta, nging cacat tan ana jalma iku. Maka sakeh jalma kiwa tengan iku padha kaget, lamun alas iku ing mengko dadi negara liwat wedi sakehe wong desa, iku mapan rembug tur uninga mring Dipatinya dhewe, sakeh kang pra pratinggi nulya mangkana wus katur, nulya Dipati kang perak iku, Madiun lan Panaraga, Gedhiri wus padha prapta mring Negara anyar iku, mapan sadaya samya yun uninga kewala, nora nyana lamun iku Raden putra ingkang lenggah prawayeksar iku. Maka nora mana kang pangling sakehe Bupati kang padha prapta iku mring Raden Jaka Suruh kang warna, nging rusak ingkang sarira. Apadene kang busana iku banjur padha nangis sakene dipati iku lan padha nungkemi pada. Nging cinendhak kang crita niskara pan tan winarna nging amrih gancanging kandha bahe iku. Maka nuli ingutus sakeh Dipati, kang wus padna teka iku kinon nimbali maring dipati kang durung seba iku kabeh, banjur padha seba sarupane dipati ing bang wetanx iku kabeh wit Japara sa-
+
+## -pangetan
+
+Wus jumeneng, Raden Jaka Suruh iku ana ing nagara anyar katon iku. Maka nagara anyar iku pinaringan nama negara majapahit. Jaka Suruh iku jujulukira sang Nata Prabu Brawijaya, Dewapati ingkang dadi Patih iku, iya anake patih kang wus mati ngamuk dingin, kala bubrahing Nagara Pajajaran, iku banjur minggat nusul maring Raden Jaka Suruh iku, nging tan ketemu dadi banjur tapa bahe iku, pinaringan nama adipati Gajahmada iku. Maka sakehe Bupati, Mantri ing Pajajaran iku kang padha maksin urip, lumayu kang nora kecandhak iku iya, wus padha
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 19449, 'chunks': 1, 'response_chars': 19792, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': '``` "...sir **Wasesa**, you are the enemy." Jenggala asked, "If the serving knight falls, who will the Lord obey?" At this, **Queen Galun** grew angry, nearly releasing **Jayacapa*...'}]}
+status: Success
+end_time: 2026-03-28 15:48:28
+==================================================

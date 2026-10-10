@@ -1,0 +1,116 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0019.txt', 'IMGe_2026-26-01-10-17-53-50-0020.txt', 'IMGe_2026-26-01-10-17-53-50-0021.txt', 'IMGe_2026-26-01-10-17-53-50-0022.txt', 'IMGe_2026-26-01-10-17-53-50-0023.txt', 'IMGe_2026-26-01-10-17-53-50-0024.txt']
+start_time: 2026-03-28 15:46:30
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+apadene sakehe buron ngalas kang pada galak2 iku kabeh ingkang pada amangsa mring jalma kang rong laksa somah iku. Maka banjur wong ing Rum kang rong leksa somak iku kari rong puluh somah iku, banjur lumayu maring ing Rum ngaturi wuninga iku maring Kangjeng Sultan ing Rum. Sawuse katur Kangjeng Sultan ing Rum iku kaliwat ing bendunira maring ngilange wong rong laksa somah iku. Maka banjur / Kangjeng Sultan iku animbali marang sakehe kang para ngulama, pandita, sarip, sayid, khukum[^1] iku, kabeh pada kinon maring Tanah Jawa kang sarta ginawan tumbal iku maring Kangjeng Sultan ing sawuse pada teka ing Tanah Jawa kabeh iku. Maka banjur pinendeman tumbal iku kabeh den prenca olehe mandem kang tumbal iku prentahe Kangjeng Sultan ing Rum iku, ing Gunung Tidar, ing Gunung Wilu, ing Gunung Jamurdipa, den waratani sakehe kang hanger 2[^2] ing Tanah Jawa iku kabeh pada pinendeman tumbal kang sarta lawan dunga iku. Maka tinarima pandongane kabeh iku marang Robbil'Alamin, nuli obah Tanah Jawa iku kabeh, uter gumeter pratiwi gumleding ingkang suwara sakehe gunung ing Tanah Jawa, peteng dedet sabewana lawan bareng panangise sagung berkasakan lawan buron ingkang pada amangsa jalma iku. Gumuruh ingkang suwara malah kasi pitung dina grahana wulan lan surya. Ing sawuse meneng iku sakehe suwara banjur padang sang ing ngarka biru padang ing Tanah Jawa iku kabeh. Maka banjur pada mulih marang ing Rum sakehe Sarif, Pandita iku, angaturi wuninga marang Kangjeng Sultan lamm wus padang ing Tanah Jawa, banjur mundut
+
+Kangjeng Sultan iku maring jalma rong laksa somah maneh, lawan tinindihan kang santana loro iku pada sadulira, kang tuwa Seh Makurat ingkang nama Seh Tugur arinira, lawan wineling Seh Makurat iku maring Kangjeng Sultan ing rum lamun tan kalilan Seh Makurat iku lamun jumeneng Nata dewe ana ing Tanah Jawa, sabab Ratune ing Tanah Jawa iku maksih ana arane Prabu Sindilo iku, sira golekana tapa ana ing sajrone Guwa Terusan arane guwa iku, wus nora kena kersane Robbil'Alamin, kang pinasti dadi Ratu Tanah Jawa, Nanging sira kang ngembanan. Ing sawuse wawelingnya Kangjeng Sultan ing Rum iku banjur mangkat marang Tanah Jawa maring Seh Makurat iku lawan wus samekta jalma rong leksa somah iku banjur mangkat marang Tanah Jawa. Sawuse teka ing Tanah Jawa kang jinujug ing Mendang banjur pada tata wismax sakehe wong ing Rum iku; ana ing Mendang sawuse tata wisma kabeh, maka banjur Seh Makurat lan Seh Tugur iku angupaya marang kang aran Guwa Terusan iku. Panuju katemu ing Guwa Terusan iku lawan sabalane Kangjeng Sultan ing Rum, banjur malebu Seh Makurat lawan Seh Tugur iku. Maka pinuju katemu Sang Yang / Sindulo iku lenggah ing Ketadung kawaca banjur ingaturan miyos teka ing Guwa, Sang Yang Sindulo maring Seh Makurat lan Seh Tugur iku teka ing Guwa Terusan, jumeneng ing Mendang iku.
+
+Anapun hikayat kala jumenengira Sang Yang Prabu Sindulo iku ing Mendang karatone, Seh Makurat iku kang dadi Patihe, salin namanya Dipati Mangkurat lawan Seh Tugur iku iya nama Dipati Tugur. Iku ing Tanah
+
+## Footnotes
+[^1]: Handwritten correction: "mahukum"  
+[^2]: Handwritten annotation: "hanger"
+
+# Tanah Jawa liwat rejanira lan wus lawas anak kumanak wong rong leksa iku, branahan warata ing Tanah Jawa iku kabeh. Maka Sang Nata Prabu Sindulo wus paputra jalu sajuga iku liwat sambada dasar gagah tur sudira, pinaringe -an nama iku maring kang rama, Sang Dewata Cengkar, iku namanira, kaliwat dennyabek-karuma, liwat wedi sakehe wong Mendang iku maring Raden Dewata Cengkar iku. Wus diwasa sering kabeka marang kang rama iku kudu jumeneng Nata ingkang Rama durung pitaya. Maka lawas2 Raden Dewata Cengkar kudu maksa, wus kersane Subhanahu Wata'Ala lamun bakal kasalin sadela karaton
+
+## p.55
+Jawa kang rama kudu pineksa /. Nging maksa Nata Sindula olehe mora tega marang kang putra. Maka lama2 Raden Dewata Cengkar iku kurda maring kang rama Sang Nata Sindulo iku, den gadani maring kang putra siat siut pangg-itiknya dadya bendu Nata Sindulo iku maring kang putra kawedal kang pang-andika: "Heh, ya Dewata Cengkar, sira muga aja sira lumrah jalma nulya munya jumegur ing gegana." Nulya musna Nata Sindulo kundur malih maring guwa, nging Patih Mangkurat kang tan keri lan Nalendra iku lawan rabinira lagi meteng tuwa rabine Ki Patih Mangkurat iku melu lunga, Ni Kasihan aminira iku. Maka banjut manak ana satengahe ngalas iku nora ke-temu lawan kang lanang iku, metu lanang anake Rara Kasihan iku ingaranan Jugulmuda, kang keri ing Mendang iku pada banget susahira. Samusnane Sang Ratu Sindulo lawan Patihira, Patih Mangkurat iku, mangkana maneh Raden Dewata Cengkar iku saklangkung keduwingira tinilar maring kang rama kang sarta manggalih supena, langkung tobat maring kang rama nuwun kang pangapura nanging / iku mapan wus nora kena balang tiba kang upama. Maka wus mupus Raden iku, karsanira kalamun kersane Dewa apadene wong Mendang kabeh iku, banjur jumeneng Raden Dewata Cengkar iku Nata ing Mendang, Prabu Dewata Cengkar iku namanira, Patihira maksih lama Dipati Tugur, nanging iku pan wus tuwa. Maka wus puputra Prabu Dewata Cengkar iku, langkung bagus wamanira kang lawan jatmika, pinaringan nama maring kang rama iku Raden Daniswara, dene kang rama Prabu Dewata Cengkar iku, dadi teka ing supata kala dingin Sang Yang Prabu Sindulo. Saben2 dina dahar jalma, lan datan kersa wong tuwa iku, pada maksih jajaka lan kang bagus2 rupa-nira iku, tan kena towong sadina2, yen towong sadina bae malah kang putra den Daniswara iku, asring ayun minangsa lawan uyang kang salira iku, dadi rusak maneh ing Tanah Jawa liwat banget iku pada kasusahanira, apadene Dipati Tugur iku sabab nora kena towong sadina saosanira jalma iku marang Sri Nalendra.
+
+## p.57
+Anapun hikayat kala ing wektu / iku ing Tanah Jawa marengi ing Tanah 'Arab kang kinarsakake jumeneng Kalifatullah maring Gusti Allah Subhanahu Wata'Ala kang Wahidul kohar kang ngaza wajalla pinuju iku Kangjeng Nabi Mohamad Abibullah Sallollahu 'Alaihi wasalam kang mustafa fijun. Anapun kang hikayat Kangjeng Nabi Mohammed Sallollahu Alaihi wasalam iku lima sahabat kang kinasihan iku, kang dingin Sayidina Abubakar sidig rodiallohunganhu, kaping pinda Sayidina Ngumar farug rodiallohu nganhu, kaping telu Sayidina Ngusman dunurini rodiallohunganhu, kaping pat
+
+pat Sayidina Ngali Mirtodon sufíyullah rodiallohu nganhu, kang kaping lima Aji Saka kang binedon kena maring laknatullah. Anapun Aji Saka iku marma dadi tinudung iku sabab dene angguru2 maring hidayil laknatullah Kangjeng Nabi Mohamad rosulullah sallollahu 'alaihi wasalam iku den hewani pakone iblis laknatullah iku tinarka lamun kena hijaf Kangjeng Nabi iku. Angsala manjing ing watu iku, mentas ing ngutus banjur nora matur sabab oleh guru anyar tur luwih pangrasane / iku. Maka matur Abubakar sidig rodiallohu nganhu: "Kados pundi Gusti, tandanipun umat Tuan kenging ing rencanane iblis, lan iblis angsalipun saged amor ngiliminipun lawan ngilmi. Tuan 2 Sabab iblis sampun tan kenging iblis punika lamun tumingal dumateng ing ngelmi Tuan hak kang godim?" Maka ngandika Kangjeng Nabi Mohamad Rosululloh sollolloh ngalaihi 'wassalam kang mustopi iku maring kang paman Sayidina Abubakar godig rodiallohu mganhu: "Anapun ngelmune Suhhanahu Wata'Ala kang ginaduhaken maring iblis iku, rong perkara kang minaka dadi prabating iblis iku akal lawan sulap loro iku, lamun wus ngupul dadmi istijarat. Maka lamun ana anak Adam paningale, pangrungune, kelindih iku, banjur manjing marang atine, iya iku ngalamat anak Adam kang wus kebidung marang iblis laknatullah, dadi kraket ngelmune iblis kang rong perkara iku ana ngatine Adam iku, mapan wus dadi iblis. Lamun arep pada weruh sira iku kabeh / marang anak Adam kang wus kena maring iblis kang wus den aling2ngi ngelmune dewe kang hak tur kadim maring Robbil 'Alamin, mara pada macaha tangawud, maka muli pada maca tangawud sakehe sahabat iku,"Banjur katon Aji Saka iku lungguh sanding watu kang sarta nangis, banjur ngandika Kangjeng Nabi Mohamad s.m. iku maring para: "Maring para sahabat 5 iku kabeh pada sira nontonak iku rupane anak Adam kang wus nilang ngelmune kang godim."Maka banjur pada akaget sakehe sahabat iku kabeh lamun lungguh sanding saka kang sarta nangis lawan salin ingkang rupa ireng kang sarta bingus2 lan akeh wulune dadi mangka-raga wukune sagung kang para sahabat iku. Maka banjur matur sayidina Abubakar sadig: "Sabab punapa pun Aji Saka makaten punika ing nguni tuan utus?" Mesem Kangjeng Nabi Mohamad rosululloh sallollohu alaini wassalam iku ngandika marang kang paman sayidina Abubakar sodig rodiallahu nganhu: "Iya iku rupane / anak Adam kang wus pinudut ngilmune kang godim, liru ngelmu anyar iku sabab anggu2ru ing ijajil laknatullah iku, lan banjur den kon ngewani iku maring ingsum. Maka banjur malebu ing saka watu iku den arani nora weruh ingsum marang sabarang polahe,"dene idajil lakmatullah iku sakiki iya wus nora pisah ana ing atine Aji Saka iku, dadi wus dadi kapir lakmatullah sak-iki iku. Maka dadi sangsaya pada amangking wulune para sahabat iku. Aji Saka iku banjur kinon munding maring Kangjeng Nabi Mohamad s.a.w. kinon lunga iku, teka ing tanan ngarab, tobat nangis Aji Saka iku nuwun pangapura kang sarta banget panalangsane, nanging Kangjeng Nabi wus tan kersa sabab iblis laknatullah iku wus manjing ana atine Aji Saka iku lamun pinaten Aji Saka iku wus dadi kersane Robbil 'Alamin. Aji Saka iku dadi kurungane iblis
+
+iblis, lamun maksih ana ing Tanah Ngara nora wurung lamun angusuhi maring ing Agama Islam. Marma konon nundung bahe Aji Saka laknatullah.
+
+## p.61
+
+kang angudubillahi minna maring Kangjeng Nabi Mohamad rosulullah kang mustafa. Tamat wallahu A'lam bisawab gofarolahum Allah ya Rabbii ya gafur[^3].
+
+Anapun hikayat Aji Saka salungane tinundung iku maring Kangjeng Nabi Mohammad s.m. iku tanda lamun wus den pasti kapire marang subhanamu wata 'Ala. Aji Saka iku, mangkana usike atine lamun nora lunga teka ing Tanah Ngara b pasti lamun den pateni, lamun mati sabab wus tan oleh apura, pasti lamun nemu siksa, sabab wus den pasti lamun kapir ingsun, sanadyan nemhi siksa ingsun[^7] wakasane lamun aken rowange iku dadi guna arane. Maka banjur lunga Aji Saka iku teka ing Tanan Ngara b gennya ngambara Aji saka iku jinujug iku pula. banjur katemu maneh Aji Saka iku lawan gurunirax Malaekat idajil laknatullah ana ing pula iku, banjur nangis Aji Saka anungkemi marang padane gurunira Malaekat Ijajil Laknatullah. Iku maka Mojar Ngijajil Laknatullah iku lawan gumuyu suka.
+
+? -ullah. Iku maka Mojar Ngijajil Laknatullah iku lawan gumuyu suka
+
+## p.62
+
+> Ngijajil: "Wus meneng kulup sun tuturi sira / barang bekuniro mangkono iku mapan wus karsane suhhanahu wata 'Ala sira iku pinilin ana dunya ginawe animbangi maring ing ngagama pan kaliwat bejanira kolo batir dene konco? sayektine iku mapan pada kulup lawan Nabi iku sira. Nanging kang mangiwa iku bahe sira angganana tur iku mangsa bedana iya pada kagungane Robbil 'alamin panengen lawan pangiwa ingsun kang momong mring sira saenggon-enggonira iku, kulup ingsun mangsa tegaha, sanadyan nabi iku, nyawa Malaekat Jobarail kang rumeksa, ingsun rumeksa ing sira, pan iya nora kucuwa, wus payo mring Tanah Jawa sengkakake mupang suwung nora ana Nata ing Tanah Jawa gelar ngelmu pangiwa wus masti gelis warata, ing Ngara b mangsa payuha kelamun ngelmu pangiwa kejaba ing Tanah Jawa wakasane iku, pan mangsa bedana ngelmu panengen lawan kang pangiwa, bab beja lawan cilaka duaman pan mangsa kenaa, anggere wong ana donya pan angger numpang kewala dadi lega atinira."
+
+Winejang kaya mengkana ya iku Sang Aji Saka iku. maka banjur minggat maring ing Tanah Jawa
+
+## p.63
+
+teka ing pula iku pan lara sahabatira pan Dara lan Sambada wus teka ing Tanah Jawa niskara Ibu, aneng marga iku kabeh tan winarna. Dene kang jinujug maring Aji Saka ing Gunung Merapi, banjur maring Gunung Sindara iku banjur Gunung Kendeng kang sarta muruk marang sakene ngelmu apadene lang kang sastra rong puluh arane aksara. Ikilan rupane kang minaka dadi wijine, anacaraka iku tege se: "ana kangkonan, data sawala iku tege se padu kang den kongkon, pada jayanya iku tege se pada wanie lara iku, maga batanga iku tege se wakas an tukar sampyuh bareng mati pada dadi batang iku kehe cacaha kang aksara ing aranan sastra Jawa lawan pasaran iya iku ingkang lima kunir awak tanpa jalu. Yaiku awitnya ana aksara Jawa lan pasaran kang lalima." Maka banjur ak eh wong kang pada malebu iku maring Aji Saka wong ing Tanah Jawa iku. Apadene ngelmu rasa iku kang winejangake maring Aji Saka wong nitis lan kang nrititis?
+
+## Footnotes
+
+[^3]: 
+[^7]:
+
+? nirikita tritis ngamdihin lan buka raning Panglilingan iku kabeh tan Aji Saka, maka dadi maring Dipati Tugur iku. Banjur tinimbalan Aji Saka iku maring Dipati Tugur iku, banjur manjing guru Dipati Tugur iku maring Aji Saka. Nanging wedi Dipati Tugur, manawa konangan mring Sang Nata nora wurung pinudut dinahar gurune iku baburaniro iku bagus meksih jejaka. Maka banget trisnaniro Dipati Tugur iku maring Sang Pandita dinelikaken ing panganan kang kiwa iku omahe rondo Sangkarsaning akeh wong Jawa pada teka guru maring Sang Pandita iku sabarang ngelmu kaluwihan wus tan ana cuwa apa kang dadi sakarepe jalma lawan bagus, anom, ingkang warna wus kembar lawan Raden Daniswara, nanging ladak Sang Pandita anteng Raden Daniswara iku, lawan jatmika. Maka lawas iku kapirasa maring Nalendra lamun Dipati Tugur iku simpen Pandita liwat bagus maksih jejaka
+
+banjur kinon nimbali, nanging Dipati Tugur iku lewat habat manahira, ? sabab wus kinira lamun tan wurung minangsa gurunira Sang Pandita iku maring Sang Nata. Maka temu Dipati Tugur lawan Sang Pandita mangkana panediniro lamun dangan Sang Pandita kinon lunga bilahi ing wektu iku, ? mapan sinangga ing lara lawan palastra, supradene pan wus tuwa Sangking tresnaniro Sang Dipati Tugur iku maring gurunira Sang Pandita iku, Maka Sang Pandita dupi miharsa lamun Dipati Tugur iku mangkana ing ngaturita langkung suka lawan latah guyanira lawan ngabda: "Kalamun sumangga karsa sanadyan silih den dahara, nging Bapa dingin matura, iya maring Sri Nalendra, yen dangan ingsun naneda bumi nging sahiket jembar milike ? kewala, nging tana ingsum angga lungguh sadela lan wong Mendang kumpulna kabeh, age Bapa iya wongsanegara, darapon pada weruha janjiningsun lan Sang Nata, nging Bapa dingin matura iku." Maka nuli matur Dipati Tugur iku maring Sang Nata sabarang ingkang niskara panuwunya. Sang Pandita
+
+gumuyu / latah Nalendra tinurut Sang Pandita niskara panuwunira. Dipati Tugur anulya medal nambung tengara, tan antara pepak kabeh wong Mendang tan ana kang kari juga. Nulya miyos Sang Prabu Dewata Cengkar iku maring ing Pegalaran iku, maka nuli teka Sang Pandita maring Tugur Dipati: "banjur katur kang iket marang Sang Nata gumuyu latah Nalendra pan banjur kinon jerenga kang iket iku kaliwat omba mapan wuwuh? jalma marang kang nyekeli iket iku nora entek ambanira dadya kapindha Sri Nalendra mingser lenggahira iku, malah teka ing iku jalma Sanagara kang melu jereng iku kang iket sangsaya amba. Langkung bingung Sri Nalendra kadhesuk marang iket iku pan jerengnya lan jalma kinon suraka prentahnya Sang Pandhita tan dadya gumuruh eter kang suwara iku. Mapan wus kersane Sang Yang Wasesa langkung bingung kuwur manahira lawan giris miharsa suraking jalma iku. Maka banjur lumajeng Sang Nata marang ing pinggir Samadra ingkang iket iku meksa
+
+maksih amba kebanjur Sang Nata kagebyur ing samadra nuli salin / warnanira iku Sang Nata baya putih lir salaka iku, dingin supatane ingkang rama Sang Yang Nata Sindulo, marmane iku dadi kenda ana ing papacitpaka iku salin ingkang warna Sang Prabu Dewata Cengkar iku neng samudra mapan bingung ing saparansira. Anapun ingkang keri iku ingkang putra Raden arya Daniswara iku, banjur binuru kinuyo-kuyo prentahe Sang
+
+## p. 68
+
+Sang Pandita, mapan liwat kawelas arsa pinada kidang menjangan tan ana wani kanggonan, lamun ana kang welas kandeg kampiran linud ing? kutukan sadosanira marma liwat kawelas arsa iku Raden Daniswara, nanging panakawan lara iku ingkang trisna anderek sapurugira Raden Arya Daniswara pun Daulat lawan pun Beja karo iku aranira. Maka ana pitulunging Dewa kabeneran Raden iku lampahira ketadatone ingkang eyang Sang Yang Nata Prabu Sindulo ing Guwa Terusan iku lawan nuju menga ingkang lawang banjur manjing Raden putra Daniswara iku lawan lara panakawanira, banjur tapa nendra Raden iku ana ing Gedong Kuwaca panakawan loro iku / pada melu turu ana dagane wus tan ana kang oban gennya nedra telu iku, Salawase ana ing Guwa Terusan iku.
+
+Anapun hikayat ing Mendang, Sang Pandita iku banjur jumeneng Nata ana ing Mendang, Patihira maksih Dipati Tugur nora owan namanira Sang Pandita Aji Saka iku ing sawuse jumeneng Nata ana ing Mendang iku, ajejuluk Sang Yang Prabu Jaka Mudik Batara iku, kaliwat kerta ing Tanah Jawa pulih kayaduk jumenengira Nata Sindulo ing Mendang iku sakehe jalma sukaranna maring Sang Yang Prabu Jaka Mudik Batara dasar Ratu pinandita malan banjur jalma marma sangsaya wedinira iku sakehe wong ing Tanah Jawa marang Nata Mudik Batara iku, lawan darbe putra Sarpa Naga Lingkung Tunngulwulung aranira, agengnya Sasuta Arga angira Guwa Cangkemira, kinarya pangiran Dipatya iku. Maka Sang Prabu Jaka Mudik olehe karya jalma iku ing Mendang premiresan ing kono, memehanira kala durung aking tapelnya iku.
+
+## p. 69
+
+Lamun wus aking tapel iku / nuli pinajingan nyawa kang kinarya nyawa, maring sarupane tapel iku sarupane nyawane jalma, kang wus pada mati kang den dahar maring ing Nata Prabu Dewata Im Cengkar iku sinuhun binalekna kabeh iku. Maka linulu Prabu Jaka iku maring Robbil'Alamin, dadi wus pada bali nyawane ingkang mati iku, sakabehe kang dinahar maring Prabu Dewata Cengkar iku dingin kabeh iku dadi pada bane wekasane kang mangan wong lan gawe wong iku inggi kunira sabab Prabu Jaka iku duwe banyu urip teka Malaekat ngijajil laknatullah kang aweh iku. Lamun wus aking tapel iku nuli tinitisan tapel iku ing nyawa, urip tapel iku pada ngadegake wong tangi mentas turu suwe, mangkana tangine tapel iku. Maka wus akeh olene agawe wong Prabu Jaka Mudik Batara iku. Dene kang angladeni oleh gawe tapel Prabu Jaka iku. Nanging sabat loro iku si Dora lawan Sambada sakehe wong Mendang kabeh pan nora kena lamun weruha maring panggawene sakehe tapel iku, nanging agawe pamemahan bane lang.
+
+## p. 70
+
+ngamek lempung iku ginawe wong mendang. / Maka ing sawuse dadi tapel sewu iku Dora, Sembada dadi lurane marang sarupane wong gawehan iku kabeh, kang jaga maring Prabu Jaka kang putra Pangeran Dipati Linglung iku kinon tapa maring ngarga mring kang rama Prabu Jaka iku. Maka bareng lawas olehe tapa naga Linglung iku awake wus nora ketara sabab kecukulan sakehe kayon lan suket tan dadi wus kaya gunung bae. Mangkana nuli ana bocah angon telung puluh kehe bareng ngudan kaliwat derese iku pada lumayu arep ngahub karepe bocah telung puluh iku maring guwa iku kabeh. ? maka banjur ing ngikeman bocah iku maring naga Linglung dasar ngelih. Banjur katur maring kang rama Prabu Jaka iku, lamun kang putra mangkana iku.
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 18953, 'chunks': 1, 'response_chars': 18644, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': '``` The **[untranslatable term, possibly referring to beasts/monsters]** that consumed the twenty thousand households were all pleased. Then, the remaining two thousand households ...'}]}
+status: Success
+end_time: 2026-03-28 15:47:06
+==================================================

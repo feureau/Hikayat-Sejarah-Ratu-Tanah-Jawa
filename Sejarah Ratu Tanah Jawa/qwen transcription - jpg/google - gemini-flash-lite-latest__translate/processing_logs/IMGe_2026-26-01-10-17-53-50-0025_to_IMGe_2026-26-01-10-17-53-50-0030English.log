@@ -1,0 +1,133 @@
+==================== Processing Log ====================
+input_filepaths: ['IMGe_2026-26-01-10-17-53-50-0025.txt', 'IMGe_2026-26-01-10-17-53-50-0026.txt', 'IMGe_2026-26-01-10-17-53-50-0027.txt', 'IMGe_2026-26-01-10-17-53-50-0028.txt', 'IMGe_2026-26-01-10-17-53-50-0029.txt', 'IMGe_2026-26-01-10-17-53-50-0030.txt']
+start_time: 2026-03-28 15:47:06
+engine: google
+model_name: models/gemini-flash-lite-latest
+prompt_sent: Target Language: English
+
+Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended audience is general educated readers. Your goal is to produce a translation that is accurate, fluent, and reads naturally, as if written by a native speaker. Deliver only the final translation, with no commentary, explanations, or filler.
+
+Follow this detailed four-phase methodology:
+
+1. **Deconstruct for Meaning (Phase 1: Understanding)**
+
+   * Analyze each sentence and paragraph to fully grasp the author’s core message, intent, and nuance.
+   * Focus on understanding ideas, arguments, and subtle cues rather than literal words or sentence structures.
+   * Identify key concepts or terms that must be retained in the translation.
+
+2. **Reconstruct Natively (Phase 2: Writing)**
+
+   * Express the core ideas entirely in natural, idiomatic target language. Avoid word-for-word translation.
+   * **Restructure Sentences Freely**: Split long or complex sentences into shorter, clear sentences; combine short sentences where appropriate.
+   * **Prioritize Target Language Grammar Flow**: Adjust sentence structures as needed to achieve clarity, fluency, and natural rhythm.
+
+3. **Refine for Tone and Polish (Phase 3: Editing)**
+
+   * Use vocabulary and phrasing that sound natural to native readers.
+   * Ensure smooth sentence flow and readability, avoiding awkward constructions.
+   * Maintain a consistent and coherent tone appropriate for general reading.
+
+4. **Formatting Directives (Phase 4: Final Output Formatting)**
+
+   * Enclose the entire translation in a single Markdown code block (`…`).
+   * Use Level 2 Headings (##) for sections or chapters if the source text has clear divisions.
+   * Bold key terms, names, or dates (**text**) for emphasis.
+   * Italicize foreign words (*text*) retained intentionally.
+   * Format direct quotations as blockquotes (> text).
+   * Replicate lists as bulleted lists (- Item 1).
+
+**Constraints – Avoid at all costs:**
+
+* Literal, word-for-word translations that mirror the source sentence structure.
+* Awkward phrasing or unnatural sentence flow.
+* Non-standard terminology or constructions that sound forced to native readers.
+
+**Strict Output Rule:** Produce **only** the final translation formatted as specified. Do not include translation notes, introductions, explanations, or filler in your reply. Do not include your own conclusions or analysis in the reply.
+## p.71
+
+iku, banjur bêndu Prabu Jaka mring kang putra naga Linglung iku, banjur den pamek ing wuse cangkeme naga Linglung iku mring kang rama prabu Jaka, banjur musna naga Linglung iku dadi matune Seluman iku ana ing kesanga iku kang dadi panengaran kongsi samengko iki lamun kurda ing kesanga naga Linglung iku wus pasti / lamun ana aprang gede ing Tanah Jawa iku.
+
+Anapun hikayat ing Guwa Terusan iku: Raden Daniswara iku ingkang lagi atapa nedra lawan loro panakawanira pun Bejo lawan Baulat iku wus lawas nora ana kang obah2 ana ing guwa Terusan iku mapan wus suwung kunarpa katelune iku. Maka kamiwelasmên kang eyang Sang Yang Prabu Sindulo iku marang kang wayan naden putra Daniswara iku, nuli cmnoba kang wayan, Waragana loro iku kinon goda maring kang wayah naden putra Daniswara arane dewi sangkaningrat lawan Dewi Mingkara iku tegese wara-guna iku wawayangane ing Widodari ing suwarga. Maka karo iku Waragana Sangkaningrat lawan Mingkara prapta ing Kedung kuwaca, banjur goda maring Raden putra Daniswara ingkang lagi tapa nedra mapan akeh salane waragono nanging Raden ecanendra mapan wus minda kunarpa. Waragono nuli musna matun maring Sang Yang Prabu Sindulo: "Yen kang wayan wus tan kena," Miyos nata Sindulo iku maka banjur rawuh Sang Yang Sindulo pernah
+
+## p.72
+
+gedong / kuwaca ing gone kang wayan nendra iku. Ana ing kentil kencana," ngandika Sang Yang Nata Sindulo: "Wus kulup, sira tangia," Raden putra Daniswara lamat-lamat miharsa suwara iku ana ing sajrone gomnya nendra, banjur wungu Raden putra, wus tan samar ing tiyasira lamun iku nyata kang eyang Nata sindula kang canya lir dewangkara. Maka banjur Raden putra nungkemi pada Sarya karuna, ngandika Sang Yang Sindulo: "Sapa inggun dene anyukemi pada sira. Matur," Raden putra Daniswara: "Banduka lumburing tanah Jawa; pan estu Sang Yang nata Sindulo dadya mesem kang wayan rinangkul nulya ingaras ingkang mustika iku, lawan ngemu waspa Sang nata Prabu Sindulo, naden putra sangsaya wuwuh genira karuna lamun iku kang eyang nyata. Maka ngandika Sang Yang nataSindulo: "Wus kulup, sira menenga pan wus kersane, anging iku wus bejanira mungsuhira Aji Saka kersane Yang Wasesa nyelani kuraton Jawa iku nanging telung warsa, ing mengko mapan meh teka kulup, iya telung warsa lan pinaring sira iku maring Sang Yang Wasesa."
+
+## p.73
+
+Loro iku Waragono, Sangkaningrat, Mayangkara, nanging mengko durung mangsa lamun sira carêm cuwa, tinimbalan nulya prapta Sangkaningrat, Mayangkarainng ing ngarsa Sang Yang Sindulo karu iku Waragono, ngandika Sang Yang nata Sindulo: "Karo iki rabinira nging mango iya dadi korabi amung eweda ing besuk sakerapira yen wus mulih mring Mendang sira lawan maneh ngawulaha iku ingkang dadi marganira bisa mulih maneh kulup mring Mendang sira ing tengan ngalas ana ronda2,kasihan arinira iku, mapan darbe anak lanang nging sajuga Jugul Muda,aranira Panukulan, kang alas nyawa kidul wetan pernahira rabinira iku loro waragono, sangkaningrat, Mayankara dimekne musul panakawanira iku pada sira gawaha." Wus musna Prabu Sindulo lawan loro kang Waragono. Raden putra keri gono ana ing gedong kuwaca gugah mring panakawanira
+
+panakawanira karo iku maksih nendra daulat lawan pun bejo ri wus tangi karonira. Raden medal / sangking guwa lestari ing lampahira ngidul ngetan sangking guwa tan nging sagung pringgalaya nusup tatapa marga Bejo Daulat neng ngarsa iku. Maka ana padang katingal pan iku habadesanira aran Dukuh Pacukilan iku, ana wong sijimhamatun gaga tinakonan maring pun Bejo lamun weruh ingkang aran alas Panungkulan kang wisma ronda Kasihan. Sahureki Pacukilan lamunnya nyata ana kang aran alas ing Panungkulan wismane ronda Kasihan iku darbe anak sawiji wus jaka tuwa Jugul Muda ingkang aran pan kaliwat arah pan kaliwat kesedira iku. Baligang baligung datan nyandang kang sinadang kulite kayu sabukipun yodoyodan kang ngawak anglir kena tinanduran adus iku mapan datan gelem pisan, sing ngriki mapan wus celak inggih wana punika kang tengan nama wana Panungkulan ngidul ngetan punika lurus kewala. Mesem Raden putra Daniswara nuli banjur lampahira.
+
+Anapun hikayat ing Panungkulan kang wisma ronda Kasihan iku ana satengahing alas hadah helor kidul wetan nora tengga nora rewang nanging / lawan anakira lanang siji iku kaliwat ing kesedira, anandura iku maning lamun gelema bubut suket bahe iku nora gelem pisan tekonira, doyan turu, doyan mangan, dene wismanira kala dingin kang gawe iku bokira dewe namung sedeng (in Mss: Nanging setdeng) lawan anakira iku bahe, malah mengko iku bubran Biyan lampu katarocohan iku nora gelem lamun ambenerake marang wismanira lawang ngira nanging menga angupelik nanging setdeng wong brangkang suket petung iku lawan suket merakan kang minaka pagera iku balu kesibukan payonira. Iku ketrocohan, Jaka Judul Muda iku lampu minggat bahe nora lunga lir dinusan nanging siji titipanira, Jaka Judul Muda iku ajrih tahu mring ing bmbiyangira sabab lamun seneni iku maring bok Rondo, banjur tutu bahe ing sagonira den seneni iku ngrikel kodanan lan kapanasan iku nora obah2 bayi malih tuwa tansan dadi gawening biyung. Maka lamun Bok Rondo marang pasar adolam godong iku apa ing saoleh2ira iku banjur pinangan bahe Bokira malah tanoman. Ing wektu / iku lagi ninis Nyahi Rondo Kasihan lawan anakira Jugulmuda iku, mojar Bok Rondo: "Ingsun iki kepingin temen sira inguni eling duk suwargine ramanta kaya dingin iku duk suwargine ramanta[^1] Ingsun Jugulmuda angawulaha mring Mendang iku Gustimu dewe," Maka sumahur Jaka Jugulmuda: "Bok biyang, ingsun tan arsa lamun ngawula Ratu birawa mangan jalma karyanira, nora ajeg kang ngadil pisan." Mojar maneh Nyai Rondo: "Ingsun kulup ngrungu warta ingkang jumeneng ing Mendang iku sakhiki wus salin Aji Saka arane, bagus, anom, dasar, adil, palamarta iku." Maka mojar Jaka Jugulmuda: "Bok biyang, ingsun tan arsa iku satru tanyun ka ngawula mami lamun liya tedak turane Gusti Prabu Sindulo iku. Besuk Bok biyang ngawula ingsun lamun ana panjenengan iya iku Ratu Adil kang ngenama." Mojar Nyai Rondo iku: "Talah besuk apa ingsun iki wus sayah temen nyawa?" Maka sumahur Jugulmuda: "Ingsun tuturi mahu bengi ingsun ngimpi, biyung ngemban rare nyangga wulan lawan / angon maring sarupane kewan2 iku kabeh iku kabeh.
+
+## Footnotes
+[^1]: kaya dingin iku duk suwargine ramanta
+
+kabeh pepak lawan gawa pecut, ingsun biyung iku bahe entenona manawi ana wananane. Maka mojar Nyai Rondo kang sarta gumuyu suka:
+
+> Suka kaya apa anak ingsun Jugulmuda impen iku olehe ngeteni, ingsun iki wus kesel temen oleh ingsun pingine marang sira manawa keselak mati ingsun iki kepingin temen sira ingoni.
+
+Maka sumahure Jaka Jugulmuda:
+
+> Payo pada mupus bahe Bok biyung sapuluh kapriye ta Bok biyung lamun durung teka ing janjinira iku binurua iku, iya angacati, Durung nganti tutup olehira.
+
+Acacaturan Jugulmuda iku lawan Nyai Rondo Kasihan iku. Maka banjur ana wong celuk atakon dalan, nuli lumayu Jugulmuda iku mapag kang sarta atuduh dalan banjur ketemu Jugulmuda iku lawan Raden putra Daniswara apadene Nyai Rondo, tan keri Daulat lawan pun Bejo, ing sawuse lenggah Raden putra iku. Maka papat iku salin pangwasanira, mojar Jaka.
+
+p.78. / Jugulmuda:
+
+> Kanca den tata titihan dalem iku, kondurma maring gedogan mrana lan jali jempama iku pada prenaha.
+
+Nyai Mojar Nyai Rondo:
+
+> Sakehe prakasti iku pada banjur malebuha maring gedaton bahe,
+
+Mojar Daulat, Bejo:
+
+> Kanca den tata kang dadi penguat kanan kering kilurah kang dadi dada.
+
+Mesem Raden Daniswara miharsa kang pangucap papat iku. Maka papat iku bareng wus pada eling, banjur pada gumuyu suka tan antara rawuhira Sang Yang Nata Rati Sindulo tatedak sangking jumantara anglir pindah sangking Ngargay Sangkaningrat, Mayangkara lir wulan kaping sudama lawan Mangkurat Dipatya iku anderek maring Nalendra. Sarwauhnya Sang Yang Nata Ratu Sindulo, papat mitenggengen samya lir angipi caturnya tan ana kang bisa ngucap papat iku. Maka nulya Raden putra Daniswara nungkemi padanira kang eyang Nata Ratu Sindulo ing ngaras ingkang mustaka, ngandika nata ratu sindulo:
+
+> Jugulmuda, Bepakira iku teka mriya.
+
+Nulya p.79. Jaka jugulmuda nungkemi pada sudarma lan sanget panangis 7-ira, atanapi Nyai Rondha lir paweh terang kalihnya sabab lami tan kapangnya, Nyai rondha nora nyana kelamun Kyai Dipatya pan iku maksih aneng donya iku. Maka ing sawuse padha tata manahira ilate mang keret iku, lawan Nyai Rondha. Kasihan katri jaka Jugulmudha, ngandika Sang Yang Nata Sindhula marang jaka Jugulmudha:
+
+> Iya, Jaka Jugulmudha, wayahingsun Daneswara sira iku kang ngembanana ulihira maring Mendhang, iya katempuh iku maring sira, sabab ingsun Bepakira iku kang ngadegaku Nalendra ing mengko katempun sira putuningsun.
+
+Daniswara mangkana pun Jugulmudha mapan tan saged matura lir rinemed jejantungnya sangking trenyuh atinira angadeg suraning driya nyata jaka Jugulmudha, mangkana Nata Sindhula minta maring Yang Wasesa kedadon lan saniskara, mangkana datan antara omahira Nyai Rondha musma, banjur liru praja yaksa tan kurang lan kang niskara dadya jenger kacaturnya ngandika Sang Yang Sindhula iku marang kang waragana lo p.80. -ro iku Sangkaningrat Mayangkara wus / karo ika ing mengko tur sandika
+
+, ngujum gantya marang Marpa Nata Sindhula kabeh iku lan marang Mangkurat Dipatya wus warata, nulya musna Ratu Nata Sindhula tan kantun Kyai Dipatya kendal mring kedadunira Sangkaningrat Mayangkara iku, Waragana kang tinilar kabeh, mapan kari Waragana mangkana pan wus tan winarna sagung ingkang saniskara, ambujung enggaling kondha, aken jalma kiwa tengen prapta marang Panungkulan samya pinilihan kang prayoga, mapan sewu ketara sumekta gamaning yuda nging kari nganteni
+
+mangsa bahe angkatira maring Mendhang iku. Anapun hikayat ing Mendhang, jenengira Sang Yang Prabu Jaka Mudhik Bathara, pan meh ganep telung warsa olehe nyelani keraton ing tanah Jawa iku, nuli miharsa warta lamun ing ngalas Panungkulan iku dadi praja mimbali Tugur Dipatya sarupane wong Mendhang kinon ngalurugake, Tugur tumnya sandika pan nulya nembang tengara nanging Ki / Tugur iya wus miharsa warta lamun iku rayinira dhewe kang dadi Patih, iya arane Jugulmudha anak Ni Rondha Kasihan iku pan kaponakira, dadi Ki Tugur Dipatya nora melu anglurug mapan sangadinya loro, lawan nyata luwih tuwa lan ajrih wewelingnya Kanjeng Sultan ing Rum iku. Maka lamun Tanah Jawa nora kena sawijah wong dadi Nata, lamun liya turunira iku Sang Yang Nata Sindhula lan sarupane wong Mendhang iku. Mangkana ing tiyasira anglir Ki Tugur Dipatya jrih jeng Sultan wawelingnya lewat ewuh kabeh iku sarupane wong ing Mendhang iku atinira, sabab Ratu aprang lawan gurunira dadya kendha kabeh iku ing tiyasira, aja nora anglakoni aprang bahe kabeh iku ing tiyasira. Maka Jaka Jugulmudha iku mapan wus miharsa warta lamun wong Mendhang anglurug bakal merang Panungkulan lan wus teka kang samya nujoni ing telung warsa, pan banjut nembang tengara pepak kabeh wong Panungkulan lan samekta gegaman yuda Pacukilan pangiridnya.
+
+Beja / Daulat tindhira wong kang ngirid, wus budhal ing Panungkulan iku, nuli kapapak dalan, Panungkulan lan wong Mendhang iku nora nganggo perang pisan wong Mendhang iku, banjur lumayu buyar ting salebar sakarepe dhewe2 rebut paran arang kang mulih bali iku marang Mendhang. Maka Dipati Tugur iku angaturi uninga marang Sang Yang Prabu Jaka Mudhik Bathara, lamun asar juritira bendunira Sang Yang Prabu Yaka Mudhik Bathara, nuli tapel sewu ingkang kinon dandan ngiring padha kinon baris ing ngalun-alun bahe lawan angupula Dora Sembada kang dadi tindhihe iku. Maka Beja Daulat wus ngaturi uninga lamun lanang ingkang yuda, banjur mangkat Raden Putra iku bodhal teka ngalas Panungkulan lawan Yaka Jugulmudha iku maring Negari ing Mendhang lawan kang garwa loro iku kang Waragana Sangkaningrat, Mayangkara, tan keri iku Nyai Rondha Kasihan, wus rawuh Negari ing Mendhang ing ngalun-alun iku, banjur campuh aprang Tapel iku kalawan wong Panungkulan.
+
+Panungkulan tan kawawa iku / iku
+
+p.81. / iku sakihe wong Panungkulan aprang lawan Tapel. Maka nabda Jaka Jugulmuda iku ngawaki aprang lawan Tapel sewu iku lawan Bejo Daulat kapat lawan Pacukilan, Bejo Daulat iku wus panggih lan Dora Sembada Tapel sewu iku kang ingamuk marang Jugulmuda iku lawan Pacukilan ginarumung Jaka Jugulmudak iku lawan Pacukilan maring Tapel sewu nging tan kewran iku lawan Pacukilan pada rubuhting sulayah anggelasah Tapel sewu iku, tanapi Dora Sembada iku iya wus kasaran mungsuhan lawan Bejo Daulat iku. Maka mulat Prabu Jaka Mudik Batara iku gelasan lan Dora Sembada kajodi iku lewat bendu nuli namber Prabu Jakamudik Batara iku kakuncara ing tawang kang sarta anggawa banyu urip banjur kinapiyuran banyu urip Tapel kang pada mati iku, lan Dora Sembada iku banjur pada bareng uripira iku kabeh. Maka saben2 mati iku nuli den sirati banyu urip Tapel iku apadene Dora Sembada banjur pada urip maneh iku kasi pada nangis papat iku sangking kakune atine lamun pasaha / ing braja papat iku kaya wus ajur kinambut
+
+p.82. kakune atine lamun pasaha / ing braja papat iku kaya wus ajur kinambut ing Tapel sewu iku. Maka Mulat Waragono loro iku Sangkaningrat Mayangkara iku lamun Prabu Jakamudik Batara iku ana ing gegona kang sarta anggawa banyu urip, banjur ngambara Waragana loro iku Sangkaningrat, Mayangkara, Dewi Sangkaningrat iku kang sarta mateng gandewa kang sitra-sura wasesa wus lumbepas jayatapa iku, banyu urip kontal nulya sing ngasta Sang Prabu Jaka cinandak mring Mayangkara banyu urip pan wus kena binuwang samudra maring Dewi Mayangkara banyu urip iku. Maka Prabu Jaka iku nulya sahilange banyu urip iku kontal teka ing pita lan mulat Tapel wus sirna kalawan Dora Sembada pan gelasah bangkenira iku, liwat kerdanira Sangkaningrat, Mayangkara, binuru tumurun prapta ing ngarsane Raden putra nututi Sang Prabu Jaka tumurun mapan wus panggihya Aji Saka lan Raden putra kapanggih samya dikdaya angadu braja rong dina wus tan ana kang kuciwa mapan nuli ngadu pangabaranira nging Aji Saka nging
+
+p.83. Aji Saka kuciwa ngantekan sa / gendingira nging maksa kudu kuciwa bahe Aji Saka lawan Raden putra.[^1] Maka Malaikat ngijajil *laknatullah* wus waspada lamun mes tanpa una ingkang sayekti wus teka iku, banget wedinira Malaikat ngijajil *laknatullah* iku maring mes tanpa una banjur metu teka garbanira iku Aji Saka ngambara maring gagona, mangkana Sang Aji Saka pan iya wus tanpa guna krasnasar budinnya ngambara maring gegono wus panggih lan gurunira pan nangis nungkemi pada Aji Saka mring Malaekat ngijajil *laknatullah* iku.[^2] Maka banjur nabda malaekat ngijajil *laknatullah* maring Aji Saka: "Wus kulup, sira menenga mupusa wus bejanira iku emas tanpa una pan tan kena disuwawa, jer jata kang duwe Jawa pinasti maring Yang Wasesa iku, kulup tan kena liya lamun maksih demen sira nyawaya mring Tanah Jawa pirang bara besuk kena nging lamun kalimpe agale mas tanpa una ing mengko / baye sun guwa mring sabrang bahe sira nyawa wus kersane Sang Yang Wasesa yen kinarya kulup sira angratoni Seluman ana ing Tanah sabrang nyawa. Maka banjur musna Malaekat ngijajil *laknatullah*.[^3]
+
+## Footnotes
+
+[^1]: Mustofium
+[^2]: Mustofium
+[^3]: Mustofium
+
+laknatullah iku, nora keri Aji Saka mapan wus nora kena pisah loro iku lir satu lawan rimbagan, Mulaikat ngijajil laknatullah lawan Aji Saka ing sahenggonira iku wus pinasti marang Gusti Allah Subhanahu Wata' 'Ala kang wanidulkohar kang ngaza wajalla lamun Aji Saka wus den pasti dadi Iblis laknatullah sabab wus kena sabdane Kangjeng Nabi Mohamad rosulullah 'alaihi wasalam Aji Saka iku. Tamat wallahu 'alam bisawab ghofarolahum ya Allah ya Robi ya Ghofur.
+
+Anapun hikayat ing Mendang sasirmane Aji Saka iku, Raden putra Daniswara iku banjur jumeneng Nata ing Mendang ngestrenan maring kang eyang Sang Yang T Ratu Sindulo iku lawan Patihira Dipati Mangkurat Waragana loro iku wus tetep dadi garwanira Sangkaningrat Mayangkara pinaringan nama maring kang eyang Raden putra Daniswara iku, Sang Prabu Kaskaya, kang dadi Patihe iku Jaka Jugulmuda pinaringan nama Adipati Jugulmuda. Pun Beja Daulat iku kang dadi Jaksa pinaringan nama Raja Suryangalam Daulat, pinaringan nama Raja Kapa2, Pacukilan pinaringan nama Raja Nititelu iku ngatasi Patih Jugulmuda iku. Maka banjur Adipati Jugulmuda iku pinaringan rabi anake Adipati Tugur, bokhira sing karan Larasati ingkang nama. Ing wektu iku liwat rame ing Mendang sabarang kamulyan ing donya kabeh iku ana. Nata Ratu Sindulo maksih anenggani maring kang wayah ana Mendang iku lawan Patihira iku ing rabine Dipati Jugulmuda ing sawuse rabi Adipati Jugulmuda iku nuli kundur Nata Sindulo iku lan kang Patih Dipati Mangkurat iku maring Guwa Terusan tetanen, iku liwat kerta ing Tanah Jawa, kala jumenengira iku Sang Prabu Kaskaya sukarennna sakehe wong ing Tanah Jawa kabeh iku. Maka Sang Prabu Kaskaya iku wus peputra patutan lan waragana loro iku Sangkaningrat putra priya Sri Mapunggung namanira. Mayangkara iku putranira putri Suprabawati namanira pinudut maring kang eyang buyut Ratu Sindulo binekta maring ing Guwa Terusan, Dewi Suprabawati iku maring kang eyang buyut iku.
+
+Anapun hikayat sasedane sang Prabu Kaskaya / iku kang gumanti kang putra Mapunggung, Sri Mapunggung iku peputra Pancadriya, Pancadriya iku peputra Anglingdriya, Anglingdriya iku peputra Anglingdarma, Anglingdarma iku peputra Anglingkusuma, Anglingkusuma iku peputra Gandakusuma, Gandakusuma iku peputra Pancakusuma, Pancakusuma iku peputra Ardikusuma, Ardikusuma iku peputra Tejakusuma, Tejakusuma iku peputra Jatikusuma, Jatikusuma iku peputra Citrakusuma, Citrakusuma iku peputra Sumawicitra, Sumawicitra iku peputra Resi Getayu, Tamat, hikayat purwa Ratu Sindula ghafarolahum bisawab ya Allah ya Rabi ya Ghofur. Resi Getayu iku peputra Lembumiluhurhu, iku jumeneng nagari ing Jenggala, Prabu Lembumiluhur iku peputra Dewakusuma, Dewakusuma iku peputra Raden Putra Mara Bangun, Marabangun iku peputra Panji Laleyan, Raden Panji Laleyan iku peputra Prabu Banjaransari iku maksih jumeneng Ratu ana ing Jenggala. Prabu Banjaransari iku bagus, anom tur maksih jejaka kang nama Prabu Banjaransari iku.
+
+Anapun hikayat kala wektu iku ing Tanah Jawa kaliwat rusuh iku, nora ering maring Ratune pada duwe kerep dewe2 sarupane wong kang gede2
+
+## Footnotes
+[^1]: Sallallahu
+
+multipass: {'enabled': False, 'count': 1, 'passes': [{'pass': 1, 'prompt_chars': 2494, 'input_chars': 18108, 'chunks': 1, 'response_chars': 19206, 'prompt_preview': 'Target Language: English Act as an expert linguist, professional translator, and editor. Your task is to translate the provided source text into the target language. The intended a...', 'response_preview': '```markdown ## p.71 Finally, **King Jaka** directed his wrath upon the **Linglung Dragon**. He seized the **Linglung Dragon** in his mouth and directed it towards **King Jaka**, it...'}]}
+status: Success
+end_time: 2026-03-28 15:47:28
+==================================================
