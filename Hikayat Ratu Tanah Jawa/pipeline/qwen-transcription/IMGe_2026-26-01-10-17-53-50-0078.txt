@@ -1,16 +1,49 @@
-### p.103
+                                - 19 -
 
-gusuker  
-susuka kang ana ing sajrone badan iku kabeh iblis awa nafsu / iku upama megamendhung iya iku kang angaling-alingi2 srengenge, marma dadi peteng, mangkana maneh iman iku olehe peteng ana ing sajroning ati, sabab kaling-kalingan telung perkara iku, sabab ati upama langit dene, awak kang ana ngisore puser iku upama jagat kabeh iku zhohire kang nyata jenggerengira iku lamun kangganon telung perkara dadi peteng jagatira kabeh. Tegese telung perkara iku: iblis hawa nafsu iku, nanging sjahadat kang bisa ngilangake telung perkara iku. Tegese sjahadat iku zhikir Kalimah Toyibah, iku lamun oleh sih pitulunge Subhanahu Watangala dadi geni amor lesus sirna kabakar / sakena raregede iku, apadene minangka
-
-### p.104
-
-mendhng kang ngaling-alingi marang srengenge iku sabab katiyub marang angin pasthi lamun padhang jagatira kabeh, nanging lamun garing kayune, lamun teles kayune iku nora bisa murup geni iku dadi/bisa ngilangake rareged iku, upama malam lamun kena geni masthi lamun hilang malam iku, maka lamun wus hilang sarupane areged iku kabeh dadi padhang jagatira iku kabeh sawa bengesan, iku soroting cahyane wus pasthi lamun weruh sira maring kagungane Subhanahu Watangala kang ghoib2, marma aja pegat sira / ngakherat marma tandha lamun dlaro banget iku bakal maksuq sira, tegese dloro banget iku sakaratulmaut, sabab iku panggonan pakumpulan afngalira ing donya iki kabeh marma dadi Qu'ran wus ngumpul lawan iman papaning Qu'ran wus ngumpul marang badan. Maka lamun maksin sifat jenggerengira iku. Tegese sifat jenggereng iku lamun maksih kharkat panggotane iku, durung kena lamun atinggal ing sembahyang sifat jengg-ereng iku. Maka lamun wus nora kharkat sifat kang jenggereng iku, sabab iku wus ngumpul lawan Qu'ran sifat jenggereng iku. Maka kang kari iku
-
-### p.105
-
-dadi / wong Yahudi iku padha angestokaken lamun Nabi Ngazara iku, anaking Allah, mangkana maneh pangucape wong Hasara iku padha angestok-ake lamun Nabi Ngisa anaking Allah. Maka pangucap kang mangkana iku padha batal kabeh karone, iku sabab padha lali lamun Gusti Allah Subhanahu Watangala kang ngaza wajala kang wahidul kohhar iku: Akhad, wakhid nora anak2 lawan nora nganak-anakaken sjazhate lan sja sipate iku dadi sakersane. Maka kang padha angestokaken ing pangucap mangkana iku, iya iku kabeh padha pangucap ing Kapir Laknatullah iku, sabab zhuriyat Adam kang padha lali ngucap mangkana iku dadi / wong hilang sabab wus kena marang ing iblis laknatullah iku kang padha tinurut pang-ucap x mangkana iku. Maka islam sira angelina iku marang ing sarupane zharoyan Adam kang padha angestokaken marang ing pangucap mangkana iku kabeh. Sabab pangucap kasar iku sa iblis laknatullah kang gawe ing pangucap mangkana iku. Maka lamun nora kena kudu meksa zhuriyat Adam iku dna muni dadi kapir laknatullah iku, ya banjur padha perang, ana kongsi tumeka ing sakaline kabeh iku. Maka lamun durung ana karsane Gusti Allah Subhanahu Watangala kang nguza kang wahidul kohhar iku
-
-### p.106
-
-prentah kaya sarupane kang wus padha muni / iku nora kaya sarupane zhuriyat Adam sira kang padha islam lanang, wadon, iku kabeh, nanging zhalil nasro ing Qu'ran iku bahe poma2 den eling iku padha sira anggoha iya: "Ya Ayyuhalzhina amanu allahullaha wa athingur rosula wala tabtholu
+            /* [Susuku] */ ^Susuker kang ana ing sajrone badan iku kabeh iblis awa nafsu / iku
+            upama megamendhung iya iku kang angaling-alingi2 srengenge, marma
+            dadi peteng, mangkana maneh iman iku olehe peteng ana ing sajroning ati,
+            sabab kaling-kalingan telung perkara iku, sabab ati upama langit dene,
+            awak kang ana ngisore puser iku upama jagat kabeh iku zhohire kang
+            nyata jenggerengira iku lamun kanggonan telung perkara dadi peteng
+            jagatira kabeh. Tegese telung perkara iku: iblis hawa nafsu iku, nanging
+            sjahadat kang bisa ngilangake telung perkara iku. Tegese sjahadat iku
+            zhikir Kalimah Toyibah, iku lamun oleh sih pitulunge Subhanahu Watangala
+[p.104.]    dadi geni amor lesus sirna kabakar / sakene raregede iku, apadene minangka
+            mendhung kang ngaling-alingi marang srengenge iku sabab katiyub marang
+            angin pasthi lamun p/* ^a */dhang jagatira kabeh, nanging lamun garing kayune,
+/* [margin: nora] */ lamun teles kayune iku nora bisa murup geni iku dadi/bisa ngilangake
+            rareged iku, upama malam lamun kena geni masthi lamun hilang malam iku,
+            maka lamun wus hilang sarupane areged iku kabeh dadi padhang jagatira
+            iku kabeh sawa bengesan, iku soroting cahyane wus pasthi lamun weruh
+            sira maring kagungane Subhanahu Watangala kang ghoib2, marma aja pegat
+[p.105.]    sira / ngakherat marma tandha lamun dloro banget iku bakal maksuq sira,
+            tegese dloro banget iku sakaratulmaut, sabab iku panggonan pakumpulan
+            afngalira ing donya iki kabeh marma dadi Qu'ran wus ngumpul lawan iman
+            papaning Qu'ran wus ngumpul marang badan. Maka lamun maksin sifat
+            jenggerengira iku. Tegese sifat jenggereng iku lamun maksih kharkat
+            panggotane iku, durung kena lamun atinggal ing sembahyang sifat jengg-
+            -ereng iku. Maka lamun wus nora kharkat sifat kang jenggereng iku, sabab
+            iku wus ngumpul lawan Qu'ran sifat jenggereng iku. Maka kang kari iku
+[p.106.]    dadi / /* ^[#ate] */ wong Yahudi iku padha angestokaken lamun Nabi Nguzere iku,
+            anaking Allah, mangkana maneh pangucape wong Nasara iku padha angestok-
+            -ake lamun Nabi Ngisa anaking Allah. Maka pangucap kang mangkana iku
+            padha batal kabeh karone, iku sabab padha lali lamun Gusti Allah
+            Subhanahu Watangala kang ngaza wajala kang wahidul kohhar iku: Akhad,
+            wakhid nora anak2 lawan nora nganak-anakaken sjazhate lan sja sipate
+            iku dadi sakersane. Maka kang padha angestokaken ing pangucap mangkana
+            iku, iya iku kabeh padha pangucap ing Kapir Laknatullah iku, sabab
+[p.107.]    zhuriyat Adam kang padha lali ngucap mangkana iku dadi / wong hilang
+            sabab wus kena marang ing iblis laknatullah iku kang padha tinurut pang-
+            -ucap x mangkana iku. Maka islam sira angelinga iku marang ing sarupane
+            zharoyan Adam kang padha angestokaken marang ing pangucap mangkana iku
+            kabeh. Sabab pangucap kasar iku sa/* ^ko */tiblis laknatullan kang gawe ing
+            pangucap mangkana iku. Maka lamun nora kena kudu meksa zhuriyat Adam
+            iku dha muni dadi kapir laknatullan iku, ya banjur padha perang, ana
+            kongsi tumeka ing sakaline kabeh iku. Maka lamun durung ana karsane
+            Gusti Allah Subhanahu Watangala kang nguza kang wahidul kohhar iku
+[p.108.]    prentah kaya sarupane kang wus padha muni / iku nora kaya sarupane
+            zhuriyat Adam sira kang padha islam lanang, wadon, iku kabeh, nanging
+            zhalil nasro ing Qu'ran iku bahe poma2 den eling iku padha sira anggoha
+            iya: " Ya Ayyuhal/* ^a */zhina amanu /* [allinullaha] */ ^athingulloha wa athingur rosula wala
+                                                                            tabtholu
