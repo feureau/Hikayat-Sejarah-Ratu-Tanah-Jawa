@@ -72,6 +72,7 @@ Hikayat & Sejarah Ratu Tanah Jawa/
 │   │   └── marginalia/                       # Close-up camera captures of manuscript margins
 │   ├── text/                                 # 1:1 Concordant Text Transcriptions
 │   │   ├── handwritten-pegon/                # 125 diplomatic markdown files (IMG_0001.md – IMG_0125.md)
+│   │   ├── handwritten-pegon-latin/          # 125 phonetic Latin transliterations with diacritics
 │   │   ├── 1973-typescript/                  # 47 diplomatic markdown files (IMG_0058.md – IMG_0104.md)
 │   │   └── archive/                          # Archived composite editions (Pegon, Latin, English)
 │   └── pipeline/                             # Transcription & translation intermediate artifacts
@@ -87,13 +88,14 @@ Hikayat & Sejarah Ratu Tanah Jawa/
     └── pipeline/                             # Transcription & translation intermediate artifacts
 ```
 
-### 1:1 Scan-Concordant Diplomatic Transcriptions
+### 1:1 Scan-Concordant Diplomatic Transcriptions & Transliterations
 
 Every scanned page has an exact, dedicated markdown transcription file named after its image identifier:
 
 | Manuscript | Corpus | Directory | File Range | Total Files |
 | :--- | :--- | :--- | :--- | :--- |
 | **Hikayat Ratu Tanah Jawa** | Handwritten Pegon | [`Hikayat Ratu Tanah Jawa/text/handwritten-pegon/`](Hikayat%20Ratu%20Tanah%20Jawa/text/handwritten-pegon/) | `IMG_0001.md` – `IMG_0125.md` | **125** |
+| **Hikayat Ratu Tanah Jawa** | Handwritten Pegon (Latin) | [`Hikayat Ratu Tanah Jawa/text/handwritten-pegon-latin/`](Hikayat%20Ratu%20Tanah%20Jawa/text/handwritten-pegon-latin/) | `IMG_0001.md` – `IMG_0125.md` | **125** |
 | **Hikayat Ratu Tanah Jawa** | 1973 Latin Typescript | [`Hikayat Ratu Tanah Jawa/text/1973-typescript/`](Hikayat%20Ratu%20Tanah%20Jawa/text/1973-typescript/) | `IMG_0058.md` – `IMG_0104.md` | **47** |
 | **Sejarah Ratu Tanah Jawa** | Handwritten Pegon | [`Sejarah Ratu Tanah Jawa/text/handwritten-pegon/`](Sejarah%20Ratu%20Tanah%20Jawa/text/handwritten-pegon/) | `IMG_0001.md` – `IMG_0090.md` | **90** |
 | **Sejarah Ratu Tanah Jawa** | 1973 Latin Typescript | [`Sejarah Ratu Tanah Jawa/text/1973-typescript/`](Sejarah%20Ratu%20Tanah%20Jawa/text/1973-typescript/) | `IMG_0001.md` – `IMG_0057.md` | **57** |
