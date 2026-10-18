@@ -83,6 +83,7 @@ Hikayat & Sejarah Ratu Tanah Jawa/
     │   └── 1973-transcription/               # 57 scans of the 1973 Sastrasuganda Latin typescript (IMGe_0001–0057)
     ├── text/                                 # 1:1 Concordant Text Transcriptions
     │   ├── handwritten-pegon/                # 90 diplomatic markdown files (IMG_0001.md – IMG_0090.md)
+    │   ├── handwritten-pegon-latin/          # 90 phonetic Latin transliterations directly from Pegon
     │   ├── 1973-typescript/                  # 57 diplomatic markdown files (IMG_0001.md – IMG_0057.md)
     │   └── archive/                          # Archived composite editions (Pegon, Latin, English)
     └── pipeline/                             # Transcription & translation intermediate artifacts
@@ -98,6 +99,7 @@ Every scanned page has an exact, dedicated markdown transcription file named aft
 | **Hikayat Ratu Tanah Jawa** | Handwritten Pegon (Latin) | [`Hikayat Ratu Tanah Jawa/text/handwritten-pegon-latin/`](Hikayat%20Ratu%20Tanah%20Jawa/text/handwritten-pegon-latin/) | `IMG_0001.md` – `IMG_0125.md` | **125** |
 | **Hikayat Ratu Tanah Jawa** | 1973 Latin Typescript | [`Hikayat Ratu Tanah Jawa/text/1973-typescript/`](Hikayat%20Ratu%20Tanah%20Jawa/text/1973-typescript/) | `IMG_0058.md` – `IMG_0104.md` | **47** |
 | **Sejarah Ratu Tanah Jawa** | Handwritten Pegon | [`Sejarah Ratu Tanah Jawa/text/handwritten-pegon/`](Sejarah%20Ratu%20Tanah%20Jawa/text/handwritten-pegon/) | `IMG_0001.md` – `IMG_0090.md` | **90** |
+| **Sejarah Ratu Tanah Jawa** | Handwritten Pegon (Latin) | [`Sejarah Ratu Tanah Jawa/text/handwritten-pegon-latin/`](Sejarah%20Ratu%20Tanah%20Jawa/text/handwritten-pegon-latin/) | `IMG_0001.md` – `IMG_0090.md` | **90** |
 | **Sejarah Ratu Tanah Jawa** | 1973 Latin Typescript | [`Sejarah Ratu Tanah Jawa/text/1973-typescript/`](Sejarah%20Ratu%20Tanah%20Jawa/text/1973-typescript/) | `IMG_0001.md` – `IMG_0057.md` | **57** |
 
 ### Archived Unified Editions
