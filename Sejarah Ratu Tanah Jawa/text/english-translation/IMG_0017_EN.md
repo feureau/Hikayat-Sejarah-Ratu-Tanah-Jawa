@@ -1,0 +1,55 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0017.jpg
+- Scan Index: 0017
+
+## Text
+
+---
+
+- 17 -
+
+of Java, which was exceedingly prosperous, and after a long time the twenty thousand people multiplied, 
+having many children spread evenly throughout all the Land of Java. Then Sang Nata (The King) Prabu Sindulo 
+had an only son, who was very handsome, strong, and brave, given 
+the name by his father: Sang Dewata Cengkar. He was exceedingly 
+/* [?] */ demanding in his household, and all the people of Mendang were very afraid of Raden Dewata 
+/* [?] */ Cengkar. When he reached adulthood, he often disturbed his father, insisting on becoming 
+King, but his father did not yet trust him. Thus, over time Raden Dewata Cengkar tried to
+force it, as it was the will of Subhanahu Wata'Ala (God Almighty) that the Javanese kingdom would briefly change hands, 
+[p.55.] and his father had to be forced. / But Nata Sindula could not bear to be cruel 
+to his son. As time passed, Raden Dewata Cengkar grew furious with his 
+father, Sang Nata Sindulo, and repeatedly hit his father with a whip.
+This angered Nata Sindulo toward his son, and he spoke the words: 
+"Hey, Dewata Cengkar, may you not be like ordinary humans!" Then, 
+he roared and vanished into the sky XXXXXXxxxxxx". Then Nata Sindulo vanished, returning 
+to the cave, but Patih Mangkurat could not be left behind by the King. Along with his wife 
+who was heavily pregnant, the wife of Ki Patih Mangkurat went with him, accompanied by her younger sister, Ni 
+Kasihan. Then she gave birth in the middle of the forest without meeting 
+her husband, and Rara Kasihan's child came out a boy named 
+Jugulmuda. Those left in Mendang were all deeply saddened. After the disappearance 
+of Sang Ratu Sindulo and his Patih, Patih Mangkurat, likewise 
+Raden Dewata Cengkar felt deep remorse for being left by his father, 
+who also had a dream, feeling intense repentance toward his father and asking for 
+[p.56.] forgiveness, but / it was like a fallen stone that could not be thrown back. So 
+/* [?] */ the Raden gave up, deciding that if it was the will of the *Dewa* (Gods) as well as all the people of Mendang, 
+then Raden Dewata Cengkar would reign as King in Mendang, 
+with the name Prabu Dewata Cengkar. His Patih remained the old Dipati Tugur, 
+but he was already old. Then Prabu Dewata Cengkar had a son, 
+who was exceedingly handsome and well-mannered, given the name by his 
+father as Raden Daniswara. As for his father, Prabu Dewata Cengkar, he 
+fell under the curse previously cast by Sang Yang Prabu Sindulo. Every day he ate 
+human flesh, and he did not want the old ones; they had to be youths of handsome appearance. 
+He could not miss a single day; if he missed just one day, even his own son, 
+/* [?] */ Raden Daniswara, would often be targeted to be eaten because of the restlessness of his body. Thus, 
+the Land of Java was ruined again, and they were all in great distress, 
+including Dipati Tugur, because there could not be a single day missed in the offering of humans 
+to the King.
+[p.57.]             As for the history at that time / in the Land of Java, coinciding 
+with the Land of 'Arab (Arabia), the one who was willed to reign as Kalifatullah (Caliph of God) by Lord Allah 
+Subhanahu Wata'Ala, the Wahidul Kohar (The One, The Subduer), the 'Aza Wajalla (The Mighty and Majestic), happened to be 
+the Prophet Mohamad Abibullah (Habibullah) Sallollahu 'Alaihi Wasalam (peace be upon him), the *Mustafa* 
+(Chosen One). As for the history of the Prophet Mohammed Sallollahu Alaihi 
+wasalam, he had five beloved companions. The first was Sayidina Abubakar 
+Sidiq rodiallohu nganhu (may Allah be pleased with him); the second was Sayidina Ngumar (Umar) Farug rodiallohu 
+nganhu; the third was Sayidina Ngusman (Uthman) Dunurini rodiallohu nganhu; the 
+                                                         fourth

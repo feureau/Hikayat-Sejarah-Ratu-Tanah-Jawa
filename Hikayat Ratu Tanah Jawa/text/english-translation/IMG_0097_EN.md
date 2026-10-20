@@ -1,0 +1,54 @@
+# 1973 Typescript English Translation — Hikayat Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0097.jpg
+- Scan Index: 0097
+
+## Text
+
+                                - 40 -
+
+arrives in your outer and inner being, it is exceedingly noble if you execute
+everything that has become the command of that *Ratu*. Because the *Ratu* in his time
+serves as the replacement of His Majesty the Prophet. His Majesty the Prophet serves
+as the replacement of the Lord **Allah Subhanahu Watangala** the Mighty and Majestic, the
+[p.218.] Only Strong One (*Wahidul Kohhar*), which is why it is much better if you have faith / in
+the commands of a *Ratu* who is like that in the material world, even extending to
+the hereafter, it is highly beneficial and good, if in the world
+there is a *Ratu* like that, but if there is an **Islam** *Ratu* in the land
+who uses his own desires, the evidence being that the commands of the *Ratu* if requested
+based on the *hadits*, the *Ratu* no longer cares, then if it is an **Islam** land
+with an apostate (*murtad*) *Ratu* like that. O, remember all descendants of
+**Adam** who still consider themselves **Islam** men and women, it is best for you all
+[p.219.] to retreat just staying in that land, meaning retreating / just by all means do not dare
+to come close, all of you **Islam**, to a *Ratu* like /* [x] */ that, so if
+you fear the tyranny of that *Ratu*, you **Islam** should instead just
+leave from that land. Thus if you cannot leave from that land,
+because there are many difficulties for you if you leave from that land,
+nevertheless by all means all of you **Islam**, just be mindful and be careful,
+strive to protect your *iman* (faith), because if an **Islam** land is currently
+with a *Ratu* like that, that is what is called a time of *fitroh* (trial/chaos), in truth
+[p.220.] the one who becomes the *Ratu* is the accursed *iblis* which is why / just be mindful, **Islam**,
+that as its basis, do not let the *iman* of **Islam** suffer hardship, in truth it is towards the accursed
+*iblis*, fear being frightened and just being bewildered being struck
+in all the *iman* of the descendants of **Adam** who are still **Islam** remaining in
+all the world, do not let it become a war, thus all descendants of **Adam** who
+are **Islam** who are in that land of *fitroh*, all their beliefs become mixed,
+all of them whose *iman* is still protected towards the **Robbil-**
+[p.22/* [1] */^3.] **ngalamin**, they step aside from their positions with great sorrow. Thus /
+if out of necessity all the descendants of **Adam** who still remember
+the commands of *iman* are summoned by a *Ratu* like that,
+they should just obey and come because they are seeking clarity and stepping back for a moment,
+inwardly they are exceedingly grateful in their hearts, moreover if they hear
+any of the commands of that *Ratu*, they completely have no desire at all to listen in their hearts,
+all the descendants of **Adam** who are **Islam**, this is a sign that they are still protected in their *iman*.
+Instead, if they hear any command of that *Ratu*, their hearts immediately awaken
+as if being reminded that the one commanding is their enemy, indeed that is what
+[p.224.] becomes the sign / that they are descendants of **Adam** who are truly **Islam** in the truest
+sense. Thus what becomes the sign of all descendants of **Adam** who are hypocrite (*munafiq*),
+sinner (*fasiq*), and apostate (*murtad*) **Islam**, they all are exceedingly delighted if they hear
+any of the commands of a *Ratu* like that, in fact they use their feelings
+as an object of hatred towards his servants, and furthermore they rummage through
+everything that is the secret of **Islam**, all of it is sought out
+as a place for their own bodies towards a *Ratu* like that. It is very foolish
+if there is still any remaining *iman* among all the descendants of **Adam** who are already
+[p.225.] like that, because they forget / and are bewildered towards everything, becoming dark
+in their *iman* those who act like that in being commanded to have faith in everything

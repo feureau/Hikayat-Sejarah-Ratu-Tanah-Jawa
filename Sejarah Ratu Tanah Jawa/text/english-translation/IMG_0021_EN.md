@@ -1,0 +1,57 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0021.jpg
+- Scan Index: 0021
+
+## Text
+
+---
+
+- 21 -
+
+Sang Pandita, for it was highly pitiable; they were pursued like deer, 
+and no one dared to harbor him. If anyone felt pity and took him in, they would be struck 
+/* [?] */ by the curse of sharing his sin. Thus, Raden Daniswara was highly pitiable, 
+but two loyal servants accompanied Raden Arya Daniswara wherever he went: 
+Pun Daulat and Pun Beja were their names. Then, with the help of the Dewa (Gods), 
+the Raden coincidentally arrived at the palace of his grandfather, Sang Yang Nata 
+Prabu Sindulo, at Guwa Terusan, and finding the door open, 
+Raden Putra Daniswara entered with his two servants. Then, Raden engaged in ascetic sleep 
+[p.68.] in the Kuwaca building; the two servants / joined him in sleep at his feet. 
+There was no movement from the three of them in their sleep, for the entire time 
+they were in Guwa Terusan.
+            As for the history in Mendang, Sang Pandita then became 
+King in Mendang. His Patih remained Dipati Tugur, whose name did not change. 
+Sang Pandita Aji Saka: after becoming King in Mendang, 
+he took the title Sang Yang Prabu Jaka /* M */Mudik Batara. The Land of Java was extremely prosperous, 
+restored to how it was during the reign of Nata Sindulo in Mendang. All the people 
+were pleased with Sang Yang Prabu Jaka Mudik Batara, basically a Sage-King, 
+and he even /* created */ humans, which increased the fear 
+of all the people in the Land of Java towards Nata Mudik Batara. He had a son named 
+Sarpa Naga Linglu/* [? N] */ng Tunggulwulung, as huge as Mount Sasuta, with a mouth like a cave, 
+who was made Pangeran Dipati (Crown Prince). Prabu Jaka Mudik's process of creating humans 
+/* [?] */ in Mendang was kept secret there. His creations, before their clay dried 
+[p.69.] out, / were then infused with souls serving as souls 
+for all those clay figures, using the souls of the humans who had died 
+and been eaten /* previously */ by Nata Prabu Dewata Im/* [X] */ Cengkar, 
+all of which were returned. Prabu Jak/* [X] */ Jaka submitted to Robbil'Alamin, 
+so the souls of the dead returned, all those eaten 
+by Prabu Dewata Cengkar before, all of them ultimately became 
+those who ate humans and created humans, returning to the origin because Prabu Jaka 
+had the water of life given by Malaekat Ngijajil Laknatullah. When 
+the clay dried, the clay was infused with a soul, and the clay came to life, 
+standing up like a person waking up from a long sleep; such was the awakening of the clay. 
+Thus, Prabu Jaka Mudik Batara created many humans. The ones who 
+served Prabu Jaka in creating humans were his two companions, Dora 
+and Sambada. All the people of Mendang were absolutely forbidden to see 
+the process of making all those clay figures, but they were the ones making the clay forms and 
+[p.70.] fetching the clay for the people of Mendang. / After a thousand clay figures were made, 
+Dora and Sembada became the overseers of all the workers 
+who guarded Prabu Jaka. His son, Pangeran Dipati Linglung, was ordered 
+to meditate on the mountain by his father, Prabu Jaka. After a long time 
+of Naga Linglung meditating, his body was no longer visible because it was overgrown 
+with all kinds of trees and grass, turning into what looked like a mountain. 
+Then, there were thirty shepherd boys, and when it rained extremely hard, 
+the thirty boys ran to seek shelter in what they thought was a cave. 
+/* [?] */ The boys were then swallowed by Naga Linglung, who was inherently hungry. 
+It was then reported to his father, Prabu Jaka, that his son had done this. 
+                                                         this

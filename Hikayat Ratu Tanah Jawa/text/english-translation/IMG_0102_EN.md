@@ -1,0 +1,47 @@
+# 1973 Typescript English Translation — Hikayat Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0102.jpg
+- Scan Index: 0102
+
+## Text
+
+                                - 42 -
+
+[p.2/* [31] */^29.] / that is permissible if "as" sitting for a moment lifting three times the boundary of
+the hidden *dhikir* (*ghoib*) which is concealed (*ghinaib*). 8 This is what is recited first, reciting
+*tangawuzh* three times, then *Surat Ikhlas* three times, *Falaq* three times, *Binas* (*Nas*)
+three times, then the intention of *dhikir nafsi asjabah* again three times, *dhikir*
+/* [margin: / sifat] */ *asjabah* three times, *dhikir ism* / three times, *dhikir ism dhat* three times,
+*ism ghoib* three times, *dhikir is/* ^t */m ghoib* within the hidden (*dalem ghoib*) three times, then
+recite internally *Surat Yasin* three times, every single time accompanied
+by the hidden *dhikir* once, reciting *yakidu ya-kada* three times, hidden *dhikir* once
+[p.230.] reciting: "O **Allah** *don/* [o] */^u bawani kabiron wa ngala* / *wa ngali karibun wa naj-*
+*-alli kalifun*, O **Allah**, the time of death of His Majesty **Rosulullahi** has come, but
+You are the One who accepts my deeds and multiplies
+my deeds. O **Allah**, may You accept my request to You."
+Then rest for a moment if it has not been accepted, lift again starting
+like before again, three times its limit *ghofarolahum*. 08 As for this,
+the explanation of the root of action is intention (*niyat*), the meaning of what is called the root of action intention
+is not your action following your material desires in the world, because your actions
+[p.233.] in the world that follow desire /* [x] */ are mostly in vain; rare / are your actions
+that become beneficial in the world extending even to the hereafter, let alone many that
+obtain heaven, your actions that follow worldly desires. 8 As for the meaning of what
+is called being enveloped by intention, that is the five-time daily prayers which are perfect
+in the world extending to the hereafter, there is no longer any action that balances it
+in the world, that is what is called a human being who has reached *Insan Kamil* (Perfect Human),
+not forgetting the **Robbilngalamin** (Lord of the Worlds), indeed truly if one's remembrance is unbroken
+and surrendering one's heart who has become like that. 8 This is the form of what is
+called the root of action intention; if after the *Subuh* (dawn) prayer you are
+[p.234.] certain in intention expecting to proceed to / the time of /* [dhohir] */ *Dhuhur* (noon),
+from *Dhuhur* proceeding to the time of *Ngasar* (afternoon), from *Ngasar* proceeding to the time of
+*Maghrib* (sunset), from *Maghrib* proceeding to the time of *Ngisjak* (night), from *Ngisjak* if it is not yet
+perfect and still an aspiration, it becomes a sign that you must indeed return proceeding
+again to the time of *Subuh*, thus returning as was counseled again,
+if the time is redeemed in a day and a night, likewise every /* [?] */ time
+its praise does not have the same count, it must not be more or less,
+there is two, there is four, there is three, which is why the counting becomes increasingly rare
+because it is the will of **Subhanahu Watangala** that becomes its root
+and everything indeed uses its own respective times, that is
+[p.235.] the sign of the world / its name. 8 This is the explanation of the root of the prayer's intention;
+starting from taking the *wudlu* (ablution) water, you must be certain that your heart is suspended
+upon a particular time, which is why you must be vigilant
+                                                          _towards_

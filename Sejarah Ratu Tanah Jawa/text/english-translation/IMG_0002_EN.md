@@ -1,0 +1,18 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0002.jpg
+- Scan Index: 0002
+
+## Text
+
+---
+
+- 2 -
+
+and his wife, so the leaves of the *"anjir"* tree mistakenly called out to the Prophet and his wife, telling both to take its leaves to cover their private parts. The Prophet and his wife then took the leaves of the *"anjir"* tree, and the leaves evenly covered the private parts of the Prophet and his wife, serving as their lower garments and wraps. Then the wrath of the Lord of the Worlds 
+[p. 5.] fell upon the Prophet and his wife, while Iblis remained hiding in Paradise, and upon those guarding the gates of Paradise—the peacock and the dragon—as well as the *"anjir"* tree. Then God, the Sublime, sent the Angel Jibrail (*peace be upon him*) to expel Prophet Adam and his wife Mother Eve from Paradise to the world, because they would cause impurity in Paradise. As for Iblis, may God curse him, who was still hiding in Paradise, he could not leave Paradise along with the dragon and the peacock because they were the ones guarding the gate of Paradise, and the *"anjir"* tree because it provided clothing for Prophet Adam and Mother Eve. They were all ordered to be expelled by the Lord of the Worlds from Paradise to the world. Now, the story of why God, the Sublime, the Unique, the Subduer, was so deeply wrathful toward Prophet Adam is because he committed three sins: first, Prophet Adam neglected the warning of the Lord of the Worlds; second, he obeyed the words of his wife Mother Eve; third, 
+[p. 6.] Prophet Adam partook of the *khuldi* fruit. Consequently, Prophet Adam became subject to urination and defecation just like in the world. Such was the impurity in Paradise. Then came the Angel Jibrail (*peace be upon him*) into Paradise, carrying the wrath of God, the Sublime, for Prophet Adam and Mother Eve. The Angel Jibrail (*peace be upon him*) grabbed Prophet Adam and Mother Eve by their right and left hands, and brought them down to the world. Their dwelling places were separated: Prophet Adam fell on Mount Surandhil in the land of Ceylon (Sri Lanka), Mother Eve fell on Mount Ngarpah in the land of Syria, the dragon fell in the land of Yemen, and the peacock and the *"anjir"* tree fell in the land of Java. Then the Angel Jibrail (*peace be upon him*) returned to Paradise to search for Iblis, may God curse him, who was in hiding. The Angel Jibrail (*peace be upon him*) was furious 
+/* [furious] */
+with Iblis, may God curse him. When Iblis, may God curse him, saw the Angel Jibrail (*peace be upon him*), he tried to flee, but he was grabbed 
+[p. 7.] by the Angel Jibrail (*peace be upon him*), who severely punished him. The punishment inflicted upon Iblis was extreme, and his cries were terrible. Then Iblis, may God curse him, was cast out 
+/* [Isfahan ?] Isfahan */
+by the Angel Jibrail (*peace be upon him*) from Paradise to the world, falling into the lowest of the low (*asfal as-safilin*). In that land of the lowest of the low, Iblis, may God curse him, was also struck by the wings of the Angel Jibrail (*peace be upon him*) as he was cast out, causing him to land unconscious in the lowest of the low. When he regained consciousness, Iblis, may God curse him, was extremely overjoyed because his temptation had been accepted, having successfully brought down Prophet Adam. Once Prophet Adam and his wife Mother Eve were cast out of Paradise to the world, it was certain that this would affect the descendants of Adam in the future, as they were now in the world. As for Prophet Adam (*peace be upon him*), the story of 

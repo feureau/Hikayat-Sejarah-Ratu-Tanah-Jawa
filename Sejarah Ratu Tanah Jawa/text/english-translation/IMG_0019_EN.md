@@ -1,0 +1,55 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0019.jpg
+- Scan Index: 0019
+
+## Text
+
+---
+
+- 19 -
+
+for Iblis. If he remained in the Land of Arabia, he would inevitably disrupt 
+the religion of Islam. That is why Aji Saka Laknatullah 
+[p.61.] who was *na'udzubillahi min dhalik* (we seek refuge in God from that) was ordered to be expelled by the Prophet Mohamad Rosulullah / 
+the Mustafa. Finished, *Wallahu A'lam bisawab gofarolahum Allah ya Rabbi 
+ya gafur* 3 (God knows best the truth, may Allah our Lord, the Oft-Forgiving, forgive them).
+            As for the history of Aji Saka after being expelled by the 
+Prophet Mohammad s.m., it was a sign that he was definitively a disbeliever towards 
+Subhanahu Wata 'Ala. Aji Saka thought in his heart that if he did not leave 
+from the Land of Arabia, he would certainly be killed. If he died, because he had 
+received no forgiveness, he would certainly face punishment, for he was already declared a disbeliever. 
+/* [?] */ Even if he faced punishment, in the end, if he took him as a companion, it would become magic. 
+Then Aji Saka left, arriving in the Land of Arabia wandering about 
+/* [مجنح ?] */ Aji Saka headed to Pule/* E */ where Aji Saka met again 
+with his teacher, Malaekat (Angel) Idajil Laknatullah, at Pule/* E */, and then 
+Aji Saka wept, bowing down at the feet of his teacher, Malaekat Ijajil Laknat-
+/* [?] */ -ullah. Then Ngijajil Laknatullah spoke and laughed happily, 
+[p.62.] Ngijajil: "Hush, my son, I will tell you. /* / regarding all your actions like that */ 
+it is already the will of Subhanahu Wata 'Ala that you are chosen in the world to be made 
+/* [?] */ a counterbalance to religion. You are very fortunate, /* holo batur dene konco ? */ 
+in truth, you are equal to the Prophet. However, the left path 
+is yours to rule, /* [e 2] */ and it will not be different, for both the right and left paths belong to Robbil 
+'Alamin. I am the one who nurtures you wherever 
+you go, my son. I will not be negligent, even though the Prophet 
+has Malaekat Jobarail (Angel Gabriel) guarding him, I will guard you, so you will not 
+be lacking. Come, let us go to the Land of Java, hurry up while it is empty 
+and there is no King in the Land of Java. Spread the knowledge of the left path; it will surely quickly spread evenly. 
+In Arabia, the knowledge of the left path will not sell, except in the Land of Java 
+in the end. It will not be different between the knowledge of the right and the left, regarding 
+fortune and misfortune, destiny cannot be changed. As long as people are in the world, 
+they are just passing through, so let your heart be at ease." Such were the teachings 
+given to Sang Aji Saka. Then he fled to the Land of Java 
+[p.63.] arriving at/Pu/* ^te */le. His companions, Dora and Sambada, were sick. 
+After arriving in the Land of Java, the mother of all things, on the journey, is not described here. 
+/* [?] */ Aji Saka headed to Mount Merapi, then to 
+Mount Sindara, then to Mount Kendeng, while teaching 
+all knowledge as well as the twenty letters of the alphabet. These are 
+/* [?] */ the forms that became the seeds: [*ha na ca ra ka*, which means: "there are messengers", 
+*da ta sa wa la* which means "they disputed as ordered", *pa dha ja ya nya* which means 
+"they were equally brave and in pain", *ma ga ba tha nga* which means "in the end they fought and 
+died together, both becoming corpses." These are the total letters called the Javanese 
+/* [?] */ alphabet, along with the market days which are five /* kunir awak tanpa jalu. */ This is 
+the origin of the Javanese alphabet and the five market days.] Then many 
+people submitted to Aji Saka, the people of the Land of Java. As well as 
+the esoteric knowledge of feeling that was taught to Aji Saka, for people incarnating and 
+                                                         dripping?

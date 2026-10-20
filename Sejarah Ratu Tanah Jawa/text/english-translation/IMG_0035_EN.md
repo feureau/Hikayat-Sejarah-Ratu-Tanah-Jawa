@@ -1,0 +1,21 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0035.jpg
+- Scan Index: 0035
+
+## Text
+
+---
+
+- 34 -
+
+"like a cloud for example, if it gets its thunder, the rain will surely fall." Sang Prabu Wanadya smiled 
+[p.112.] and softly said: "Hush, do not cry /"
+
+As for the story of the Dukes of the western lands, the village elders were ready, all gathering at the house of Kyai Sat/* [m] */ma in throngs. Then Satma sounded the signal, and the sound thundered, the number of people was uncountable. Thus they had arrived at the forest, and then a perimeter was made at its edge, and they all set up camp properly. All the jinn and subtle spirits whose homes were at the edge of the forest were afraid and all fled, and they informed their leaders. There was a great uproar and the sound thundered. It was then reported to Ratu Ganapuspita, and then reported to Sang Prabu Wanadya, but they were ordered to just terrify all the people. So Buyut Satma ordered to quickly clear the forest, and all the people advanced together. 
+[p.113.] Then the subtle spirits teased them, some terrified them, / and there were subtle spirits who poked them /* [X] */ when people were defecating, their anuses were smeared with Gudam (pitch?), and then many people became sick.
+
+Then Kyai Satma took the lead with his children and grandchildren, and Kyai Satma understood the true forms of all these subtle spirits, and his children and grandchildren attacked, and the subtle spirits immediately scattered. They then went and reported to Ratu Ganawati, and then all the jinn Dukes were ordered to take form and all the jinn took action. However, it was only Buyut Satma and his children and grandchildren. The multitude of people had not yet seen the true forms of the jinn, and instead thought Kyai Satma and his children and grandchildren were crazy. But among them, some realized that Buyut Satma was truly fighting the subtle spirits, and Buyut Satma was exceedingly steadfast. In his battle with his children and grandchildren, surrounded by all the jinn, Buyut Satma swung wildly. Satma and his relatives were not overwhelmed. The King of Jenggala had seen and watched the battle of Buyut Satma and his children and grandchildren, but the King remained unseen. 
+[p.114.] Even the jinn / did not see the King (*Nalendra*), but Satma smelled the scent of *lenga jayeng-katon* (visibility oil). Buyut Satma recognized that this was the scent of his Lord, so Buyut Satma's heart became calm. The King felt great pity seeing the battle /* [X] */ of Kyai Satma and his children and grandchildren. If they were to be struck by weapons, Satma and his children and grandchildren would not survive a single moment. Then the King prayed to Sang Yang Wasesa. Let the Kingdom of Galuh be visible, and let the multitude of people see the jinn and their kingdom. Suddenly it became bright as day, and all the people saw the kingdom and everything. The forest had vanished, the kingdom appeared like heaven (*suwarga*), and many, many people were surrounding Ki Satma and his children and grandchildren, while Buyut Satma and his relatives swung wildly. Then the village elders and the Dukes furiously sounded the signal, advancing together to help Ki Satma, simultaneously attacking the jinn. Then they fought fiercely without yielding, for the number of jinn and humans was equal. 
+[p.115.] The people were very happy / the village elders and Dukes, although the King remained unseen.
+
+Thus when Kyai Satma looked at the forest, it had vanished and was replaced by a kingdom that was exceedingly grand and beautiful. All the jinn were greatly shocked that their attack was blocked. The jinn were extremely terrified of the multitude of humans, because the humans had skin like iron vessels against all the jinn's weapons, which did not penetrate at all. So all the jinn retreated and fled, and were then pursued by all the humans.

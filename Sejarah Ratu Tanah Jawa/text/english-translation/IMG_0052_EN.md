@@ -1,0 +1,19 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0052.jpg
+- Scan Index: 0052
+
+## Text
+
+---
+
+- 51 -
+
+fathered *Kyai Ageng* Nis. *Kyai Ageng* Nis fathered *Kyai Ageng* Mataram (*Mentaram*). *Kyai Ageng* Mataram fathered His Highness *Panembahan Senopati Ngalaga* in Mataram. This was the beginning of the first reign of the descendants of Lembupeteng Bondhan Kejawan in Mataram, titled His Highness *Pamenahan Senopati Ngalaga Mangkurat Tanah Jawa* with his palace in Mataram. He was exceedingly powerful in battle in the land of Java. That is why the land of Java became a single kingdom. His Highness Sultan of Mataram was known as His Highness Sultan Seda Krapyak. His Highness Sultan Seda Krapyak fathered His Highness Sultan Ngabdulrahman, known as Sultan Agung. His Highness Sultan Agung was a King whose Islam was perfect, because he fulfilled the five pillars (of Islam). However, the palace of His Highness Sultan Agung moved from Kutha Gede Mataram, called
+[p. 167.] / still Mataram, and he then fathered His Highness /* [xxxxx] */ ^Sunan Mangkurat. His Highness Sunan Mangkurat's palace moved to Pleret, also still Mataram; he was known as His Highness Sunan Tegalarum, because when His Highness Sunan died, it was his will to be buried in Tegalarum. He then had two sons. His Highness Sunan Tegalarum's eldest son was named Sunan Mangkurat, the younger one was named Sinuwun Mangkubuwana. His palace moved from the land of Mataram to the land of Pajang, called Kartasura. However, the lineage of the older brother, His Highness Sunan Mangkurat, did not reign; the one who reigned in Kartasura was the lineage of the younger brother, His Highness Sinuwun Mangkubuwana, His Highness Sinuwun Prabu. His Highness Sinuwun Prabu had two sons,
+/* [margin: 30 / Ramadan / AH 1253 / 1765] */ who reigned over the two kingdoms in the land of Java, Pajang and Mataram. But the kingdom of Pajang moved from Kartasura, and the palace of Pajang was called Surakarta. Meanwhile, the kingdom in the land of Mataram moved and was called Ngayogyakarta. And the names of these two Kings were the same,
+/* [p. 171.] */ both were subsequently named Mangkubuwana, but what differed was only the beginning:
+[p. 170.] in Pajang named Sunan, in Mataram named Sultan. / This was the beginning of the ruin in the land of Java, because the infidels /* [w] */^already participated in ruling all of the land of Java. They were patient; half of the land of Java was entrusted, and its revenues were offered to the reigning Kings in Pajang and Mataram. The half that
+/* [margin: Dutch / divide and / * Rule / Tactics] */ reigned as /* [Ratu] */ King of the land of Java was divided equally, feeling like it belonged to the two Kings. This was the cunning of the infidels, may God curse them (*laknatullah*). In the front of Mataram, Pagelen and the mountainous outer regions (*Mancanagari*) were taken, which is why more and more Javanese people strayed from the Religion at that time. At first, not all forms of this were told, but it was the will of the writer to tell it. However, only in the kingdom of the land of Mataram in Ngayogyakarta, His Highness Sultan Mangkubuwana who reigned first in Ngayogyakarta was known as His Highness Sultan Prakosa. He had sons whose names did not change, still named His Highness Sultan Mangkubuwana, but their monikers varied. The second His Highness Sultan Mangkubuwana was known as
+/* [p. 172.] */ His Highness Sultan /* [x] */ Mangun Tapa. His Highness Sultan Mangun Tapa fathered the third Sultan Mangkubuwana, known as His Highness Sultan Raja. His Highness Sultan Raja fathered the fourth His Highness Sultan Mangkubuwana, known as His Highness Sultan Seda Pesiyar. This happened because it
+[p. 171.] was superseded by the will of God Almighty (*Gusti Allah Subhanahu Watangala*) in the land of Java,
+who

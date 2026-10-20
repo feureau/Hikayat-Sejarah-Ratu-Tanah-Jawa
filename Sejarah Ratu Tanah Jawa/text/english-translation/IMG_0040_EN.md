@@ -1,0 +1,21 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0040.jpg
+- Scan Index: 0040
+
+## Text
+
+---
+
+- 39 -
+
+and weapons, yes, I will be the one to prove if the King of Java is powerful, now falls my arrow." It was released and flew straight, hitting his chest, but immediately Sri Nalendra raised his guard, and the King caught the weapon. It shattered completely, and Sang Prabu Wanadya was startled. She then took an arrow and immediately released it, but despite being parried, they both broke without any issue. All the weapons that fell upon the King of Jenggala were forced 
+[p.130.] to turn away and were seized / caught by his three maids. None of them had any effect on the King of Jenggala, and she had run out of all her weapons. Thus Prabu Wanadya became extremely angry that her weapons were exhausted, and then she advanced toward the King of Jenggala, while drawing her kris. It struck straight, but the kris was snatched away by the King of Jenggala, broken into pieces, and then thrown away. Thus Sang Prabu Rara was startled and felt repelled in her heart. Prabu Wanadya retreated. Immediately the King of Jenggala spoke while laughing: "How is it, my jewel, my goddess, that none of your great weapons have any effect, granddaughter? If you have more, rain them down quickly." /* [X] */ 
+
+Sang Prabu Rara replied, speaking /* [X] */ with extreme anger: "Reckless human, do not laugh! I will /* [?] */ report you to my royal grandfather, Sang Yang Nata Sindula." The King of Jenggala smiled: "By all means, my jewel, go and report me." Sang Prabu Wanadya then flew off, and in no time arrived at the glass room. Meanwhile, the servants Manawa and 
+[p.131.] Manawi both offered their lives / to the three /* [y] */ maids, and it was answered that the two of them became their husbands. So the three /* ^i */ maids then all gathered, their anger vanished, and the three of them joked around. Thus the King of Jenggala gave his blessing, and then they all returned as they wished. Sangkaningrat/* [-nya] */ Mayangkara was then given the name Prabu Banjaran-banjaran, and was able to /* ^e */ appear with his whole army of all the Maidens, as well as Ratu Puspa. Then they entered Jenggala, and in that kingdom he reigned as the King of Java. Finished, and God knows best the truth, may He forgive them, O Allah, O Lord, O Forgiver (4 times). 
+
+As for the story of Sang Prabu Rara, the King of Galuh, upon her return from Mount Guwa Terusan, she was not indulged by her grandfather, Sang Yang Nata Sindulo, because it was already her destiny. However, she was given the heirloom *gandar panunggul*, as well as the spear Kyai Plered, which was used to kill Aji Saka. But the warning of Nata Sin-
+[p.132.] -dula was not to boast of battle again, once it has come to pass that / Raden Bangs/* [^a] */alelana reigns as King. So Ratu Galuh, Dewi Suprabawati, returned, and the warning of Sang Yang Sindulo was conveyed to Ratu Kidul. They all submitted to this will because they could no longer wage war. But the will of Nata Supraba in the Galuh forest was to make it the fixed center of the realm, acting as the scholarly leader (*ngulama*) of the Kings of the Jinn and Subtle Spirits, whose subtle nature was beyond comprehension. Only Galuh was made into a palace, and Nata /* [kang] */ Suprabawati became Ratu Kidul in Galuh, serving as her vizier who was in Galuh. And it came to pass that the King of Jenggala /* [dene] */ loved Ratu /* [Ki] */ Supraba, and furthermore, the King of Jenggala was a man. As for Galuh, none of her wishes were refused by the King. Finished, and God knows best the truth, may He forgive them, O Allah, O Lord, O Forgiver (5 times). 
+
+As for the sixth story in the Land of Java, as written, after the fall 
+[p.133.] of the Kediri kingdom, Java became extremely chaotic. There was already / much news of the King of Cirebon, who served as the Final Wali in Ngampelgadhing. After his passing, only Susuhunan Ratu of Giri remained, who was the most capable King, possessing great power and wisdom, and was feared in all his actions by all the Walis

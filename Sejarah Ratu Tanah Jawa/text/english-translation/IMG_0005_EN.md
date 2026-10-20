@@ -1,0 +1,16 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0005.jpg
+- Scan Index: 0005
+
+## Text
+
+---
+
+- 5 -
+
+After the Angel Jibrail (*peace be upon him*) shook hands with Prophet Adam (*peace be upon him*), the Angel Jibrail (*peace be upon him*) vanished from Mount Surandhil before Prophet Adam (*peace be upon him*). Then Prophet Adam (*peace be upon him*) descended from Mount Surandhil in the land of Ceylon wielding the *kastuba* wood staff, heading toward Malebari. As for Mother Eve, who was on Mount Ngarpah in the land of Syria, her weeping was no different from her husband's. Then the Angel Jibrail (*peace be upon him*) came before Mother Eve (*may God be pleased with her*), announcing that Mother Eve had been forgiven by the Lord of the Worlds, and providing garments for Mother Eve (*may God be pleased with her*) from Paradise. Mother Eve (*may God be pleased with her*) immediately prostrated in gratitude to God, the Sublime. After prostrating, Mother Eve 
+[p. 15.] (*may God be pleased with her*) put on the garments. Once dressed, Mother Eve was taken by the Angel Jibrail (*peace be upon him*) from Mount Ngarpah in the land of Syria to Husnia Malebari. As the story goes, Prophet Adam (*peace be upon him*) arrived in Husnia Malebari, and by chance, he went straight to the Masjid al-Haram. Prophet Adam (*peace be upon him*) saw that his wife, Mother Eve, was already in the Masjid al-Haram, and her garments were beautiful. Likewise, Mother Eve saw her husband, Prophet Adam, arrive, and his garments were also beautiful, and he was 
+/* [wielding] */
+wielding the *kastuba* wood staff. Mother Eve (*may God be pleased with her*) then ran toward her husband, Prophet Adam (*peace be upon him*), and bowed down before him. The meeting of Adam and Eve at the Masjid al-Haram occurred after they had completed the Hajj, may God forgive them. After they met, they both prostrated in gratitude to God, the Sublime, the Unique, the Subduer, the Mighty and Majestic. After rising from their prostration, 
+[p. 16.] the Angel Jibrail (*peace be upon him*) arrived bringing the grace of God, the Sublime, to Prophet Adam (*peace be upon him*) and his wife Mother Eve (*may God be pleased with her*), informing them that by the will of the Lord of the Worlds, the Prophet and his wife were commanded to reside permanently in Mecca, and Prophet Adam (*peace be upon him*) was commanded to build the Qibla of God. Prophet Adam was given Ten Books, and the one remaining *khuldi* fruit from Paradise was ordered to be given to Prophet Adam. The will of the Lord of the Worlds was for him to create seeds to be planted in the world, and Prophet Adam was given fire from Hell, as well as a male and female horse from Paradise, and a male and female sheep from Paradise. The *khuldi* fruit was ordered to be torn into pieces and scattered, which would grow into a thousand kinds of sustenance in the world; all of these came from the seed of the *khuldi* fruit from Paradise. The story of Prophet Adam (*peace be upon him*) residing for a long time in the world as willed 
+[p. 17.] by God, the Sublime, with his wife Mother Eve (*may God be pleased with her*). Prophet Adam (*peace be upon him*) was created by God, the Sublime, the Unique, the Subduer, to manifest His will.

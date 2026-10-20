@@ -1,0 +1,35 @@
+# 1973 Typescript English Translation — Hikayat Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0101.jpg
+- Scan Index: 0101
+
+## Text
+
+                                - 41 -
+
+commanded by the Lord **Allah Subhanahu Watangala** the Mighty and Majestic, the
+Only Strong One (*Wahidul Kohhar*) which are all present within the **Qu'ran**. Thus what
+becomes the sign that the **Robbilngalamin** grants help to the land
+during the time of *fitroh* (trial/chaos) to all descendants of **Adam** who are still
+truly **Islam** men and women, **Subhanahu Watangala** chooses
+among the descendants of **Adam** who are in the time of *fitroh* to be made the leader
+in the *sabilullah* (holy war), meaning a *Ratu* (King) because regarding the *sabilullah* war
+[p.226.] it is not permitted / if all the descendants of **Adam** who are truly **Islam**
+if they have their own individual desires regarding the *sabilullah* war, it is certain
+that they will encounter sin, that is if the Lord **Allah Subhanahu Watangala** the Mighty
+and Majestic, the Only Strong One (*Wahidul Kohhar*) has not yet granted a *Ratu* who serves as
+the leader of the *sabilullah* war. Thus if in that land of *fitroh* the **Robbil-**
+**-ngalamin** has willed to choose among the descendants of **Adam** to be made a *Ratu*
+in the land of *fitroh*, it is an absolute necessity /* [arx] */ that all **Islam** must
+gather together towards that *Ratu*, as well as those who are hypocrite (*munafiq*), sinner (*fasiq*),
+[p.227.] and apostate (*murtad*) **Islam**, all of them gather / behind that *Ratu*, indeed that is /
+
+
+
+
+[p.228.] X the *sabilullah* war / towards all of them
+
+
+
+
+that and claiming power, as well as the dominion of the accursed *iblis* that is
+[p.229]  in /

@@ -1,0 +1,19 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0033.jpg
+- Scan Index: 0033
+
+## Text
+
+---
+
+- 32 -
+
+in this garden. Now your questioning is in vain, because we have met and have the same desire, I want to forbid you 
+[p.105.] you want to forbid [me] / so we are just the same. If you ask /* [ana] */ for my name, it is long and you will not be able to call it. What is your name, my lady (*nilakrama*), I wish to know, and where do you come from?" Then Suradewati said harshly: "Indeed a reckless human, you are asked but have not answered, instead you ask in return. Galuh is my home, yes. Suradewati is my name, I have come to patrol this garden which belongs to Sang Prabu Wanadya, and the pool is a bathing place that others may not step into. Even a jinn or spirit would surely be killed if they enter the garden, for the prohibition is very strict. You are a human and furthermore have no manners, you will surely die, but I will forgive you, which is why I am only seizing your belongings." Then Suradewati spoke again: "Come, tell me your name and your home." The King smiled and said: "My home is the glass room. My name is long, and if you cannot say it, then there is no point in me admitting it." Then the maiden said again: "Well then, even if it is very long, I want to know, you 
+[p.106.] already know my name." The King smiled; /* "But say do not forget */ and call my name. Sang Prabu Banjaransari arum wangi tawang tuna sumbaga panji rerangin jebat kasturi terung gadung garu candana rasa mala Kang Mas Raden My Husband, come, call me." Then the maiden chuckled mockingly: "What kind of person's name is that? As soon as I follow it, you will just boast, claiming me as your wife."
+
+Then Manawi and Manawa said: "Sister, do not be so conceited, a woman and a man meeting, both alone and still young, we will be the witnesses." Then the two, Manawa and Manawi, were chased and plunged into the water, pretending to scare the King of Jenggala, while pleading with sweet words: "Sister, do not be so angry, it is useless. The intention in the heart of this man is good, appropriate, /* [X] */ he has the look of a King and perhaps this is indeed the one from the dream, Sri Nalendra 
+[p.107.] but it is a great pity for this man, for he has become an enemy of the kingdom / if he were not an enemy of the kingdom, my heart would be deeply in love. Your actions are reckless, it is better not to be seen." Suradewati then spoke fiercely: "Hey, hand over your kris and your clothes, or do you prefer to die?" Then the King smiled and said: "My love, my jewel, why take the dress and the kris, there is only one. You are welcome to take them, but take me along with them, and make me your servant to wait on your every command." Suradewatya glared and said: "I am not willing to keep you, you are unruly and reckless. If you do not give your kris, you had better die, disaster will soon befall you." The King smiled and said: "I left my kingdom searching for a way to die, so come, do as you wish." The maiden was furious: "Then disaster is upon you!" She unsheathed her sword, saying: 'This will be the end of you.'" The King (*Nalendra*) smiled and said: "Do not be angry, my goddess, this is useless." /* [XXXXXXX] */ The maiden attacked, and then struck 
+[p.108.] the King with her sword: "Your sword is broken." The King smiled / and said: "There, your weapon is broken."
+
+Then Suradewatya became enraged; /* [X] */ she drew her dagger (*patrem*) but it too snapped. The King of Jenggala said: "My jewel, your weapon /* ^inya */ is broken." The maiden wept and said: "Come, fight back, if you are truly a warrior." The King (*Nalendra*) smiled and said: "I am, my lady /* afraid */

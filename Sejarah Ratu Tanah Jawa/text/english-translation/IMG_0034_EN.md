@@ -1,0 +1,18 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0034.jpg
+- Scan Index: 0034
+
+## Text
+
+---
+
+- 33 -
+
+afraid of creating trouble for the King in the future, only if Prabu Wanadya is here, and if permitted, inevitably I /* [X] */ will fight back." The Maiden was embarrassed and so she said: "Hah, then be careful, I will report you to Sang Yang Sindula, disaster will surely befall you." Then the King (*Nata*) smiled and spoke softly: "My Jewel, go and report." The Maiden glared, then flew off for a moment and had already arrived in the presence of Sang Yang Sindula; she then kissed his feet while weeping. The King (*Nata*) smiled and said: "Speak, what is it?" Thus she reported everything that was wrong. Sang Yang Sindula said: "My granddaughter, I am indeed afraid, yes, of the person in the garden, for he is favored by the gods. Now return, report 
+[p.109.] to your King." If in Galuh / the person in the garden is there, therefore she should quickly return and speak truthfully. Suradewatya then departed from the presence of Sang Yang Sindula; /* [X] */ flying for a moment, she arrived before Sang Prabu Wanadya, with all the court maidens gathered. Those who were before the King (*Nata*) were Ratu Ayu Ganawati and Ratu Ragawati, who were all startled at the arrival of Suradewati, who then prostrated at the feet of Sang Prabu Wanadya, and Suradewati wept.
+
+The heart of the King (*Nalendra*) was stirred, it was clear that something had happened. Then she said: "Come, sit down and report, is it true there is a human in the garden?" Thus, having sat down, Suradewati then reported everything from the beginning, middle, to the end. Then the King of Galuh said: "Did you not then report to your royal grandfather?" Suradewatya replied with the words of Yang Nata: "Indeed, this person is favored by the Gods (*Dewa*), which is why the King (*Nalendra*) is afraid, and 
+[p.110.] warned / again." Then Ratu Ganawati appeared angry and interrupted the King's words: "What does his home look like and what is the name of this human?" Then Suradewatya said to Ratu Ganapuspita: "As for the appearance of the human, he is very arrogant, tall, slender, handsome but reckless, with two servants who are very comical and disfigured. He claimed his home is the glass room (*getdong kuwaca*), and it seems he has slept there a long time on the King's bed, the golden bed. I arrived /* [X] */ when there was no one there, so I bathed in the garden. I did not expect that this person was there, so I just bathed /* [dumateng] */ without any manners, and it seems he observed all my clothes." Thus /* [M] */^they all the court maidens laughed loudly.
+
+Then Ratu Ganawati asked again: "What is the sign that you call him observant?" Suradewati replied: "Because after I bathed, I 
+[p.111.] then picked flowers / I was very startled, I struck him but he did not fight back, only my sword and dagger broke. Then I forced it until all my weapons were gone, but he still refused to fight back, promising to do so only tomorrow, if permitted by the Maiden King." So they all laughed loudly at this. Then Sri Nalendra smiled, and softly said: "What is the name of this human?" Suradewati bowed and said: "I have forgotten the name of that crazy person." Then the King (*Prabu*) said: "Why do you not remember?" Suradewati replied: "The name was complicated." Thus she reported everything about the name, making everyone laugh loudly together. Suradewati then seemed saddened by his actions /* ^e */ and words: "I feel that you are performing a duty, and different from those who are prosperous. No matter how much I grieve, it is like a cloud"

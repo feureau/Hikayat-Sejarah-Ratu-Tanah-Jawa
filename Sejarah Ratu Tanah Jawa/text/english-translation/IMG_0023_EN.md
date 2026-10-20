@@ -1,0 +1,56 @@
+# 1973 Typescript English Translation — Sejarah Ratu Tanah Jawa
+- Scan File: IMGe_2026-26-01-10-17-53-50-0023.jpg
+- Scan Index: 0023
+
+## Text
+
+---
+
+- 23 -
+
+his two servants, who were still sleeping, Daulat and Pun Bejo. After they woke up, 
+[p.74.] Raden exited / the cave, continuing his journey southeast 
+from the cave, avoiding all dangers, slipping through and meditating along the way, 
+with Bejo and Daulat taking the lead. Then, a clearing came into view, which was the village 
+called Dukuh Pacukilan. There was one person weeding the dry field, and 
+Pun Bejo asked if he knew the forest called Panungkulan where the widow 
+Kasihan lived. Pacukilan answered that indeed there was a forest called Pan-
+-ungkulan where the widow Kasihan lived. She had a 
+son who was already an old bachelor named Jugul Muda, who was extremely lazy. 
+He was big and clumsy, wearing no proper clothes but only tree bark, his belt 
+was just vines wrapping his body, looking as if planted there. He never wanted to bathe 
+at all. From here, it is very close; this is the forest, the middle one 
+called the Panungkulan forest. Just go straight southeast. X Raden Putra 
+Daniswara smiled and then continued his journey.
+            As for the history in Panungkulan, the widow Kasihan lived 
+in the middle of the forest, bordered to the north, south, and east, with no neighbors or companions 
+[p.75.] except / her one son, who was incredibly lazy. Planting 
+was out of the question; even if asked to pull weeds, he completely refused to come. 
+He loved to sleep and eat. Their house from the past was built 
+by his mother alone, just a simple hut (in Mss: Only a simple hut) with her son, 
+who later let it fall into ruin. When it leaked from the rain, he refused 
+to fix his house, the door remained open and dilapidated. 
+It was just a hut made of bamboo grass and peacock grass 
+as the walls, interwoven, with a grass roof. It leaked, and Jaka 
+Jugul Muda would just run outside, not going far, looking like he was bathing. His only 
+saving grace was that Jaka Jugul Muda was afraid of his mother because 
+if Bok Rando scolded him, he would just curl up wherever he was 
+scolded, rolling up in the rain and heat, not moving like a baby, even though 
+he was old, constantly being a burden to his mother. So if Bok Rondo went to the market 
+to sell leaves, whatever she brought back would just be eaten by his mother 
+[p.76.] and even the crops. At that time, / Nyahi Rondo Kasihan and 
+her son Jugulmuda were resting in the shade. Bok Rondo said: "I really want 
+you to remember the past, the teachings of your late father /* [^ "Child ] */ like in the past 
+from your late father: I, Jugulmuda, should serve Mendang, 
+your own Lord." Then Jaka Jugulmuda answered: "Mother, I do not want 
+to serve a fearsome King who eats humans. That is his doing, not just or fair at all." 
+Nyai Rondo said again: "My son, I heard the news 
+that the one reigning in Mendang now has changed to someone named Aji Saka, handsome, young, 
+fair, and forgiving." Then Jaka Jugulmuda said: "Mother, 
+I do not want an enemy. I will not serve anyone other than the descendants 
+of Gusti Prabu Sindulo. In the future, Mother, serve me when 
+I am reigning; yes, a Just King is what I will be called." Nyai Rondo said: 
+"Oh, what future? I am already very exhausted, dear. " Then 
+Jugulmuda answered: "I will tell you, last night I dreamed that you, mother, were holding 
+[p.77.] a child supporting the moon, and / herding all the animals 
+                                                         all of them
