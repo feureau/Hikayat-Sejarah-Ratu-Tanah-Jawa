@@ -6,54 +6,8 @@
 
 ---
 
-- 25 -
+- 23 -
 
+his two servants, who were still sleeping, Daulat and Pun Bejo. After they woke up, [p. 74.] Raden exited the cave, continuing his journey southeast from the cave, avoiding all dangers, slipping through and meditating along the way, with Bejo and Daulat taking the lead. Then, a clearing came into view, which was the village called Dukuh Pacukilan. There was one person weeding the dry field, and Pun Bejo asked if he knew the forest called Panungkulan where the widow Kasihan lived. Pacukilan answered that indeed there was a forest called Panungkulan where the widow Kasihan lived. She had a son who was already an old bachelor named Jugul Muda, who was extremely lazy. He was big and clumsy, wearing no proper clothes but only tree bark, his belt was just vines wrapping his body, looking as if planted there. He never wanted to bathe at all. From here, it is very close; this is the forest, the middle one called the Panungkulan forest. Just go straight southeast. X Raden Putra Daniswara smiled and then continued his journey.
 
-
-[p.83.] / all the people of Panungkulan fought against the Clay Figures. Then Jaka Jugul-
--muda spoke, personally engaging in battle against the thousand Clay Figures alongside Bejo and Daulat, the four of them 
-with Pacukilan. Bejo and Daulat met with Dora and Sembada. 
-The thousand Clay Figures attacked Jugulmuda and Pacukilan. Jaka 
-Jugulmuda and Pacukilan fought the thousand Clay Figures but were not overwhelmed; 
-with Pacukilan, they fell and scattered, the thousand Clay Figures collapsing. 
-Dora and Sambada also fought fiercely against Bejo and Daulat. 
-When Prabu Jaka Mudik Batara saw Dora and Sembada defeated and collapsing, 
-he was exceedingly angry. Then Prabu Jakamudik Batara swooped down, soaring into the sky, 
-carrying the water of life. He sprinkled the water of life on the dead Clay Figures 
-and Dora and Sembada, and they all simultaneously came back to life. 
-Every time they died, they were sprinkled with the water of life, and the Clay Figures and Dora 
-Sembada came back to life again. The four of them cried out in 
-[p.84.] frustration because no weapon could penetrate them; / the four of them were almost crushed, swarmed 
-by the thousand Clay Figures. When the two Waragonos, Sangkaningrat and Mayang-
--kara, saw that Prabu Jakamudik Batara was in the sky 
-carrying the water of life, the two Waraganas, Sangkaningrat 
-and Mayangkara, took flight. Dewi Sangkaningrat drew her bow 
-with tremendous power and shot a *jayatapa* arrow. 
-The water of life was knocked from Sang Prabu Jaka's hand, caught by Mayangkara. 
-The water of life was secured and thrown into the ocean by Dewi Mayangkara. 
-Then Prabu Jaka, upon losing the water of life, fell into a daze, and seeing 
-that the Clay Figures and Dora and Sembada had perished, their corpses scattered, 
-Sangkaningrat and Mayangkara became furious, chasing him down. 
-They descended before Raden Putra. Pursuing Sang Prabu Jaka down, 
-Aji Saka and Raden Putra met, both incredibly powerful, clashing weapons for two days 
-with neither showing weakness. Then they engaged in a battle of spiritual power, but Aji Saka 
-was outmatched, even using / all his tricks, he was continually outmatched, 
-[p.85.] Aji Saka by Raden Putra. Malaikat Ngijajil Laknatullah clearly saw 
-               Mustofiun
-that the true "Mas Tanpa Una" (Gold without Flaw) had arrived. 
-                                       Mustofiun
-Malaikat Ngijajil Laknatullah was terrified of Mas Tanpa Una and emerged 
-from Aji Saka's body, fleeing into the sky. Thus Sang Aji Saka, 
-now useless and his mind crushed, flew into the sky and met his teacher. 
-Aji Saka wept and bowed at the feet of Malaekat Ngijajil Laknatullah. 
-Then Malaekat Ngijajil Laknat-
--ullah spoke to Aji Saka: "Enough, my son, be quiet and accept your fate. 
-     Mustofiun
-Mas Tanpa Una cannot be opposed, for the one who owns Java is destined 
-by Yang Wasesa. My son, you cannot be anything else if you still want 
-to be a soul in the Land of Java. Perhaps in the future you can, but if you neglect 
-      Mustofiun
-[p.86] the physical form of Mas Tanpa Una now, / I will just cast you to the foreign lands, 
-your soul is the will of Sang Yang Wasesa, intended for you, my son, to rule 
-the Seluman (spirits) in the foreign lands, my soul." Then Malaekat Ngijajil Laknatullah vanished, 
-                                                              Laknatullah
+As for the history in Panungkulan, the widow Kasihan lived in the middle of the forest, bordered to the north, south, and east, with no neighbors or companions [p. 75.] except her one son, who was incredibly lazy. Planting was out of the question; even if asked to pull weeds, he completely refused to come. He loved to sleep and eat. Their house from the past was built by his mother alone, just a simple hut (in Mss: Only a simple hut) with her son, who later let it fall into ruin. When it leaked from the rain, he refused to fix his house, the door remained open and dilapidated. It was just a hut made of bamboo grass and peacock grass as the walls, interwoven, with a grass roof. It leaked, and Jaka Jugul Muda would just run outside, not going far, looking like he was bathing. His only saving grace was that Jaka Jugul Muda was afraid of his mother because if Bok Rando scolded him, he would just curl up wherever he was scolded, rolling up in the rain and heat, not moving like a baby, even though he was old, constantly being a burden to his mother. So if Bok Rondo went to the market to sell leaves, whatever she brought back would just be eaten by his mother [p. 76.] and even the crops. At that time, Nyahi Rondo Kasihan and her son Jugulmuda were resting in the shade. Bok Rondo said: "I really want you to remember the past, the teachings of your late father /* [^ "Child ] */ like in the past from your late father: I, Jugulmuda, should serve Mendang, your own Lord." Then Jaka Jugulmuda answered: "Mother, I do not want to serve a fearsome King who eats humans. That is his doing, not just or fair at all." Nyai Rondo said again: "My son, I heard the news that the one reigning in Mendang now has changed to someone named Aji Saka, handsome, young, fair, and forgiving." Then Jaka Jugulmuda said: "Mother, I do not want an enemy. I will not serve anyone other than the descendants of Gusti Prabu Sindulo. In the future, Mother, serve me when I am reigning; yes, a Just King is what I will be called." Nyai Rondo said: "Oh, what future? I am already very exhausted, dear." Then Jugulmuda answered: "I will tell you, last night I dreamed that you, mother, were holding [p. 77.] a child supporting the moon, and herding all the animals all of them

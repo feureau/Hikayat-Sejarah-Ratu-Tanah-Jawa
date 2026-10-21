@@ -6,57 +6,6 @@
 
 ---
 
-- 28 -
+- 25 -
 
-
-
-Tumapel, shocked that Sang Yang Panuju (Narada) descended from Suralaya. Thus, 
-the King bowed before the feet of Yang Panji Narada. Then 
-Sang Yang Kaneka Putra spoke: "Enough, my son, sit down." After 
-they were seated together, Sang Yang Panji Narada spoke: "Hey my son, Prabu 
-Jenggala, leave your country Jenggala, it is old and idle. You should 
-go and enter the cave called Guwa Terusan, the palace of your grandfather. 
-                                  Mustofiun
-Ask your grandfather for it /* [Mas Tanpa Una] */, for now the soul 
-                                  Mustofiun
-is placed in Galuh, called /* [Mas Tanpa Una] */, a woman who is the 
-Queen, named Suprabawati, who is a Waragana. But for now, your country Jenggala, 
-my son, hand it over to your brother. Appoint him as the guardian and 
-let him become the King in Jenggala, named Prabu Adipati. You will leave this behind visibly. 
-For it is time, you are permitted, my son, to surrender this kingdom, 
-[p.93.] for it is certain who the heir is in the afterlife / - there is no one else 
-but you, meaning your soul. Depart now, you are ordered to support all 
-your desires. Here, just enter, there is no one else who is 
-more rightful, my son, yes, the one awaited by your sibling, Mas 
-/* Mustofiun */
-   Tanpa    /  all. Therefore, depart quickly, do not be anxious. If all of them 
-            Una
-follow you, it is indeed the destiny of all the Land of Java. So depart, 
-my son." Then Sang Yang Narada vanished, returning to Suralaya. 
-Left behind was the King in Jenggala. He then woke up his two servants. 
-After the two servants woke up, the King went to his audience hall 
-summoning his younger brother. His younger brother arrived, and all the 
-instructions of Sang Yang Narada were reported and told to him. His younger brother 
-became King in Jenggala, given the name Prabu Adipati Jenggala. Then Prabu 
-Banjaransari departed with his two servants, continuing their journey 
-towards Guwa Terusan.
-[p.94.]         / As for the history in Segaluh in the palace, Ratu Kidul was currently 
-in Sageda with the Waragana commanders. Then Sang Yang 
-Kaneka Putra descended from the sky, arriving before Ratu Kidul. 
-Ratu Kidul and the Waragana commanders were startled and bowed at the 
-feet of Sang Yang Kaneka Putra, begging for forgiveness, Ratu Kidul and 
-the Waragana commanders. Then they were forgiven and Yang Narada gave an audience. 
-Sang Yang Kaneka Putra spoke: "Younger sister Ratu Kidul, I am instructing you. 
-You, Ratu Galuh, are permitted to be embraced by Mas Tanpa Una. Now 
-it is time, he is currently at Guwa Terusan. Ratu Galuh, you are ordered to meet him." 
-Yang Kaneka Putra vanished, returning to Suralaya. 
-As for Ratu Kidul and the Waragana commanders, they immediately reported to 
-Ratu Galuh, telling her exactly the message of Sang Yang Narada. It was 
-obeyed, and the Waragana commander was ordered to be dispatched. 
-[p.95.] The Commander departed to Guwa Terusan / with a flying horse, 
-fully equipped with weapons and all her troops. As for the history 
-of Prabu Banjaransari, who had just arrived at Guwa Terusan, he then 
-entered Guwa Terusan, which happened to be empty, and the King slept 
-in the Kuwaca building. The two servants did not sleep but stood guard.
-
-                                                         Then
+[p. 83.] all the people of Panungkulan fought against the Clay Figures. Then Jaka Jugulmuda spoke, personally engaging in battle against the thousand Clay Figures alongside Bejo and Daulat, the four of them with Pacukilan. Bejo and Daulat met with Dora and Sembada. The thousand Clay Figures attacked Jugulmuda and Pacukilan. Jaka Jugulmuda and Pacukilan fought the thousand Clay Figures but were not overwhelmed; with Pacukilan, they fell and scattered, the thousand Clay Figures collapsing. Dora and Sambada also fought fiercely against Bejo and Daulat. When Prabu Jaka Mudik Batara saw Dora and Sembada defeated and collapsing, he was exceedingly angry. Then Prabu Jakamudik Batara swooped down, soaring into the sky, carrying the water of life. He sprinkled the water of life on the dead Clay Figures and Dora and Sembada, and they all simultaneously came back to life. Every time they died, they were sprinkled with the water of life, and the Clay Figures and Dora Sembada came back to life again. The four of them cried out in [p. 84.] frustration because no weapon could penetrate them; the four of them were almost crushed, swarmed by the thousand Clay Figures. When the two Waragonos, Sangkaningrat and Mayangkara, saw that Prabu Jakamudik Batara was in the sky carrying the water of life, the two Waraganas, Sangkaningrat and Mayangkara, took flight. Dewi Sangkaningrat drew her bow with tremendous power and shot a *jayatapa* arrow. The water of life was knocked from Sang Prabu Jaka's hand, caught by Mayangkara. The water of life was secured and thrown into the ocean by Dewi Mayangkara. Then Prabu Jaka, upon losing the water of life, fell into a daze, and seeing that the Clay Figures and Dora and Sembada had perished, their corpses scattered, Sangkaningrat and Mayangkara became furious, chasing him down. They descended before Raden Putra. Pursuing Sang Prabu Jaka down, Aji Saka and Raden Putra met, both incredibly powerful, clashing weapons for two days with neither showing weakness. Then they engaged in a battle of spiritual power, but Aji Saka was outmatched, even using [p. 85.] all his tricks, he was continually outmatched, Aji Saka by Raden Putra. Malaikat Ngijajil Laknatullah clearly saw that the true "Mas Tanpa Una" (Gold without Flaw) Mustofiun had arrived. Malaikat Ngijajil Laknatullah was terrified of Mas Tanpa Una Mustofiun and emerged from Aji Saka's body, fleeing into the sky. Thus Sang Aji Saka, now useless and his mind crushed, flew into the sky and met his teacher. Aji Saka wept and bowed at the feet of Malaekat Ngijajil Laknatullah. Then Malaekat Ngijajil Laknatullah spoke to Aji Saka: "Enough, my son, be quiet and accept your fate. Mas Tanpa Una Mustofiun cannot be opposed, for the one who owns Java is destined by Yang Wasesa. My son, you cannot be anything else if you still want to be a soul in the Land of Java. Perhaps in the future you can, but if you neglect [p. 86.] the physical form of Mas Tanpa Una Mustofiun now, I will just cast you to the foreign lands, your soul is the will of Sang Yang Wasesa, intended for you, my son, to rule the Seluman (spirits) in the foreign lands, my soul." Then Malaekat Ngijajil Laknatullah vanished,

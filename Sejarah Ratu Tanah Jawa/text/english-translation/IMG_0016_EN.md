@@ -6,48 +6,6 @@
 
 ---
 
-- 16 -
+- 13 -
 
-as well as all the wild beasts in the forest that are fierce, all of them that
-prey on the people of the twenty thousand households. Then, 
-the people of Rum from the twenty thousand households, leaving only twenty households, then
-fled XX returning to Rum to report this to His Majesty the Sultan of Rum. After it was reported, His Majesty the Sultan of Rum was exceedingly
-[p.52.] angry at the disappearance of the twenty thousand households. Then /
-His Majesty the Sultan summoned all the *ulama* (Islamic scholars), *pandita* (priests/sages),
-*sarip* (*sharifs*), *sayid*, and judges /* mahukum */, all of them were commanded to go to the Land of Java 
-and bring talismans (*tumbal*) from His Majesty the Sultan. After they all arrived 
-in the Land of Java, the talismans were planted,
-scattered around. The planting of the talismans was ordered by His Majesty the Sultan of
-Rum, at Mount Tidar, Mount Ululo /* [Wilis] */, and Mount Jamurdipa,
-spread evenly across all the strongholds in the Land of Java, all were planted
-with talismans along with prayers. The prayers of all of them were accepted 
-by the Lord of the Worlds (Robbil 'Alamin), and then the Land of Java shook, 
-the earth spun and trembled with a thunderous sound from all the mountains in the Land of Java,
-pitch black across the world accompanied by the crying of all the evil spirits and beasts 
-that preyed on humans. The sound roared for seven days, during an eclipse of the moon and sun. 
-After the sound ceased, it became 
-bright like the sun /* [byar] */ brilliantly illuminating the entire Land of Java. Then
-all the Sharifs and Panditas returned to Rum to report
-to His Majesty the Sultan that the Land of Java was now bright, and then 
-[p.53.] His Majesty the Sultan requested another twenty thousand households, along with 
-two noble relatives who were brothers /* [ur] */, the older named Seh Makurat 
-and the younger named Seh Tugur, and Seh Makurat was instructed
-by His Majesty the Sultan of Rum that Seh Makurat was not permitted to become
-the King himself in the Land of Java, because the King of the Land of Java was still there, 
-his name was Prabu Sindulo (King Sindulo). "You must seek someone meditating inside the 
-cave called Guwa Terusan, for it is no longer the will of the Lord of the Worlds 
-that you are destined to be the King of the Land of Java, but rather you shall be the guardian/regent." 
-After receiving the command from His Majesty the Sultan of Rum, he then XXXXXX to the Land of Java. To Seh 
-Makurat, after the twenty thousand households were ready, they set off 
-to the Land of Java. Upon arriving in the Land of Java, the destination was Mendang,
-then all the people of Rum built their homes; after settling in Mendang,
-then Seh Makurat and Seh Tugur searched for the cave called 
-Guwa Terusan. It happened that Guwa Terusan was found by the followers of His Majesty the Sultan of Rum, and Seh Makurat and 
-[p.54.] Seh Tugur entered. / There they happened to find Sang Yang Sindulo (Divine King Sindulo) sitting in 
-the Getadung armor. He was then invited to come out of the Cave, Sang Yang Sindulo, 
-to Seh Makurat and Seh Tugur who arrived at Guwa Terusan, to reign in 
-Mendang. 
-            As for the history during the reign of Sang Yang Prabu Sindulo 
-in his kingdom of Mendang, Seh Makurat became his *Patih* (Chief Minister), 
-changing his name to Dipati Mangkurat, and Seh Tugur became Dipati Tugur. This was in 
-the Land
+Bathoro Nilokontho, because he guarded the realm; Bathoro Catur bojo, because he had four hands; and Bathoro Guru Noto, because he was king and also a guide (*pandito*). Sang Yang Papado was created by the will of his father, Sang Yang Tunggal, and named Bathoro Kaneko Putro, because he became the standard-bearer, and Bathoro Warodo, because his sight was clear and nothing could be hidden from him. After receiving orders from Sang Yang Tunggal, the speaker returned to Mircu kundho and then to Ngendro sampurno. Those left behind in Bale si mertja kanda were Sang Yang Giri Nata and his father Sang Yang Kaneko Putro, along with all the *dewa*, *mambang*, assembled before the Lord of the Worlds (Yang Guru), who remained silent. After some time, Yang Guru was recognized as the eldest, named Batara Brama. Batara Endra, then Batara Basuki, who manifested as Batara Wisnu, was the most handsome, the most favored by his father [p. 42.], and was destined to rule. There was also a son of Yang Nila Kantha, but he was assigned the duty of guarding, like the four sons mentioned earlier. His offspring with his consort Yang Batari Durga was named Batara Kala, who was a giant form. Yang Kaneko also had elders guarding him: Batara Surya, Batara Bayu, named Batara Sambu, then Batara Mahadewa, the youngest, Batara Yamadipati—also a giant form and extremely formidable. If humans suffered grave illness on Earth, having completed their rigorous asceticism, they caused trouble on Marcapada (the mortal realm). They were then seized by Yang Nurada Mayoretna and Bisawarna, brought to Suralaya (heaven), and appointed as guards by Sang Yang Jagatnata. They were both incredibly handsome. Majoratna was named Batara Asmara, and Bisawarna was named Batara Kamajaya. Then came the will of Sang Yang Tunggal, Batara Guru: to populate the realm of Marcapada in the land of Jawa. The daughter of Batara Brama was chosen by Sang Yang Tunggal [p. 43.], in accordance with the will of Sang Yang Wisesa (Almighty One); her name was Yang Bremani, and she was subsequently sent down to Marcapada. Yang Narada was commanded to accompany her, along with all the *dewa* and her children, to Marcapada. When they arrived at Gilingwesi, the location chosen to become the kingdom by Sang Yang Narada, after its establishment, Yang Bremani became Queen, under Sang Yang Kaneka-putra. All beings on the left and right of Gilingwesi bowed down. Once order was established, Yang Narada and all the *dewa* vanished, returning to Suralaya. Yang Bremani remained established as the Queen in the land of Jawa, with her kingdom at Gilingwesi. In Suralaya, it was noted that Yang Guru possessed an excess of female beings (*wanadya*); there were no longer any equals to Suralaya on Marcapada. If a female was found, she came from the fruit of the *kastuba* tree; one was picked by Yang Nilikanta and split into a nymph (*widodari*) as beautiful as a diamond, though still young and not yet named by Batara Guru [p. 44.]. She was named Dewi Sri, and then entrusted to Batara Surya, because Batara Guru could not bear to look upon Dewi Sri’s beauty while she was young, so he entrusted her to Batara Surya. The most handsome son of Yang Guru, named Yang Batara Padmanaba, often visited the dwelling of Batara Surya. Dewi Sri grew to maturity, and Batara Surya sought her hand in marriage with her consent. However, Yang Nilakantha became afraid that Batara Surya would lose her.

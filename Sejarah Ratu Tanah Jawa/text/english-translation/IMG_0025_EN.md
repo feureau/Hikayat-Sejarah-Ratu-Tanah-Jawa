@@ -6,39 +6,8 @@
 
 ---
 
-- 24 - b
+- 22 -
 
+Thus, Prabu Jaka was angry with his son, Naga Linglung, and then /* [?] */ Naga Linglung's mouth was pinned open by his father, Prabu Jaka. Naga Linglung then vanished, becoming the King of the Seluman (spirits) in /* [?] */ Kesanga, which remains a sign to this day; if Naga Linglung in Kesanga is enraged, [p. 71.] it is certain that there will be a great war in the Land of Java.
 
-
-    for the right time to march to Mendhang. As for the history in Mendhang, 
-whose King was Sang Yang Prabu Jaka Mudhik Bathara, nearly a full three years 
-he had interrupted the kingdom in the Land of Java. Then he heard the news that in 
-the Panungkulan forest, a kingdom had emerged. He summoned Tugur Dipatya, ordering all the people 
-of Mendhang to attack. Tugur said "At your command" and then sounded the alarm. 
-[p.81.] But Ki / Tugur had already heard the news that it was his own younger brother 
-who became Patih, his name was Jugulmudha, the son of Ni Rondha Kasihan, his nephew. 
-So Ki Tugur Dipatya did not join the attack, pretending to be sick 
-and because he was truly older and feared the command of Kanjeng Sultan of Rum. 
-For the Land of Java could not be ruled by just anyone, unless it was a descendant 
-of Sang Yang Nata Sindhula and all the people of Mendhang. Thus in his heart, 
-Ki Tugur Dipatya feared Kanjeng Sultan's message, and all the people in Mendhang were hesitant. 
-Because the King was warring against his own teacher, they all felt reluctant 
-in their hearts, yet they had to carry out the war anyway. 
-Jaka Jugulmudha had already heard the news that the people of Mendhang were coming to attack 
-Panungkulan, and the three years had come. He then sounded the alarm, 
-gathering all the people of Panungkulan, armed for war, led by Pacukilan. 
-[p.82.] Beja / and Daulat were the commanders of the leaders. They set out from Panungkulan 
-and met on the road. Panungkulan and the people of Mendhang did not even fight; 
-the people of Mendhang immediately scattered and ran away, each to their own 
-destination, with few returning to Mendhang. Then Dipati 
-Tugur reported to Sang Yang Prabu Jaka Mudhik Bathara 
-that they had failed in the war. Sang Yang Prabu Yaka Mudhik Bathara was angry, 
-then a thousand Clay Figures were ordered to prepare, to just line up in the town square 
-and gather Dora and Sembada as their commanders. Then Beja and Daulat 
-reported that the men were fighting, and then Raden Putra 
-departed, setting out from the Panungkulan forest with Yaka Jugulmudha to the City 
-of Mendhang, with his two wives, the Waraganas Sangkaningrat and Mayang-
--kara, not leaving behind Nyai Rondha Kasihan. Arriving at the City of Mendhang 
-in the town square, the battle engaged, the Clay Figures against the people of Panung-
-[p.83.] -kulan, who could not withstand them /
-                                   them
+As for the history in Guwa Terusan: Raden Daniswara, who was in ascetic sleep with his two servants, Pun Bejo and Daulat, had been motionless for a long time in Guwa Terusan, as if /* [?] */ the three corpses were empty. Then, his grandfather, Sang Yang Prabu Sindulo, felt pity for his grandson, Raden Putra Daniswara, and then tested /* [?] */ his grandson. Two Waraganas (heavenly nymphs) were ordered to tempt his grandson, Raden Putra Daniswara; their names were Dewi Sangkaningrat and Dewi M/* [aya] */ingkara. The meaning of Waragana is the shadow of a Widodari (nymph) in heaven. So both Waraganas, Sangkaningrat and M/* [aya] */ingkara, arrived at Kedung Kuwaca and tempted Raden Putra Daniswara who was in ascetic sleep. Despite many seductive efforts by the Waraganas, /* [?] */ Raden continued sleeping peacefully, having assumed the state of a corpse. The Waraganas then vanished and reported to Sang Yang* Prabu Sindulo: "The grandson remains unaffected." * Nata Sindulo came out, and Sang Yang Sindulo arrived at [p. 72.] the Kuwaca building where his grandson was sleeping. On the golden bed, Sang Yang Nata Sindulo spoke: "Enough, my son, wake up." Raden Putra Daniswara faintly heard the voice in his sleep, and then Raden Putra awoke. It was unmistakable in his heart that this was truly his grandfather, Nata Sindula, whose radiance was like the sun. Then Raden Putra bowed at his feet while weeping. Sang Yang Nata Sindulo spoke: "Who am I that you bow at my feet? Speak." Raden Putra Daniswara: "The descendant /* [¶] */ of the Land of Java; it is indeed Sang Yang Nata Sindulo." Smiling, he embraced his grandson and then kissed the crown of his head, with Nata Prabu Sindulo holding back tears. Raden Putra wept even more, realizing it was truly his grandfather. Then Sang Yang Nata Sindulo spoke: "Enough, my son, be quiet, for it is the will. But it is your fortune; your enemy, Aji Saka, is willed by Yang Wasesa to interrupt the Javanese kingdom for only three years. Now, my son, the time is almost up, yes, three years, and it is granted to you [p. 73.] by Sang Yang Wasesa. These two Waraganas, Sangkaningrat and Mayangkara, but for now it is not yet time for you to unite with them. Be disappointed." He summoned them, and then Sangkaningrat and Mayangkara arrived before Sang Yang Sindulo. Regarding the two Waraganas, Sang Yang Nata Sindulo spoke: "Both of these are your wives, but for now they are merely co-wives, just a burden for later, as often as you wish, when you return to Mendang. And another thing, serve as a follower—that will be the way you can return to Mendang, my son. In the middle of the forest, there is a widow, Kasihan, her younger sister, who has an only son named Jugul Muda. In Panukulan, the forest of life to the southeast, is her place. These two wives, Waraganas Sangkaningrat and Mayangkara, just let them follow later. Now, depart, for it is time for you to prepare. Bring your servants with you." Prabu Sindulo and the two Waraganas vanished. Raden Putra remained alone in the Kuwaca building and woke up his servants

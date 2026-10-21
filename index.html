@@ -1,10 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>Hikayat & Sejarah Ratu Tanah Jawa</title>
     <style>
-        body { background-color: #1a1a1a; color: #e0e0e0; font-family: Arial, sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 20px; }
+        body { background-color: #1a1a1a; color: #e0e0e0; font-family: Arial, sans-serif; line-height: 1.6; max-width: 1050px; margin: 0 auto; padding: 20px; }
         header { background-color: #2d2d2d; padding: 30px; border-radius: 5px; margin-bottom: 30px; border: 1px solid #444; text-align: center; }
         h1, h2 { margin: 0 0 10px 0; }
         header h1 { color: #ffffff; }
@@ -12,9 +16,11 @@
         .description { background-color: #2d2d2d; padding: 15px 20px; border-left: 3px solid #4a9eff; text-align: left; margin-bottom: 30px; color: #cccccc; }
         .section { background-color: #2d2d2d; padding: 25px; border-radius: 5px; margin-bottom: 20px; border: 1px solid #444; }
         h3 { color: #ffffff; border-bottom: 2px solid #4a9eff; padding-bottom: 8px; margin-top: 0; }
-        a { color: #4a9eff; text-decoration: none; padding: 12px 15px; background-color: #3a3a3a; border-radius: 5px; display: block; transition: all 0.2s ease; margin-bottom: 10px;}
+        h4 { color: #888888; margin: 15px 0 8px 0; font-size: 0.95rem; text-transform: uppercase; letter-spacing: 0.5px; }
+        a { color: #4a9eff; text-decoration: none; padding: 10px 14px; background-color: #3a3a3a; border-radius: 5px; display: block; transition: all 0.2s ease; margin-bottom: 8px; font-size: 0.92rem; }
         a:hover { background-color: #4a9eff; color: #ffffff; text-decoration: none; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(460px, 1fr)); gap: 20px; }
+        @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -32,21 +38,39 @@
     <div class="section">
         <h3>Hikayat Ratu Tanah Jawa</h3>
         <p style="color:#aaaaaa; font-size:14px; margin-top:0;">Treatise (Sufism & Java War recollections)</p>
-        <a href="viewer.html?collection=hikayat_pegon&page=1">📘 Original Pegon Manuscript (125 Folios)</a>
-        <a href="viewer.html?collection=hikayat_typescript&page=58">📗 1973 Typescript & English Translation (47 Pages)</a>
+
+        <h4>Side-by-Side Dual Pane Viewer</h4>
+        <a href="viewer.html?collection=hikayat_pegon&page=1">📘 Pegon Manuscript Scan & Dual Pane Viewer (125 Folios)</a>
+        <a href="viewer.html?collection=hikayat_typescript&page=58">📗 1973 Typescript Scan & Dual Pane Viewer (47 Pages)</a>
+
+        <h4>Full Continuous Document Reader</h4>
+        <a href="full.html?collection=hikayat_pegon&layer=pegon">📖 Full Pegon Script Transcription (125 Folios)</a>
+        <a href="full.html?collection=hikayat_pegon&layer=latin">📖 Full Latin Transliteration Text (125 Folios)</a>
+        <a href="full.html?collection=hikayat_pegon&layer=english">📖 Full English Translation Text (125 Folios)</a>
+        <a href="full.html?collection=hikayat_typescript&layer=typescript">📖 Full 1973 Javanese Typescript (47 Pages)</a>
+        <a href="full.html?collection=hikayat_typescript&layer=english">📖 Full 1973 English Translation (47 Pages)</a>
     </div>
 
     <div class="section">
         <h3>Sejarah Ratu Tanah Jawa</h3>
         <p style="color:#aaaaaa; font-size:14px; margin-top:0;">Chronicle (Pre-Majapahit History)</p>
-        <a href="viewer.html?collection=sejarah_pegon&page=1">📕 Original Pegon Manuscript (90 Folios)</a>
-        <a href="viewer.html?collection=sejarah_typescript&page=1">📙 1973 Typescript & English Translation (57 Pages)</a>
+
+        <h4>Side-by-Side Dual Pane Viewer</h4>
+        <a href="viewer.html?collection=sejarah_pegon&page=1">📕 Pegon Manuscript Scan & Dual Pane Viewer (90 Folios)</a>
+        <a href="viewer.html?collection=sejarah_typescript&page=1">📙 1973 Typescript Scan & Dual Pane Viewer (57 Pages)</a>
+
+        <h4>Full Continuous Document Reader</h4>
+        <a href="full.html?collection=sejarah_pegon&layer=pegon">📖 Full Pegon Script Transcription (90 Folios)</a>
+        <a href="full.html?collection=sejarah_pegon&layer=latin">📖 Full Latin Transliteration Text (90 Folios)</a>
+        <a href="full.html?collection=sejarah_pegon&layer=english">📖 Full English Translation Text (90 Folios)</a>
+        <a href="full.html?collection=sejarah_typescript&layer=typescript">📖 Full 1973 Javanese Typescript (57 Pages)</a>
+        <a href="full.html?collection=sejarah_typescript&layer=english">📖 Full 1973 English Translation (57 Pages)</a>
     </div>
 </div>
 
 <div class="section" style="margin-top: 20px;">
     <h3>Important Note for Local Viewing</h3>
-    <p style="color:#aaaaaa; font-size:14px; margin-top:0;">To view the transcriptions locally, you must run a local web server to bypass CORS restrictions for fetching the markdown files. From your terminal in this directory, run:<br><br><code>python -m http.server</code><br><br>Then open <a href="http://localhost:8000" style="display:inline; padding:0; background:transparent; border-radius:0;">http://localhost:8000</a> in your browser.</p>
+    <p style="color:#aaaaaa; font-size:14px; margin-top:0;">To view the transcriptions locally, run <code>start_server.bat</code> or run:<br><br><code>python -m http.server 8000</code><br><br>Then open <a href="http://localhost:8000" style="display:inline; padding:0; background:transparent; border-radius:0;">http://localhost:8000</a> in your browser.</p>
 </div>
 
 <footer style="text-align:center; padding:30px; color:#666666; border-top:1px solid #444; margin-top:30px;">

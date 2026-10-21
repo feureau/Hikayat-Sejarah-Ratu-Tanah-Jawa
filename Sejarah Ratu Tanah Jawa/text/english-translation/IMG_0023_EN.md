@@ -6,51 +6,7 @@
 
 ---
 
-- 23 -
+- 20 -
 
-his two servants, who were still sleeping, Daulat and Pun Bejo. After they woke up, 
-[p.74.] Raden exited / the cave, continuing his journey southeast 
-from the cave, avoiding all dangers, slipping through and meditating along the way, 
-with Bejo and Daulat taking the lead. Then, a clearing came into view, which was the village 
-called Dukuh Pacukilan. There was one person weeding the dry field, and 
-Pun Bejo asked if he knew the forest called Panungkulan where the widow 
-Kasihan lived. Pacukilan answered that indeed there was a forest called Pan-
--ungkulan where the widow Kasihan lived. She had a 
-son who was already an old bachelor named Jugul Muda, who was extremely lazy. 
-He was big and clumsy, wearing no proper clothes but only tree bark, his belt 
-was just vines wrapping his body, looking as if planted there. He never wanted to bathe 
-at all. From here, it is very close; this is the forest, the middle one 
-called the Panungkulan forest. Just go straight southeast. X Raden Putra 
-Daniswara smiled and then continued his journey.
-            As for the history in Panungkulan, the widow Kasihan lived 
-in the middle of the forest, bordered to the north, south, and east, with no neighbors or companions 
-[p.75.] except / her one son, who was incredibly lazy. Planting 
-was out of the question; even if asked to pull weeds, he completely refused to come. 
-He loved to sleep and eat. Their house from the past was built 
-by his mother alone, just a simple hut (in Mss: Only a simple hut) with her son, 
-who later let it fall into ruin. When it leaked from the rain, he refused 
-to fix his house, the door remained open and dilapidated. 
-It was just a hut made of bamboo grass and peacock grass 
-as the walls, interwoven, with a grass roof. It leaked, and Jaka 
-Jugul Muda would just run outside, not going far, looking like he was bathing. His only 
-saving grace was that Jaka Jugul Muda was afraid of his mother because 
-if Bok Rando scolded him, he would just curl up wherever he was 
-scolded, rolling up in the rain and heat, not moving like a baby, even though 
-he was old, constantly being a burden to his mother. So if Bok Rondo went to the market 
-to sell leaves, whatever she brought back would just be eaten by his mother 
-[p.76.] and even the crops. At that time, / Nyahi Rondo Kasihan and 
-her son Jugulmuda were resting in the shade. Bok Rondo said: "I really want 
-you to remember the past, the teachings of your late father /* [^ "Child ] */ like in the past 
-from your late father: I, Jugulmuda, should serve Mendang, 
-your own Lord." Then Jaka Jugulmuda answered: "Mother, I do not want 
-to serve a fearsome King who eats humans. That is his doing, not just or fair at all." 
-Nyai Rondo said again: "My son, I heard the news 
-that the one reigning in Mendang now has changed to someone named Aji Saka, handsome, young, 
-fair, and forgiving." Then Jaka Jugulmuda said: "Mother, 
-I do not want an enemy. I will not serve anyone other than the descendants 
-of Gusti Prabu Sindulo. In the future, Mother, serve me when 
-I am reigning; yes, a Just King is what I will be called." Nyai Rondo said: 
-"Oh, what future? I am already very exhausted, dear. " Then 
-Jugulmuda answered: "I will tell you, last night I dreamed that you, mother, were holding 
-[p.77.] a child supporting the moon, and / herding all the animals 
-                                                         all of them
+/* [maserep wewaya- / -ngira] */
+[p. 64.] /* [?] */ XXXXXXX dripping from the beginning and opening the name of *Panglilingan* (Reflection), all of which are not Aji Saka, and thus went to Dipati Tugur. Then Aji Saka was summoned by Dipati Tugur, and Dipati Tugur became a disciple of Aji Saka. But Dipati Tugur was afraid that if the King found out, his teacher would inevitably be taken and eaten, because he was handsome and still a youth. Therefore, Dipati Tugur's love for Sang Pandita was broad, and he hid him in the left-hand food building, the house of /* rondho sangkarsaning */. Many Javanese people came to study with Sang Pandita, gaining all sorts of supernatural powers without disappointment, whatever people desired. He was handsome, young, with an appearance identical to Raden Daniswara, but Sang Pandita was haughty, whereas Raden Daniswara was calm and well-mannered. Over time, the King found out that Dipati Tugur was hiding a very handsome young Pandita, [p. 65.] and he was ordered to be summoned, but Dipati Tugur was extremely heavy-hearted, /* [?] */ because he knew that his teacher, Sang Pandita, would inevitably be eaten by the King. When Dipati Tugur met with Sang Pandita, he expressed his request that Sang Pandita graciously leave the disaster at that time, /* [?] */ for he would bear the pain and death, even though he was old, out of his love, Sang Dipati Tugur, for his teacher, Sang Pandita. When Sang Pandita heard Dipati Tugur's words, he was exceedingly pleased and laughed loudly, saying: "If it is the King's will, even if I am to be eaten, first report to the King, if he is willing, I ask for land just as wide as my headcloth as my possession, only for me to sit for a moment, and gather all the people of Mendang, hurry, Father, all the people of the country, so they may witness my agreement with the King, but first, Father, you must report this." Then Dipati Tugur reported to the King all of his requests. Sang Pandita [p. 66.] The King laughed loudly and granted all of Sang Pandita's requests. Dipati Tugur then went out to sound the alarm, and shortly, all the people of Mendang were gathered, not a single one left behind. Then Sang Prabu Dewata Cengkar came out to the Pagelaran courtyard, and then XXXXX Sang Pandita said to Tugur Dipati: "/* come */ then hand over the headcloth to the King." The King laughed loudly and then ordered the headcloth to be spread out. It became exceedingly wide, and more and more people were needed to hold the headcloth, yet its width seemed endless, so the King had to shift his seat twice, until all the people of the country joined in spreading the headcloth as it grew ever wider. The King became extremely confused, pushed back by the headcloth as it was spread out, and the people were ordered to cheer by Sang Pandita's command, but it did not happen. The sound roared. As it was the will of Sang Yang Wasesa (The Almighty), the King was extremely confused, his mind disturbed, and he was terrified hearing the cheers of the people. Then the King ran to the edge of the ocean, but the headcloth still remained wide. Eventually, the King plunged into the ocean and then changed [p. 67.] his appearance. The King became a white crocodile like silver, due to the previous curse of his father, Sang Yang Nata Sindulo. Therefore, he remained in /* [?] */ the misery, his appearance changed, Sang Prabu Dewata Cengkar in the ocean, confused in his wanderings. As for the one left behind, his son, Raden Arya Daniswara, he was then chased and persecuted by the command of Sang

@@ -6,51 +6,8 @@
 
 ---
 
-- 22 -
+- 19 -
 
-Thus, Prabu Jaka was angry with his son, Naga Linglung, and then 
-/* [?] */ Naga Linglung's mouth was pinned open by his father, Prabu 
-Jaka. Naga Linglung then vanished, becoming the King of the Seluman (spirits) in 
-/* [?] */ Kesanga, which remains a sign to this day; if Naga Linglung in Kesanga is enraged, 
-[p.71.] it is certain / that there will be a great war in the Land of Java.
-            As for the history in Guwa Terusan: Raden Daniswara, 
-who was in ascetic sleep with his two servants, Pun Bejo and Daulat, 
-had been motionless for a long time in Guwa Terusan, as if 
-/* [?] */ the three corpses were empty. Then, his grandfather, Sang Yang Prabu 
-Sindulo, felt pity for his grandson, Raden Putra Daniswara, and then tested 
-/* [?] */ his grandson. Two Waraganas (heavenly nymphs) were ordered to tempt his grandson, Raden Putra 
-Daniswara; their names were Dewi Sangkaningrat and Dewi M/* [aya] */ingkara. The meaning of Wara-
--gana is the shadow of a Widodari (nymph) in heaven. So both Waraganas, 
-Sangkaningrat and M/* [aya] */ingkara, arrived at Kedung Kuwaca and tempted 
-Raden Putra Daniswara who was in ascetic sleep. Despite many seductive efforts by the Waraganas, 
-/* [?] */ Raden continued sleeping peacefully, having assumed the state of a corpse. The Waraganas then vanished 
-and reported to Sang Yang* Prabu Sindulo: "The grandson remains unaffected." *
-Nata Sindulo came out, and Sang Yang Sindulo arrived at 
-[p.72.] /* [?] */ the Kuwaca / building where his grandson was sleeping. On the golden bed, 
-Sang Yang Nata Sindulo spoke: "Enough, my son, wake up." Raden Putra 
-Daniswara faintly heard the voice in his sleep, 
-and then Raden Putra awoke. It was unmistakable in his heart that this was truly 
-his grandfather, Nata Sindula, whose radiance was like the sun. Then Raden 
-Putra bowed at his feet while weeping. Sang Yang Nata Sindulo spoke: "Who 
-am I that you bow at my feet? Speak." Raden Putra Daniswara: "The descendant 
-/* [¶] */ of the Land of Java; it is indeed Sang Yang Nata Sindulo." Smiling, he 
-embraced his grandson and then kissed the crown of his head, with Nata Prabu Sindulo holding back tears. 
-Raden Putra wept even more, realizing it was truly his grandfather. 
-Then Sang Yang Nata Sindulo spoke: "Enough, my son, be quiet, for it is the will. 
-But it is your fortune; your enemy, Aji 
-Saka, is willed by Yang Wasesa to interrupt the Javanese kingdom for only three years. 
-Now, my son, the time is almost up, yes, three years, and it is granted to you 
-[p.73.] / by Sang Yang Wasesa. These two Waraganas, Sangkaningrat and Mayangkara, 
-but for now it is not yet time for you to unite with them. Be disappointed." He summoned them, and then 
-Sangkaningrat and Mayangkara arrived before Sang Yang Sindulo. 
-Regarding the two Waraganas, Sang Yang Nata Sindulo spoke: "Both of these 
-are your wives, but for now they are merely co-wives, just a burden for later, as often as you wish, 
-when you return to Mendang. And another thing, serve as a follower—that will be 
-the way you can return to Mendang, my son. In the middle of the forest, 
-there is a widow, Kasihan, her younger sister, who has an only son 
-named Jugul Muda. In Panukulan, the forest of life to the southeast, is her place. 
-These two wives, Waraganas Sangkaningrat and Mayangkara, just let them follow later. 
-Now, depart, for it is time for you to prepare. 
-Bring your servants with you." Prabu Sindulo and the two 
-Waraganas vanished. Raden Putra remained alone in the Kuwaca building and woke up 
-                                                         his servants
+for Iblis. If he remained in the Land of Arabia, he would inevitably disrupt the religion of Islam. That is why Aji Saka Laknatullah [p. 61.] who was *na'udzubillahi min dhalik* (we seek refuge in God from that) was ordered to be expelled by the Prophet Mohamad Rosulullah the Mustafa. Finished, *Wallahu A'lam bisawab gofarolahum Allah ya Rabbi ya gafur* 3 (God knows best the truth, may Allah our Lord, the Oft-Forgiving, forgive them).
+
+As for the history of Aji Saka after being expelled by the Prophet Mohammad s.m., it was a sign that he was definitively a disbeliever towards Subhanahu Wata 'Ala. Aji Saka thought in his heart that if he did not leave from the Land of Arabia, he would certainly be killed. If he died, because he had received no forgiveness, he would certainly face punishment, for he was already declared a disbeliever. /* [?] */ Even if he faced punishment, in the end, if he took him as a companion, it would become magic. Then Aji Saka left, arriving in the Land of Arabia wandering about /* [مجنح ?] */ Aji Saka headed to Pule/* E */ where Aji Saka met again with his teacher, Malaekat (Angel) Idajil Laknatullah, at Pule/* E */, and then Aji Saka wept, bowing down at the feet of his teacher, Malaekat Ijajil Laknatullah. Then Ngijajil Laknatullah spoke and laughed happily, [p. 62.] Ngijajil: "Hush, my son, I will tell you. /* / regarding all your actions like that */ it is already the will of Subhanahu Wata 'Ala that you are chosen in the world to be made /* [?] */ a counterbalance to religion. You are very fortunate, /* holo batur dene konco ? */ in truth, you are equal to the Prophet. However, the left path is yours to rule, /* [e 2] */ and it will not be different, for both the right and left paths belong to Robbil 'Alamin. I am the one who nurtures you wherever you go, my son. I will not be negligent, even though the Prophet has Malaekat Jobarail (Angel Gabriel) guarding him, I will guard you, so you will not be lacking. Come, let us go to the Land of Java, hurry up while it is empty and there is no King in the Land of Java. Spread the knowledge of the left path; it will surely quickly spread evenly. In Arabia, the knowledge of the left path will not sell, except in the Land of Java in the end. It will not be different between the knowledge of the right and the left, regarding fortune and misfortune, destiny cannot be changed. As long as people are in the world, they are just passing through, so let your heart be at ease." Such were the teachings given to Sang Aji Saka. Then he fled to the Land of Java [p. 63.] arriving at Pu/* ^te */le. His companions, Dora and Sambada, were sick. After arriving in the Land of Java, the mother of all things, on the journey, is not described here. /* [?] */ Aji Saka headed to Mount Merapi, then to Mount Sindara, then to Mount Kendeng, while teaching all knowledge as well as the twenty letters of the alphabet. These are /* [?] */ the forms that became the seeds: [*ha na ca ra ka*, which means: "there are messengers", *da ta sa wa la* which means "they disputed as ordered", *pa dha ja ya nya* which means "they were equally brave and in pain", *ma ga ba tha nga* which means "in the end they fought and died together, both becoming corpses." These are the total letters called the Javanese /* [?] */ alphabet, along with the market days which are five /* kunir awak tanpa jalu. */ This is the origin of the Javanese alphabet and the five market days.] Then many people submitted to Aji Saka, the people of the Land of Java. As well as the esoteric knowledge of feeling that was taught to Aji Saka, for people incarnating and dripping?

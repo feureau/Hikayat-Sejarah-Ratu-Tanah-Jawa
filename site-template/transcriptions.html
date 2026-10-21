@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Transcription Viewer</title>
+<style>
+  :root {
+    --bg:#1a1a1a; --panel:#222; --fg:#e0e0e0; --muted:#9a9a9a;
+    --line:#333; --accent:#4a9eff;
+  }
+  * { box-sizing:border-box; }
+  body {
+    background:var(--bg); color:var(--fg); font-family:Arial, sans-serif;
+    margin:0; padding:16px 20px 40px; line-height:1.6;
+  }
+  .wrap { max-width:1600px; margin:0 auto; }
+  .topbar {
+    display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+    border-bottom:1px solid var(--line); padding-bottom:12px; margin-bottom:18px;
+  }
+  .topbar h1 { font-size:1.1rem; margin:0; color:#fff; flex:1 1 260px; }
+  .btn {
+    display:inline-block; background:#2d2d2d; color:var(--fg);
+    border:1px solid var(--line); border-radius:5px;
+    padding:6px 12px; font-size:.88rem; text-decoration:none; cursor:pointer;
+  }
+  .btn:hover { background:#3a3a3a; border-color:#555; }
+  .btn[aria-disabled="true"] { opacity:.3; pointer-events:none; }
+  .viewer { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:26px; }
+  .scan-pane {
+    position:relative; display:flex; align-items:center; justify-content:center;
+    overflow:hidden; background:var(--panel); border:1px solid var(--line);
+    border-radius:8px; padding:10px;
+  }
+  .scan-pane img { display:block; width:100%; height:auto; border-radius:5px; cursor:zoom-in; }
+  .scan-tools {
+    position:absolute; top:8px; left:8px; right:8px; display:flex; justify-content:space-between;
+    font-size:.82rem; color:var(--muted); background:rgba(0,0,0,0.4); padding:4px 8px; border-radius:4px;
+  }
+  @media (max-width:900px) { .viewer { grid-template-columns:1fr; } }
+  #transcript-output h1, #transcript-output h2 { color:#fff; }
+  #transcript-output blockquote { border-left:4px solid #555; margin-left:0; padding-left:15px; color:#b0b0b0; }
+  .render-error { background:#2a1414; border:1px solid #ff6b6b55; border-radius:6px; padding:1rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <a class="btn" href="index.html">← Index</a>
+    <a class="btn" href="full.html">Full Documentation</a>
+    <a class="btn" href="dictionary.html">Keyword Dictionary</a>
+    <h1 id="doc-title">Loading…</h1>
+    <a class="btn" data-nav="prev" href="#">‹ Prev</a>
+    <a class="btn" data-nav="next" href="#">Next ›</a>
+  </div>
+
+  <div class="viewer">
+    <div class="scan-pane">
+      <div class="scan-tools">
+        <span id="scan-note">Loading scan…</span>
+      </div>
+      <img id="scan" alt="Scanned page">
+    </div>
+
+    <div class="transcript-pane">
+      <div id="transcript-output">Loading…</div>
+
+      <div style="margin-top:20px;">
+        <a class="btn" data-nav="prev" href="#">‹ Previous page</a>
+        <a class="btn" data-nav="next" href="#">Next page ›</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="js/transcriptions-data.js"    defer></script>
+<script src="js/transcriptions-content.js" defer></script>
+<script src="js/marked.min.js"             defer></script>
+<script src="js/viewer.js"                 defer></script>
+</body>
+</html>

@@ -6,50 +6,6 @@
 
 ---
 
-- 17 -
+- 14 -
 
-of Java, which was exceedingly prosperous, and after a long time the twenty thousand people multiplied, 
-having many children spread evenly throughout all the Land of Java. Then Sang Nata (The King) Prabu Sindulo 
-had an only son, who was very handsome, strong, and brave, given 
-the name by his father: Sang Dewata Cengkar. He was exceedingly 
-/* [?] */ demanding in his household, and all the people of Mendang were very afraid of Raden Dewata 
-/* [?] */ Cengkar. When he reached adulthood, he often disturbed his father, insisting on becoming 
-King, but his father did not yet trust him. Thus, over time Raden Dewata Cengkar tried to
-force it, as it was the will of Subhanahu Wata'Ala (God Almighty) that the Javanese kingdom would briefly change hands, 
-[p.55.] and his father had to be forced. / But Nata Sindula could not bear to be cruel 
-to his son. As time passed, Raden Dewata Cengkar grew furious with his 
-father, Sang Nata Sindulo, and repeatedly hit his father with a whip.
-This angered Nata Sindulo toward his son, and he spoke the words: 
-"Hey, Dewata Cengkar, may you not be like ordinary humans!" Then, 
-he roared and vanished into the sky XXXXXXxxxxxx". Then Nata Sindulo vanished, returning 
-to the cave, but Patih Mangkurat could not be left behind by the King. Along with his wife 
-who was heavily pregnant, the wife of Ki Patih Mangkurat went with him, accompanied by her younger sister, Ni 
-Kasihan. Then she gave birth in the middle of the forest without meeting 
-her husband, and Rara Kasihan's child came out a boy named 
-Jugulmuda. Those left in Mendang were all deeply saddened. After the disappearance 
-of Sang Ratu Sindulo and his Patih, Patih Mangkurat, likewise 
-Raden Dewata Cengkar felt deep remorse for being left by his father, 
-who also had a dream, feeling intense repentance toward his father and asking for 
-[p.56.] forgiveness, but / it was like a fallen stone that could not be thrown back. So 
-/* [?] */ the Raden gave up, deciding that if it was the will of the *Dewa* (Gods) as well as all the people of Mendang, 
-then Raden Dewata Cengkar would reign as King in Mendang, 
-with the name Prabu Dewata Cengkar. His Patih remained the old Dipati Tugur, 
-but he was already old. Then Prabu Dewata Cengkar had a son, 
-who was exceedingly handsome and well-mannered, given the name by his 
-father as Raden Daniswara. As for his father, Prabu Dewata Cengkar, he 
-fell under the curse previously cast by Sang Yang Prabu Sindulo. Every day he ate 
-human flesh, and he did not want the old ones; they had to be youths of handsome appearance. 
-He could not miss a single day; if he missed just one day, even his own son, 
-/* [?] */ Raden Daniswara, would often be targeted to be eaten because of the restlessness of his body. Thus, 
-the Land of Java was ruined again, and they were all in great distress, 
-including Dipati Tugur, because there could not be a single day missed in the offering of humans 
-to the King.
-[p.57.]             As for the history at that time / in the Land of Java, coinciding 
-with the Land of 'Arab (Arabia), the one who was willed to reign as Kalifatullah (Caliph of God) by Lord Allah 
-Subhanahu Wata'Ala, the Wahidul Kohar (The One, The Subduer), the 'Aza Wajalla (The Mighty and Majestic), happened to be 
-the Prophet Mohamad Abibullah (Habibullah) Sallollahu 'Alaihi Wasalam (peace be upon him), the *Mustafa* 
-(Chosen One). As for the history of the Prophet Mohammed Sallollahu Alaihi 
-wasalam, he had five beloved companions. The first was Sayidina Abubakar 
-Sidiq rodiallohu nganhu (may Allah be pleased with him); the second was Sayidina Ngumar (Umar) Farug rodiallohu 
-nganhu; the third was Sayidina Ngusman (Uthman) Dunurini rodiallohu nganhu; the 
-                                                         fourth
+if he handed her over. Batara Wisnu had no choice but to take Dewi Sri to his dwelling in Jenggala manik. [Dewi Sri] soon became close with Batara Padmanaba, cherished by Batara Wisnu and Dewi Sri. After some time, Batara Nilakanta heard that his essential possession, Dewi Sri, had been taken [p. 45.] by the son of Sang Yang Padmanaba to his heavenly abode in Jenggala manik. This enraged Sang Catur Baja toward Batara Surya and also toward his son Batara Wisnu. He summoned his elder brother, Sang Yang Kaneka Putra, and commanded Yang Narada to escort Batara Wisnu from Suralaya back to Marcapada along with Dewi Sri, ordering them to separate. When Batara Narada arrived in Marcapada with Batara Wisnu, he placed him on a small mountain, in a cave named Guwa Upas (Poison Cave), and commanded Batara Wisnu to perform severe asceticism there. Dewi Sri was placed on Gunung Lampit, also in a cave known as Guwa Wesi (Iron Cave). Dewi Sri was commanded by Batara Narada to perform asceticism in that iron cave. After they were both settled, Sang Yang Kaneka Putra returned to Suralaya. The story of Sang Yang Wisnu Batara on Marcapada [p. 46.] relates that when he was brought to Suralaya, he was separated from his consort Dewi Sri, who remained in Guwa Upas. He sat in Selagilang, constantly meditating on Sang Yang Wiji Wasesa, who sat with Sang Yang, the guardian of all human seeds, seated cross-legged, his right hand resting on his knee, his left hand covering his left shin, his soul subtly aware of the priceless gem that had achieved true form. This was when the divinity of Sang Yang Wasesa was established. Batara Wisnu suffered a strange affliction, neither fully ill nor well. Sang Yang Padmanaba and Sang Yang Wiji Wasesa were united with Sang Yang Amisesa. Similarly, the consort of Batara Wisnu, Dewi Sri, inside Guwa Wesi, was also afflicted, for this suffering was predestined by God, Subhanahu wata 'Ala, the Only Mighty One, the Creator [p. 47.], whose word is the law of the worldly palace, who manifested in the land of Jawa as Batara Wisnu—who is called "mas tanpa una" (Gold without Flaw)—arriving in the final era. The kingdom of Jawa was not overthrown; it was granted by the Lord of the Worlds, but Sang Yang Sri Sadana was destined to possess the land of Jawa. Batara Brama's son served as the vessel for Batara Wisnu who became the content: if Brama's body is the vessel, Wisnu is the life force; if Brama is the flower, Wisnu is the fragrance. Sang Yang Wisnu is the Night of Power (*lailatul kodar*) in the land of Jawa. The tale of the intermediate realm ends here. And God knows best the truth. The history of the kingdom originating in the land of Jawa began at Gilingwesi, whose ruler was Batara Brama's son named Bremani. Bremani fathered Trikanan. Trikanan fathered Manumanungsa. Manumanungsa fathered Manik Mahadewa. Manik

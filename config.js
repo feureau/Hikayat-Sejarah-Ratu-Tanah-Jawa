@@ -6,7 +6,9 @@ const COLLECTIONS = {
         range: { start: 1, end: 125 },
         padLength: 4,
         imagePath: (id) => `Hikayat Ratu Tanah Jawa/scans/pegon/IMG_${id}.jpg`,
-        mdPath: (id) => `Hikayat Ratu Tanah Jawa/text/handwritten-pegon/IMG_${id}.md`
+        mdPath: (id) => `Hikayat Ratu Tanah Jawa/text/handwritten-pegon/IMG_${id}.md`,
+        enPath: (id) => `Hikayat Ratu Tanah Jawa/text/handwritten-pegon-latin/IMG_${id}.md`,
+        translationPath: (id) => `Hikayat Ratu Tanah Jawa/text/handwritten-pegon-english/IMG_${id}.md`
     },
     hikayat_typescript: {
         title: "Hikayat Ratu Tanah Jawa (1973 Typescript & Translation)",
@@ -16,7 +18,8 @@ const COLLECTIONS = {
         padLength: 4,
         imagePath: (id) => `Hikayat Ratu Tanah Jawa/scans/1973-transcription/IMGe_2026-26-01-10-17-53-50-${id}.jpg`,
         mdPath: (id) => `Hikayat Ratu Tanah Jawa/text/1973-typescript/IMG_${id}.md`,
-        enPath: (id) => `Hikayat Ratu Tanah Jawa/text/english-translation/IMG_${id}_EN.md`
+        enPath: (id) => `Hikayat Ratu Tanah Jawa/text/english-translation/IMG_${id}_EN.md`,
+        translationPath: null
     },
     sejarah_pegon: {
         title: "Sejarah Ratu Tanah Jawa (Pegon Manuscript)",
@@ -25,7 +28,9 @@ const COLLECTIONS = {
         range: { start: 1, end: 90 },
         padLength: 4,
         imagePath: (id) => `Sejarah Ratu Tanah Jawa/scans/pegon/IMG_${id}.jpg`,
-        mdPath: (id) => `Sejarah Ratu Tanah Jawa/text/handwritten-pegon/IMG_${id}.md`
+        mdPath: (id) => `Sejarah Ratu Tanah Jawa/text/handwritten-pegon/IMG_${id}.md`,
+        enPath: (id) => `Sejarah Ratu Tanah Jawa/text/handwritten-pegon-latin/IMG_${id}.md`,
+        translationPath: (id) => `Sejarah Ratu Tanah Jawa/text/handwritten-pegon-english/IMG_${id}.md`
     },
     sejarah_typescript: {
         title: "Sejarah Ratu Tanah Jawa (1973 Typescript & Translation)",
@@ -35,7 +40,8 @@ const COLLECTIONS = {
         padLength: 4,
         imagePath: (id) => `Sejarah Ratu Tanah Jawa/scans/1973-transcription/IMGe_2026-26-01-10-17-53-50-${id}.jpg`,
         mdPath: (id) => `Sejarah Ratu Tanah Jawa/text/1973-typescript/IMG_${id}.md`,
-        enPath: (id) => `Sejarah Ratu Tanah Jawa/text/english-translation/IMG_${id}_EN.md`
+        enPath: (id) => `Sejarah Ratu Tanah Jawa/text/english-translation/IMG_${id}_EN.md`,
+        translationPath: null
     }
 };
 

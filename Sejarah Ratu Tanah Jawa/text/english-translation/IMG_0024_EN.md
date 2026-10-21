@@ -6,53 +6,8 @@
 
 ---
 
-- 24 - a
+- 21 -
 
-all of them complete and carrying a whip. Mother, just wait and see 
-if there is a meaning to it." Then Nyai Rondo spoke while laughing: XXXXX "How can I 
-be happy, my son Jugulmuda, waiting for a dream? I am already 
-very tired. My desire for you is in case I die unexpectedly; 
-I really want you to take care of me." Then Jaka Jugulmuda answered: "Let us 
-just resign ourselves to fate, Mother. Whatever happens, Mother, if 
-the promised time hasn't come to pursue it, yes, it will cause harm. D/* [X] */on't stop until 
-you've achieved it." Jugulmuda was chatting with Nyai Rondo Kasihan. Then 
-someone called out asking for directions. Jugulmuda ran to meet them 
-and show them the way. Then Jugulmuda met with Raden Putra 
-Daniswara and Nyai Rondo, not forgetting Daulat and Pun Bejo. After 
-Raden Putra sat down, the four of them changed their authority. Jaka 
-[p.78.] Jugulmuda said: / "Friends, arrange the royal mounts, take them to the stable 
-over there, and the palanquins, put them in their place." Nyai/* [X] */ Nyai Rondo said: 
-"All the servants, just go straight into the palace." Daulat and Bejo said: 
-"Friends, arrange the right and left flanks, the commander will be the center." 
-Raden Daniswara smiled upon hearing the words of the four. 
-Then, when the four came to their senses, they laughed happily. Shortly after, 
-Sang Yang Nata Ratu Sindulo arrived, descending from the sky 
-as if moving from the Mountain; Sangkaningrat and Mayangkara were like moons accompanying 
-the star, and Mangkurat Dipatya accompanied the King. Upon the arrival 
-of Sang Yang Nata Ratu Sindulo, the four were stunned as if dreaming; 
-none of the four could speak. Then Raden Putra Daniswara 
-bowed at the feet of his grandfather, Nata Ratu Sindulo, and kissed his crown. 
-Nata Ratu Sindulo spoke: "Jugulmuda, your father is here!" Then 
-[p.79.] Jaka Jugulmuda bowed at his father's feet, weeping profusely, / as did 
-Nyai Rondha, as if bringing light to both of them because they had not met for a long time. Nyai 
-Rondha had not expected that Kyai Dipatya was still in the world. 
-Then, after their hearts settled, their tongues were tied, as well as Nyai 
-Rondha Kasihan and Jaka Jugulmudha. Sang Yang Nata Sindhula spoke 
-to Jaka Jugulmudha: "Yes, Jaka Jugulmudha, and my grandson Daneswara, 
-you are the ones who will guide his return to Mendang, yes, this responsibility falls 
-upon you, because I, your father, am the one who established the King. Now, the responsibility falls upon you, my grandson." 
-Daniswara and Pun Jugulmudha could not speak, 
-as if their hearts were crushed by emotion, rising with courage in their hearts. 
-Truly Jaka Jugulmudha. Thus, Nata Sindhula asked 
-Yang Wasesa for a palace and everything else. Not long after, Nyai 
-Rondha's house vanished, replaced by a giant kingdom lacking nothing. 
-They were all astonished as Sang Yang Sindhula spoke to the two Waraganas 
-[p.80.] -ro Sangkaningrat and Mayangkara: "Both of you / are now
-tur sandika             , ngu/* ^j */sum take turns serving Narpa Nata Sindhula
-all of them and to Mangkurat Dipatya, all evenly." Then Ratu Nata 
-Sindhula vanished, but Kyai Dipatya remained, left behind in the palace of Sangkaningrat 
-and Mayangkara. All the Waraganas were left behind, except for Waragana Mangkana 
-who is no longer described with all her belongings. Chasing a quick end to the story, 
-they gathered people from left and right arriving at Panungkulan, selecting the best ones, 
-a thousand were visible, fully equipped with weapons of war, only waiting 
-                                                         all
+Sang Pandita, for it was highly pitiable; they were pursued like deer, and no one dared to harbor him. If anyone felt pity and took him in, they would be struck /* [?] */ by the curse of sharing his sin. Thus, Raden Daniswara was highly pitiable, but two loyal servants accompanied Raden Arya Daniswara wherever he went: Pun Daulat and Pun Beja were their names. Then, with the help of the Dewa (Gods), the Raden coincidentally arrived at the palace of his grandfather, Sang Yang Nata Prabu Sindulo, at Guwa Terusan, and finding the door open, Raden Putra Daniswara entered with his two servants. Then, Raden engaged in ascetic sleep [p. 68.] in the Kuwaca building; the two servants joined him in sleep at his feet. There was no movement from the three of them in their sleep, for the entire time they were in Guwa Terusan.
+
+As for the history in Mendang, Sang Pandita then became King in Mendang. His Patih remained Dipati Tugur, whose name did not change. Sang Pandita Aji Saka: after becoming King in Mendang, he took the title Sang Yang Prabu Jaka /* M */Mudik Batara. The Land of Java was extremely prosperous, restored to how it was during the reign of Nata Sindulo in Mendang. All the people were pleased with Sang Yang Prabu Jaka Mudik Batara, basically a Sage-King, and he even /* created */ humans, which increased the fear of all the people in the Land of Java towards Nata Mudik Batara. He had a son named Sarpa Naga Linglu/* [? N] */ng Tunggulwulung, as huge as Mount Sasuta, with a mouth like a cave, who was made Pangeran Dipati (Crown Prince). Prabu Jaka Mudik's process of creating humans /* [?] */ in Mendang was kept secret there. His creations, before their clay dried [p. 69.] out, were then infused with souls serving as souls for all those clay figures, using the souls of the humans who had died and been eaten /* previously */ by Nata Prabu Dewata Im/* [X] */ Cengkar, all of which were returned. Prabu Jak/* [X] */ Jaka submitted to Robbil'Alamin, so the souls of the dead returned, all those eaten by Prabu Dewata Cengkar before, all of them ultimately became those who ate humans and created humans, returning to the origin because Prabu Jaka had the water of life given by Malaekat Ngijajil Laknatullah. When the clay dried, the clay was infused with a soul, and the clay came to life, standing up like a person waking up from a long sleep; such was the awakening of the clay. Thus, Prabu Jaka Mudik Batara created many humans. The ones who served Prabu Jaka in creating humans were his two companions, Dora and Sambada. All the people of Mendang were absolutely forbidden to see the process of making all those clay figures, but they were the ones making the clay forms and [p. 70.] fetching the clay for the people of Mendang. After a thousand clay figures were made, Dora and Sembada became the overseers of all the workers who guarded Prabu Jaka. His son, Pangeran Dipati Linglung, was ordered to meditate on the mountain by his father, Prabu Jaka. After a long time of Naga Linglung meditating, his body was no longer visible because it was overgrown with all kinds of trees and grass, turning into what looked like a mountain. Then, there were thirty shepherd boys, and when it rained extremely hard, the thirty boys ran to seek shelter in what they thought was a cave. /* [?] */ The boys were then swallowed by Naga Linglung, who was inherently hungry. It was then reported to his father, Prabu Jaka, that his son had done this.

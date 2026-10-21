@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <title>Full Transcriptions</title>
+    <style>
+        body { background-color: #1a1a1a; color: #e0e0e0; font-family: Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; line-height: 1.65; }
+        .topbar { display: flex; gap: 10px; border-bottom: 1px solid #333; padding-bottom: 15px; margin-bottom: 25px; }
+        .btn { background: #2d2d2d; color: #e0e0e0; border: 1px solid #444; border-radius: 5px; padding: 8px 14px; text-decoration: none; }
+        .btn:hover { background: #4a9eff; color: #ffffff; }
+        h1, h2 { color: #ffffff; }
+        h2 { border-bottom: 1px solid #333; padding-bottom: 0.3em; }
+        blockquote { border-left: 4px solid #555; margin-left: 0; padding-left: 15px; color: #b0b0b0; }
+        .render-error { background: #2a1414; border: 1px solid #ff6b6b55; border-radius: 6px; padding: 1.25rem; }
+    </style>
+</head>
+<body>
+    <div class="topbar">
+        <a class="btn" href="index.html">← Index</a>
+        <a class="btn" href="transcriptions.html">Transcriptions</a>
+        <a class="btn" href="dictionary.html">Keyword Dictionary</a>
+    </div>
+
+    <h1>Full Transcriptions</h1>
+    <p>This page loads all historical transcriptions sequentially in a single continuous scroll.</p>
+
+    <div id="markdown-output">Loading…</div>
+
+    <script src="js/transcriptions-data.js" defer></script>
+    <script src="js/transcriptions-content.js" defer></script>
+    <script src="js/marked.min.js" defer></script>
+    <script src="js/render.js" defer></script>
+</body>
+</html>

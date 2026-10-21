@@ -6,51 +6,6 @@
 
 ---
 
-- 27 -
+- 24 - b
 
-
-
-great ones in the Land of Java, as well as all the common people in the Land of 
-Java. This caused immense shame for Prabu Banjaransari in Jenggala, 
-shame towards himself, which is why the Land of Java was like that, because 
-there was a kingdom greater than his, yes, in the Land of Java, in 
-Segaluh. That was the name of the country, but it was a spirit realm (Seluman), invisible in Segaluh. 
-        As for the history in Segaluh, the one reigning /* [XXXX] */ was a Wara-
--gana Queen named Prabu Wanodya, Sang Dyah Ratu Suprabawati, the first 
-child of Sang Prabu Kaskaya in Mendang, who was taken 
-by her great-grandfather Ratu Sindulo. It was her great-grandfather's will 
-to make her Queen over all the Seluman. Her Patih was 
-Gunawati of the Seluman, and Ratu Ragawati of the Seluman, and Ratu Raga-
--wati of the white banyan tree. The Judge was Ratu Angin2, who acted as 
-[p.90.] the leader of all the Jim (Jinn) Queens, all of whom had their palace in the Southern Sea / . The 
-audience of Ratu Kidul (Queen of the South) was in the country of Segaluh every Garebeg 
-season, leading all the Jim Queens, male and female, 
-like vassal states (Mancanagara). Thus, Ratu Kidul, who served as the warrior 
-of Ratu Galuh, were all Waraganas, eighty in number, all beautiful in 
-appearance, and their spiritual power was the same among the eighty-four Waraganas. 
-The leaders and the greatest among them were four in all things. Thus, the country of Segaluh 
-was so powerful that it matched Suralaya (the realm of gods). Nimasrini was the name of the Waragana who 
-acted as the leader of the four warriors. Suradewati, when fighting, used arrows 
-and had twenty subordinates. Gandawati used a rifle and had subordinates. Nimas-
--mirawati used a spear and had subordinates. Nimasmayawati used a sword and had subordinates. 
-They all rode flying horses (*jaran sembrani*) when going to war; the four Waragana warriors 
-could not be touched. The color of the horse and the attire 
-[p.91.] of Suradewati was white; the horse of Ganda- / -wati's group was red; 
-the horse of Asmarawati's group was orange; the horse of Ismayawati's group 
-was black. The horses of their companions could not be touched in any way. 
-That is why Segaluh was exceedingly prosperous and Ratu Galuh was highly respected. /* [XXXXX] */ 
-All the Waraganas, Jim, and all the gentle spirits loved and feared 
-Ratu Galuh. Furthermore, humans who died lost 
-all went to Galuh as their destination, because it resembled heaven, 
-the palace in Segaluh. Therefore, it was exceedingly prosperous due to the gathering of all 
-the countries of Segaluh at that time.
-        As for the history of the country of Jenggala, for a long time 
-Prabu Banjaransari had not come out to be audience due to his extreme shame, 
-and he went without eating or sleeping because he was a king without function. However, his two servants, 
-the twin boys who were very mischievous and 
-joking, Menawa and Menawi were their names, both were misfits. At that time, 
-Prabu Jenggala was sitting in the prayer room (*sanggar langgatan*), 
-when people were asleep. His two servants were sleeping not far 
-[p.92.] from the King, right during the full moon. Thus descended / 
-Bagawan Kaneka Putra, arriving before the King 
-                                                                Tumapel
+for the right time to march to Mendhang. As for the history in Mendhang, whose King was Sang Yang Prabu Jaka Mudhik Bathara, nearly a full three years he had interrupted the kingdom in the Land of Java. Then he heard the news that in the Panungkulan forest, a kingdom had emerged. He summoned Tugur Dipatya, ordering all the people of Mendhang to attack. Tugur said "At your command" and then sounded the alarm. [p. 81.] But Ki Tugur had already heard the news that it was his own younger brother who became Patih, his name was Jugulmudha, the son of Ni Rondha Kasihan, his nephew. So Ki Tugur Dipatya did not join the attack, pretending to be sick and because he was truly older and feared the command of Kanjeng Sultan of Rum. For the Land of Java could not be ruled by just anyone, unless it was a descendant of Sang Yang Nata Sindhula and all the people of Mendhang. Thus in his heart, Ki Tugur Dipatya feared Kanjeng Sultan's message, and all the people in Mendhang were hesitant. Because the King was warring against his own teacher, they all felt reluctant in their hearts, yet they had to carry out the war anyway. Jaka Jugulmudha had already heard the news that the people of Mendhang were coming to attack Panungkulan, and the three years had come. He then sounded the alarm, gathering all the people of Panungkulan, armed for war, led by Pacukilan. [p. 82.] Beja and Daulat were the commanders of the leaders. They set out from Panungkulan and met on the road. Panungkulan and the people of Mendhang did not even fight; the people of Mendhang immediately scattered and ran away, each to their own destination, with few returning to Mendhang. Then Dipati Tugur reported to Sang Yang Prabu Jaka Mudhik Bathara that they had failed in the war. Sang Yang Prabu Yaka Mudhik Bathara was angry, then a thousand Clay Figures were ordered to prepare, to just line up in the town square and gather Dora and Sembada as their commanders. Then Beja and Daulat reported that the men were fighting, and then Raden Putra departed, setting out from the Panungkulan forest with Yaka Jugulmudha to the City of Mendhang, with his two wives, the Waraganas Sangkaningrat and Mayangkara, not leaving behind Nyai Rondha Kasihan. Arriving at the City of Mendhang in the town square, the battle engaged, the Clay Figures against the people of Panungkulan, [p. 83.] who could not withstand them

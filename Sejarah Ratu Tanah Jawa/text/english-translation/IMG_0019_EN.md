@@ -6,50 +6,8 @@
 
 ---
 
-- 19 -
+- 16 -
 
-for Iblis. If he remained in the Land of Arabia, he would inevitably disrupt 
-the religion of Islam. That is why Aji Saka Laknatullah 
-[p.61.] who was *na'udzubillahi min dhalik* (we seek refuge in God from that) was ordered to be expelled by the Prophet Mohamad Rosulullah / 
-the Mustafa. Finished, *Wallahu A'lam bisawab gofarolahum Allah ya Rabbi 
-ya gafur* 3 (God knows best the truth, may Allah our Lord, the Oft-Forgiving, forgive them).
-            As for the history of Aji Saka after being expelled by the 
-Prophet Mohammad s.m., it was a sign that he was definitively a disbeliever towards 
-Subhanahu Wata 'Ala. Aji Saka thought in his heart that if he did not leave 
-from the Land of Arabia, he would certainly be killed. If he died, because he had 
-received no forgiveness, he would certainly face punishment, for he was already declared a disbeliever. 
-/* [?] */ Even if he faced punishment, in the end, if he took him as a companion, it would become magic. 
-Then Aji Saka left, arriving in the Land of Arabia wandering about 
-/* [مجنح ?] */ Aji Saka headed to Pule/* E */ where Aji Saka met again 
-with his teacher, Malaekat (Angel) Idajil Laknatullah, at Pule/* E */, and then 
-Aji Saka wept, bowing down at the feet of his teacher, Malaekat Ijajil Laknat-
-/* [?] */ -ullah. Then Ngijajil Laknatullah spoke and laughed happily, 
-[p.62.] Ngijajil: "Hush, my son, I will tell you. /* / regarding all your actions like that */ 
-it is already the will of Subhanahu Wata 'Ala that you are chosen in the world to be made 
-/* [?] */ a counterbalance to religion. You are very fortunate, /* holo batur dene konco ? */ 
-in truth, you are equal to the Prophet. However, the left path 
-is yours to rule, /* [e 2] */ and it will not be different, for both the right and left paths belong to Robbil 
-'Alamin. I am the one who nurtures you wherever 
-you go, my son. I will not be negligent, even though the Prophet 
-has Malaekat Jobarail (Angel Gabriel) guarding him, I will guard you, so you will not 
-be lacking. Come, let us go to the Land of Java, hurry up while it is empty 
-and there is no King in the Land of Java. Spread the knowledge of the left path; it will surely quickly spread evenly. 
-In Arabia, the knowledge of the left path will not sell, except in the Land of Java 
-in the end. It will not be different between the knowledge of the right and the left, regarding 
-fortune and misfortune, destiny cannot be changed. As long as people are in the world, 
-they are just passing through, so let your heart be at ease." Such were the teachings 
-given to Sang Aji Saka. Then he fled to the Land of Java 
-[p.63.] arriving at/Pu/* ^te */le. His companions, Dora and Sambada, were sick. 
-After arriving in the Land of Java, the mother of all things, on the journey, is not described here. 
-/* [?] */ Aji Saka headed to Mount Merapi, then to 
-Mount Sindara, then to Mount Kendeng, while teaching 
-all knowledge as well as the twenty letters of the alphabet. These are 
-/* [?] */ the forms that became the seeds: [*ha na ca ra ka*, which means: "there are messengers", 
-*da ta sa wa la* which means "they disputed as ordered", *pa dha ja ya nya* which means 
-"they were equally brave and in pain", *ma ga ba tha nga* which means "in the end they fought and 
-died together, both becoming corpses." These are the total letters called the Javanese 
-/* [?] */ alphabet, along with the market days which are five /* kunir awak tanpa jalu. */ This is 
-the origin of the Javanese alphabet and the five market days.] Then many 
-people submitted to Aji Saka, the people of the Land of Java. As well as 
-the esoteric knowledge of feeling that was taught to Aji Saka, for people incarnating and 
-                                                         dripping?
+[p. 51.] as well as all the wild beasts in the forest that are fierce, all of them that prey on the people of the twenty thousand households. Then, the people of Rum from the twenty thousand households, leaving only twenty households, then fled XX returning to Rum to report this to His Majesty the Sultan of Rum. After it was reported, His Majesty the Sultan of Rum was exceedingly [p. 52.] angry at the disappearance of the twenty thousand households. Then His Majesty the Sultan summoned all the *ulama* (Islamic scholars), *pandita* (priests/sages), *sarip* (*sharifs*), *sayid*, and judges /* mahukum */, all of them were commanded to go to the Land of Java and bring talismans (*tumbal*) from His Majesty the Sultan. After they all arrived in the Land of Java, the talismans were planted, scattered around. The planting of the talismans was ordered by His Majesty the Sultan of Rum, at Mount Tidar, Mount Ululo /* [Wilis] */, and Mount Jamurdipa, spread evenly across all the strongholds in the Land of Java, all were planted with talismans along with prayers. The prayers of all of them were accepted by the Lord of the Worlds (Robbil 'Alamin), and then the Land of Java shook, the earth spun and trembled with a thunderous sound from all the mountains in the Land of Java, pitch black across the world accompanied by the crying of all the evil spirits and beasts that preyed on humans. The sound roared for seven days, during an eclipse of the moon and sun. After the sound ceased, it became bright like the sun /* [byar] */ brilliantly illuminating the entire Land of Java. Then all the Sharifs and Panditas returned to Rum to report to His Majesty the Sultan that the Land of Java was now bright, and then [p. 53.] His Majesty the Sultan requested another twenty thousand households, along with two noble relatives who were brothers /* [ur] */, the older named Seh Makurat and the younger named Seh Tugur, and Seh Makurat was instructed by His Majesty the Sultan of Rum that Seh Makurat was not permitted to become the King himself in the Land of Java, because the King of the Land of Java was still there, his name was Prabu Sindulo (King Sindulo). "You must seek someone meditating inside the cave called Guwa Terusan, for it is no longer the will of the Lord of the Worlds that you are destined to be the King of the Land of Java, but rather you shall be the guardian/regent." After receiving the command from His Majesty the Sultan of Rum, he then XXXXXX to the Land of Java. To Seh Makurat, after the twenty thousand households were ready, they set off to the Land of Java. Upon arriving in the Land of Java, the destination was Mendang, then all the people of Rum built their homes; after settling in Mendang, then Seh Makurat and Seh Tugur searched for the cave called Guwa Terusan. It happened that Guwa Terusan was found by the followers of His Majesty the Sultan of Rum, and Seh Makurat and [p. 54.] Seh Tugur entered. There they happened to find Sang Yang Sindulo (Divine King Sindulo) sitting in the Getadung armor. He was then invited to come out of the Cave, Sang Yang Sindulo, to Seh Makurat and Seh Tugur who arrived at Guwa Terusan, to reign in Mendang.
+
+As for the history during the reign of Sang Yang Prabu Sindulo in his kingdom of Mendang, Seh Makurat became his *Patih* (Chief Minister), changing his name to Dipati Mangkurat, and Seh Tugur became Dipati Tugur. This was in the Land

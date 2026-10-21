@@ -6,50 +6,6 @@
 
 ---
 
-- 18 -
+- 15 -
 
-fourth was Sayidina Ngali (Ali) Mirtodon Sufiyullah rodiallohu nganhu; /* [X] */ and the
-/* [?] */ fifth was Aji Saka, who was condemned by Laknatullah (the accursed one/Satan). As for Aji Saka, 
-the reason he was exiled was that he took as his teacher Hidayil [Ijajil/Iblis] Laknatullah. 
-The Prophet Mohamad Rosulullah Sallollahu 'Alaihi Wasalam was opposed 
-/* [?] */ by the commands of Iblis Laknatullah, who suspected that the Prophet could be mistaken. 
-After entering the stone, upon emerging, he [Aji Saka] was asked but did not speak, because 
-[p.58.] he felt he had gained a new and superior teacher. / Then Abubakar Sidig 
-rodiallohu nganhu spoke: "How is it, my Lord, the sign of Your followers being afflicted by 
-the schemes of Iblis, and how does Iblis manage to mix his knowledge 
-with Your knowledge? Because Iblis has been forbidden to look 
-/* [?] */ upon Your knowledge, which is the eternal truth (*hak kang godim*)?" Then the Prophet 
-Mohamad Rosululloh Sollollohu Ngalaihi Wassalam, the Mustafa, spoke to 
-his uncle Sayidina Abubakar Sodig rodiallohu nganhu: "As for the knowledge of 
-Subhanahau Wata'Ala that is entrusted to Iblis, there are two things 
-/* [?] */ that become the characteristics of Iblis: intellect and illusion. If these two 
-are combined, it becomes *istidraj* (deception). So, if a son of Adam's sight and hearing 
-/* [?] */ are overwhelmed by this, it then enters his heart. That is the sign of a son of Adam 
-who has been deceived by Iblis Laknatullah, meaning the two forms of Iblis's knowledge 
-cling to the heart of Adam, and they have indeed become Iblis. If 
-[p.59.] all of you want to see / a son of Adam who has been afflicted by Iblis, 
-who has been veiled from his own knowledge, which is the eternal truth from 
-/* [?] */ Robbil'Alamin, come, all of you recite the *ta'awwudh*." Then all the companions recited the *ta'awwudh*, 
-"And then Aji Saka became visible sitting next to the stone 
-weeping." Then the Prophet Mohamad s.m. spoke: XXXXXX 
-XXXX "To all the companions, all of you observe the appearance of 
-/* [?] */ a son of Adam whose eternal knowledge has been lost." Then all the 
-companions were startled to see him sitting next to the stone pillar weeping, 
-and his appearance had changed to black, sniveling, and hairy, making 
-/* [?] */ the hair of all the companions stand on end. Then Sayidina 
-Abubakar Sadig asked: "Why is Aji Saka like this after 
-You sent him?" The Prophet Mohamad Rosululloh Sallollohu Alaihi 
-Wassalam smiled and spoke to his uncle Sayidina Abubakar Sodig Rodia-
-[p.60.] -llahu nganhu: "That is the appearance / of a son of Adam whose eternal knowledge 
-/* [?] */ has been taken away, replaced by new knowledge because he took Ijajil Laknatullah as his teacher, 
-/* [?] */ and he was then told to oppose me. X Then he 
-entered the stone pillar, pretending he did not know anything about 
-my actions. As for Idajil Laknatullah, he is now no longer separated from 
-/* [?] */ the heart of Aji Saka, so he has now become a disbeliever (kafir) of Laknatullah." Thus, 
-the hair of the companions stood on end even more. Aji Saka was 
-then ordered to be expelled by the Prophet Mohamad s.a.w., ordered to go, 
-arriving in the Land of Arabia. Aji Saka repented and wept, begging for forgiveness 
-with deep remorse, but the Prophet refused, because 
-/* [!] */ Iblis Laknatullah had already entered Aji Saka's heart. If Aji Saka were 
-to be killed, it was already the will of Robbil'Alamin. Aji Saka had become a cage 
-                                                         for Iblis
+Mahadewa, his kingdom at Gilingwesi was destroyed, and Prabu Manik Mahadewa [p. 48.] died at the hands of a giant. Getih Banjaran was the giant's name; his wife, Dewi Sulastri, was heavily pregnant, and she fled, unable to be caught by the giant. Dewi Sulastri fled to the forest and entered a cave, which happened to be the cave named Guwa Wesi (Iron Cave). Along with her, Dewi Sulastri brought three heirlooms: the Sarutama arrow, the Kalomisani keris, and the Cupu Manik Aji. Upon reaching the cave, Dewi Sulastri gave birth, assisted by all the Widodari (nymphs) who came to help. The newborn baby was named Raden Sutopo by Sang Yang Kanekoputra, because he immediately performed asceticism in Guwa Wesi, practicing with great rigor. Upon reaching adulthood, he married and fathered a son, named Raden Sakri. Upon reaching adulthood, he married and fathered Raden Sakutrem. Raden Sakutrem fathered Raden Palasari. Palasari fathered Raden Abiyasa. Abiyasa [p. 49.] fathered Pandu Dewanata, who became King in Ngastina. Pandu Dewanata fathered Sang Ngarjuna. Sang Ngarjuna fathered Sang Angkawijaya. Sang Angkawijaya fathered Parigesit. Parigesit fathered Gendrayana. Gendrayana fathered Udayana. Udayana fathered Kandihawan. Kandihawan fathered Jayamisena. Jayamisena fathered Jayamijaya. Jayamijaya fathered Prabu Selacala. This Prabu Selacala was also known as Sang Yang Prabu Sindula, handsome and still young. He was immune to aging, but his flaw was his lack of scripture, which was the will of God, Subhanahu Wata 'Ala, the Only Mighty One, the Creator. At that time, the land of Jawa suffered the wrath of the Lord of the Worlds, being cleansed. Cleansed means no human beings remained; they were all transformed into evil spirits, or became fierce forest animals. [p. 50.]
