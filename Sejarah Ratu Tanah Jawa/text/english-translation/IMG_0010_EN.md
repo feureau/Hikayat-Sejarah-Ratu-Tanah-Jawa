@@ -4,16 +4,57 @@
 
 ## Text
 
----
+### [Folio 21]
+1. to Mecca, but were extremely afraid; this was a sign that they still possessed faith. Some
+2. were extremely angry with Prophet Adam and harbored immense
+3. hatred in their hearts; these were the ones destined for disbelief
+4. by the Lord of the Worlds. The story of those who went
+5. to perform asceticism is that, because of the intensity of their asceticism, they were all
+6. able to vanish and turn into *jinn* who hated the
+7. Prophet, thus becoming infidel *jinn*. Those who still remembered but were afraid
+8. to return became Muslim *jinn*. The infidels became the
+9. seed of infidels, and the Muslims became Muslim *jinn*. Similarly, among those
+10. who cleared forests, some became the seed of infidels, and some
+11. became the seed of apostates; the beliefs of all Adam's
+12. children who left were diverse. Ultimately, they
+13. became village heads (*dhukuh*) who had turned into
+14. *jinn*, while those who remained human were all
+15. forgiven by God. The story of Adam's children who
+16. stayed behind, who were pleased to obey /* [then the son] */ anyone's commands...
+17. but only a portion remained, and they are the ones truly called Muslims,
 
-- 7 -
+### [Folio 22]
+1. because they obeyed everything
+2. that was willed by Prophet Adam (*peace be upon him*) and gladly
+3. carried out all the commands of Prophet Adam, the Caliph of
+4. God. The story of Prophet
+5. Adam's (*peace be upon him*) son named Bagendha Sis is that when he
+6. reached adulthood, thirty books were sent down to him, and he was
+7. named Prophet Sis (*peace be upon him*). His
+8. father, Prophet Adam, and his mother, Mother Eve, were deeply
+9. troubled because he was an adult
+10. but not yet married, as Prophet Sis was single and had no
+11. partner. This deeply troubled his father and
+12. mother as they sat together during the dry season in the Masjid al-Haram. Then,
+13. by the grace of God, the Sublime, the Unique,
+14. the Subduer, the Angel Jibrail (*peace be upon him*) was sent
+15. down to the world bringing a celestial nymph (*Widodari*)
+16. from Paradise; her name was Dewi Sakhiroh,
+17. of extraordinary beauty, along with magnificent garments
 
-Those who were displeased formed their own desires; they were the ones destined for disbelief by God, the Sublime, the Unique, the Subduer, or were simply apostates. They left Mecca, traveling together with their respective twins to follow their own desires. Among Adam's children, some became shamans clearing forests, while others simply went away to perform asceticism; all these children of Adam went to the land of Arabia. Among Adam's children who left, some deeply regretted it and wanted to return [p. 21.] to Mecca, but were extremely afraid; this was a sign that they still possessed faith. Some were extremely angry with Prophet Adam and harbored immense hatred in their hearts; these were the ones destined for disbelief by the Lord of the Worlds.
-
-The story of those who went to perform asceticism is that, because of the intensity of their asceticism, they were all able to vanish and turn into *jinn* who hated the Prophet, thus becoming infidel *jinn*. Those who still remembered but were afraid to return became Muslim *jinn*. The infidels became the seed of infidels, and the Muslims became Muslim *jinn*. Similarly, among those who cleared forests, some became the seed of infidels, and some became the seed of apostates; the beliefs of all Adam's children who left were diverse. Ultimately, they became village heads (*dhukuh*) who had turned into *jinn*, while those who remained human were all forgiven by God.
-
-The story of Adam's children who stayed behind, who were pleased to obey /* [then the son] */ [p. 22.] anyone's commands... but only a portion remained, and they are the ones truly called Muslims, because they obeyed everything that was willed by Prophet Adam (*peace be upon him*) and gladly carried out all the commands of Prophet Adam, the Caliph of God.
-
-The story of Prophet Adam's (*peace be upon him*) son named Bagendha Sis is that when he reached adulthood, thirty books were sent down to him, and he was named Prophet Sis (*peace be upon him*). His father, Prophet Adam, and his mother, Mother Eve, were deeply troubled because he was an adult but not yet married, as Prophet Sis was single and had no partner. This deeply troubled his father and mother as they sat together during the dry season in the Masjid al-Haram. Then, by the grace of God, the Sublime, the Unique, the Subduer, the Angel Jibrail (*peace be upon him*) was sent down to the world bringing a celestial nymph (*Widodari*) from Paradise; her name was Dewi Sakhiroh, of extraordinary beauty, along with magnificent garments from Paradise.
-
-[p. 23.] At that time, Prophet Adam (*peace be upon him*), Mother Eve (*may God be pleased with her*), /* [Prophet] */ and their son Prophet Sis (*peace be upon him*) were sitting in the Masjid al-Haram. The Angel Jibrail (*peace be upon him*) arrived, bringing the grace of the Lord of the Worlds, the celestial nymph named Dewi Sakhiroh, and the Angels carrying the garments. After they all shook hands, the Angel Jibrail (*peace be upon him*) announced to Prophet Adam (*peace be upon him*) that Prophet Sis (*peace be upon him*) was granted a wife by God, the Sublime, the celestial nymph named Dewi Sakhiroh, along with the magnificent garments from Paradise. All three then prostrated in gratitude to the Lord of the Worlds. After rising from prostration, Prophet Sis (*peace be upon him*) was married to the celestial nymph named Dewi Sakhiroh.
+### [Folio 23]
+1. from Paradise. At that time, Prophet Adam
+2. (*peace be upon him*), Mother Eve (*may God be pleased with her*), /* [Prophet] */ and
+3. their son Prophet Sis (*peace be upon him*) were sitting in the Masjid al-
+4. -Haram. The Angel Jibrail (*peace be upon him*) arrived,
+5. bringing the grace of the Lord of the Worlds, the celestial nymph named Dewi
+6. Sakhiroh, and the Angels carrying the garments. After
+7. they all shook hands, the Angel Jibrail (*peace be upon him*)
+8. announced to Prophet Adam (*peace be upon him*)
+9. that Prophet Sis (*peace be upon him*) was granted
+10. a wife by God, the Sublime, the celestial nymph named
+11. Dewi Sakhiroh, along with the magnificent garments from Paradise.
+12. All three then prostrated in gratitude to the Lord
+13. of the Worlds. After rising from prostration,
+14. Prophet Sis (*peace be upon him*) was married to the celestial
+15. nymph named Dewi Sakhiroh.

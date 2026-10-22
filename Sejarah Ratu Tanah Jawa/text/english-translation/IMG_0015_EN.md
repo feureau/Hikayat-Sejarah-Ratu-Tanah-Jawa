@@ -8,18 +8,63 @@
 
 - 12 -
 
-[p. 37.] great-grandfather Sang Yang Nuroso, and his demeanor was lacking. The fourth was Catur Bojo, who was deeply loved by his father and was intended to succeed his father [p. 38.] Sang Yang Tunggal. Regarding these four sons, Sang Yang Tunggal ordered them to guard the palace in Jonggring saloko. Their father, Sang Yang Tunggal, no longer resided there but stayed only in Ngendro sampurno out of fear that he might incur wrath like his father Sang Yang Wenang did from the Lord of the Worlds. Those who attended court on Mondays and Thursdays at Bale si Mercu kundho for all the *dewa mambang* were only these four sons.
+### [Folio 37]
+15. [p. 37.] great-grandfather Sang Yang Nuroso, and his
+16. demeanor was lacking. The fourth was Catur Bojo, who was deeply
+17. loved by his father and was intended to succeed his father
 
-Over time, a dispute arose between two of the sons of Sang Yang Tunggal as they fought for authority: Sang Yang Puguh and Sang Yang Punggung. Sang Yang Puguh relied on being the elder, while Sang Yang Punggung relied on being the cleverer. Neither was willing to yield; both were equally brave and began to fight, with neither showing weakness, causing destruction within the palace of Jonggring saloko.
+### [Folio 38]
+1. [p. 38.] Sang Yang Tunggal. Regarding
+2. these four sons, Sang Yang Tunggal ordered them to guard the palace
+3. in Jonggring saloko. Their father, Sang Yang Tunggal, no
+4. longer resided there but stayed only in Ngendro sampurno out of
+5. fear that he might incur wrath like his father Sang Yang Wenang did from
+6. the Lord of the Worlds. Those who attended court on Mondays and Thursdays
+7. at Bale si Mercu kundho for all the *dewa mambang* were only
+8. these four sons. Over time, a dispute arose between two of the
+9. sons of Sang Yang Tunggal as they fought for authority: Sang Yang Pu-
+10. -guh and Sang Yang Punggung. Sang Yang Puguh relied
+11. on being the elder, while Sang Yang Punggung relied on being the cleverer. Neither
+12. was willing to yield; both were equally brave and began to fight, with neither showing
+13. weakness, causing destruction within the palace of Jonggring
+14. saloko. All the *dewa mambang* were in an uproar and tried to separate them, but to no
+15. avail. They were drawn into the chaos, and all the *dewa mambang* scattered,
+16. while the *widodari* wept because their heavens
+17. were destroyed. The battle between Sang Yang Puguh and
 
-All the *dewa mambang* were in an uproar and tried to separate them, but to no avail. They were drawn into the chaos, and all the *dewa mambang* scattered, while the *widodari* wept because their heavens were destroyed. [p. 39.] The battle between Sang Yang Puguh and Sang Yang Punggung escalated because no weapons could harm them; they uprooted whatever trees they found to use as clubs. They even uprooted the shrines (*sanggar*) to use as weapons, destroying them and scattering the debris everywhere.
+### [Folio 39]
+1. [p. 39.] Sang Yang Punggung escalated because no weapons could harm them; they
+2. uprooted whatever trees they found to use
+3. as clubs. They even uprooted the shrines (*sanggar*) to use as weapons,
+4. destroying them and scattering the debris everywhere. Sang Yang Pangadi and Sang Yang Sobo
+5. tried to intervene but could not withstand it and were drawn into the frenzy.
+6. The battle between Sang Yang Puguh and Sang Yang Punggung raged day
+7. and night for seven days, with neither side weakening. There were
+8. violent storms and roaring winds in Suroloyo; the gods, male and
+9. female, were in an uproar with a thunderous noise,
+10. not knowing where to seek refuge. Sang Yang Baruno then remembered
+11. to run and report this to Ngendro sampurno. Sang Yang Tunggal was greatly shocked
+12. by the report from Yang Baruno that his two sons
+13. were fighting. Sang Yang Tunggal immediately descended from Ngendro
+14. sampurno and swiftly arrived at Jonggring saloko. He found
+15. Sang Yang Puguh and Sang Yang Punggung locked in fierce combat.
+16. Sang Yang Tunggal immediately grabbed both of his sons,
+17. and with immense anger [p. 40.] toward both of them, he
 
-Sang Yang Pangadi and Sang Yang Sobo tried to intervene but could not withstand it and were drawn into the frenzy. The battle between Sang Yang Puguh and Sang Yang Punggung raged day and night for seven days, with neither side weakening. There were violent storms and roaring winds in Suroloyo; the gods, male and female, were in an uproar with a thunderous noise, not knowing where to seek refuge.
-
-Sang Yang Baruno then remembered to run and report this to Ngendro sampurno. Sang Yang Tunggal was greatly shocked by the report from Yang Baruno that his two sons were fighting. Sang Yang Tunggal immediately descended from Ngendro sampurno and swiftly arrived at Jonggring saloko. He found Sang Yang Puguh and Sang Yang Punggung locked in fierce combat.
-
-Sang Yang Tunggal immediately grabbed both of his sons, and with immense anger [p. 40.] toward both of them, he squeezed them so tightly that their faces and bodies turned black and blue. Both cried and begged their father for forgiveness. But Sang Yang Tunggal refused to forgive them. He then cast both of his sons down to the mortal realm (*marcopodo*).
-
-Yang Punggung fell in the land of Java, and Yang Puguh fell in the land of Tanjowo. Both transformed, becoming extremely ugly, and they wept bitterly, begging their father for forgiveness. Then both heard a voice commanding them to serve as guardians: Yang Puguh was ordered to guard the King of Tanjowo, and Yang Punggung was ordered to guard the King of the land of Java. Thus, both ceased their weeping and accepted their destined fate.
-
-Sang Yang Tunggal then chose between his remaining two sons to establish a King to rule in Jonggring saloko and govern Ngondar-andir buwono. His son Sang Yang Saba was inaugurated by all the gods in Suroloyo at Bale si Mercu kundho, and his father gave him the name [p. 41.] Bathoro Nilokontho
+### [Folio 40]
+1. squeezed them so tightly that their faces and bodies turned black and blue.
+2. Both cried and begged their father for forgiveness. But Sang Yang Tunggal
+3. refused to forgive them. He then cast both of his sons down
+4. to the mortal realm (*marcopodo*). Yang Punggung fell in the land of Java,
+5. and Yang Puguh fell in the land of Tanjowo. Both transformed,
+6. becoming extremely ugly, and they wept bitterly, begging
+7. their father for forgiveness. Then both heard a voice
+8. commanding them to serve as guardians: Yang Puguh was ordered to guard
+9. the King of Tanjowo, and Yang Punggung was ordered
+10. to guard the King of the land of Java. Thus, both ceased their weeping
+11. and accepted their destined fate.
+12. Sang Yang Tunggal then chose between his remaining two sons
+13. to establish a King to rule in Jonggring saloko
+14. and govern Ngondar-andir buwono. His son Sang Yang Saba
+15. was inaugurated by all the gods in Suroloyo at Bale si Mercu
+16. kundho, [p. 41.] and his father gave him the name Bathoro Nilokontho

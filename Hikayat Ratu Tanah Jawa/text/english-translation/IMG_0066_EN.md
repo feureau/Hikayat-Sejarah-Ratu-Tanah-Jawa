@@ -4,6 +4,16 @@
 
 ## Text
 
-[p. 9.] then / driven away by all the village people even reaching outside Ngayogya. Then all the village people reported to you, Ngabdul hamid, if they all wanted to surrender Ngayogya at once, but you did not allow it, because there was still someone you were waiting for, your grandfather the Governor, perhaps he still had faith/affection towards you. Finished, wallohu a'lam ghofarolahum (*and Allah knows best, may He forgive them*).
-
-As for the second matter in Selarong: O Ngabdul Hamid, at that time the one acting as your grandfather the Governor, who was the embodiment of the Governor at that time Ngabdul Hamid, was General De Kock, then General De Kock came to the country of Ngayogya, then sent a letter to you in
+### [Folio 34]
+1. you. Then it happened that Sumiser was defeated, then / driven away by all the village people even reaching
+2. outside Ngayogya. Then all the village people reported
+3. to you, Ngabdul hamid, if they all wanted
+4. to surrender Ngayogya at once, but you did not allow it,
+5. because there was still someone you were waiting for, your grandfather
+6. the Governor, perhaps he still had faith/
+7. -affection towards you. Finished, wallohu a'lam ghofarolahum (*and Allah knows best, may He forgive them*).
+8. As for the second matter in Selarong: O
+9. Ngabdul Hamid, at that time the one acting as your grand-
+10. -father the Governor, who was the embodiment of the Governor
+11. at that time Ngabdul Hamid, was General De Kock,
+12. then General De Kock came to the country of Ngayogya,

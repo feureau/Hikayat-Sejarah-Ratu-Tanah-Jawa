@@ -8,6 +8,59 @@
 
 - 30 -
 
-Ki Satma and Ni Satmi looked and saw that the door of the cave was visible, and open inside the door was a glass room (*getdong kuwaca*) with a golden bed in the middle. Seated on the bed was one whose light was like the brilliant moon, with two sleeping below him. Ki Satma and Ni Satmi paid their respects, extremely relieved in their hearts to see the two sleeping there. Then the King (*Nata*) of Jenggala beckoned Ki Satma and Ni Satmi, telling the two of them to enter the glass room. Entering, they immediately prostrated [p. 99.] themselves at his feet, as if in a dream, weeping. Ki Satma and Ni Satmi were then addressed by the King of Jenggala: /* [kararpa] */ "Both of you sit down." After the two had seated themselves properly, the King of Jenggala said: "Where are your companions, that the two of you enter this cave?" Then Kyai Satma spoke while paying homage, saying: "Indeed, out of the sorrow of your servant's heart searching for the King (*Nalendra*)." The King smiled and said: "Now, where is the place you are looking for him?" Kyai Satma bowed and said: "My Lord (*Gusti*), truly it is you, Sri Nalendra of Jenggala; what is your will, so your servant Satma may execute it?" The King smiled and said: "Enough, father (*bapa*), return to my Galuh forest; father, clear it, I will make it my kingdom and my desire. Father, I will follow later right in the middle of the great war. Father, when the kingdom becomes visible, however, father, be absolutely sure of it, father, that the palace (*kedaton*) and its maidens (*waragana*) are as described." Ki Satma understood everything that was the will of the King, and his heart became very clear. Satma and Satmi said "As you command" and then kissed his feet: /* [X] */ Then the two withdrew from the presence of the King of Jenggala. Then Satma and Satmi walked hurriedly, arriving at the house [p. 100.] of Satma's relatives as if in a dream. After greeting the children and grandchildren alternately, Satma and Nyai Satmi, Kyai Satma ordered his eldest son Sangkan to sound the alarm signal. In an uproar, all the people arrived at Bajanghumpeng /* [Bajang lumpang] */ completely, as well as the Dukes (*Dipatya*), and the nearby village elders (*buyut*), who all arrived at the house. Kyai Satma, or rather Buyut Satma, then ordered all the Dukes and village elders that it was the will of the King, Sri Naranata of Jenggala, in the Galuh forest, to surround and clear it. The Dukes and village elders said "As you command" to Satma, and were ordered to disperse and make all preparations.
+### [Folio 99]
+1. Ki Satma and Ni Satmi were then addressed by the King of Jenggala: "Both of you, sit down;"
+2. after both were seated properly, the King of Jenggala said: "What
+3. is your business that you entered this cave?" Then spoke Kyai
+4. Satma while bowing, saying thus: "Yes, out of sorrow
+5. in my heart I searched for the King." Then smiled
+6. the King, saying: "Now where is the place of the one you seek?"
+7. Bowing, Kyai Satma said: "My Lord, truly your Majesty Sri
+8. Nalendra of Jenggala, whatever your wish, I your servant Satma shall obey."
+9. Smiling, the King said: "Now, father, return to my forest of Galuh,
+10. father, clear it, I shall make it a kingdom according to my desire; father,
+11. I shall follow later in the midst of a great battle; father, when
+12. the kingdom appears, father, by all means be careful, for in truth
+13. that is the palace of the waragana, as has been told." Ki Satma
+14. understood the King's wish, his heart was exceedingly bright, Satma and Satmi
+15. said "at your command" and then both bowed at his feet; after retiring
+16. from before the King of Jenggala, then hastily
+17. proceeded on their journey, Satma and Satmi arrived at their house.
 
-As for the story in Galuh, at night the Maiden King (*Sang Prabu Wanadiya*) dreamed of meeting a noble who was handsome and still young, claiming to be the King of Java and demanding the kingdom of Galuh. However, he did not just ask, he intended to occupy it. Upon waking from her sleep, the King of Galuh was anxious about the dream, and immediately went out to hold court, with all the court maidens complete before the King. The noble Ladies, Ratu Ganawati and Ragawati, sat in a row [p. 101.] with the four commanders of the soldiers, and the eighty court maidens behind them. Then the King of Galuh spoke to her vizier (*patih*), the beautiful Ratu Ganawati, "I am anxious about my dream," and described everything. Ratu Ganawatya said to Sang Prabu Wanadya: "My guess is that it is your ancestor trying you by taking a different form." Nata Wanadya said: "It does not seem like my royal grandfather (*Kangjeng eyang*) would want to joke." So Ratu Ganawatya also said: "If it is not your royal grandfather, then it is very unlikely, for who would dare approach you, King?" Sang Prabu Wanodya said: "Ganawati, do not think like that, there are many creations of the gods (*jawata*). In my feeling,"
+### [Folio 100]
+1. The family of Satma felt as if in a dream; after embracing one another,
+2. the children and grandchildren of Satma and Nyai Satmi were instructed by Kyai Satma,
+3. who commanded his eldest son Sangkan to sound the alarm drums;
+4. then all the people arrived, coming to Bajang lumpang,
+5. all of them, as well as the Adipatis and nearby village elders who had
+6. arrived at the house. Kyai Satma then gave orders to all
+7. the Adipatis and elders, informing them that according to the
+8. wish of the King Sri Naranata of Jenggala, the forest of Galuh was to be
+9. surrounded and cleared; the Adipatis and elders said "at your command" to
+10. Satma and were then dismissed to prepare. As for the chronicle
+11. in Galuh, Sang Prabu Wanodya dreamt at night that she met
+12. a noble, handsome young man who claimed to be King of Java,
+13. and asked for the realm of Galuh, not asking to rule, but wanting to dwell
+14. there. Upon awakening from her sleep, the Queen of Galuh
+15. was amazed by her dream, and then went out to hold court, surrounded by
+16. all the waragana gathered before the King; Sang Dyah Ratu
+17. Ganawati and Ragawati sat side by side with the four soldier leaders,
+
+### [Folio 101]
+1. and the eighty waragana behind them. Spoke
+2. the Queen of Galuh to her chief minister Ratu Ayu Ganawati,
+3. expressing wonder at her dream, recounting everything;
+4. Ratu Ganawati spoke to Sang Prabu Wanodya: "I
+5. guess your grandfather is testing you, assuming a disguised
+6. form." Spoke Queen Wanodya: "It seems unlikely that my grandfather would
+7. play tricks." Thus also spoke Ratu Ganawati: "If not
+8. your grandfather, it is most extraordinary, for who would
+9. dare oppose you, the Queen?" Then spoke Sang Prabu
+10. Wanodya: "Ganawati, though that is so, there are many creations of the
+11. gods; my feeling is it is clearly a human who claims to be
+12. King of Java." Spoke Ratu Ganawati: "Even if that is true,
+13. what is there to fear?" Again spoke the King of
+14. Galuh: "Suradewati, go to the garden and inspect the one who
+15. claims to be King; if he is there, after bathing,
+16. go before my grandfather and speak: 'Since I had such a dream,
+17. what is the wish of my grandfather Nata Sindula?'

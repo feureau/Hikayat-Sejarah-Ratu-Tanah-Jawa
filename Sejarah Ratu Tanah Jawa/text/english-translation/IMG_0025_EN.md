@@ -8,6 +8,64 @@
 
 - 22 -
 
-Thus, Prabu Jaka was angry with his son, Naga Linglung, and then /* [?] */ Naga Linglung's mouth was pinned open by his father, Prabu Jaka. Naga Linglung then vanished, becoming the King of the Seluman (spirits) in /* [?] */ Kesanga, which remains a sign to this day; if Naga Linglung in Kesanga is enraged, [p. 71.] it is certain that there will be a great war in the Land of Java.
+### [Folio 70]
+13. then Prabu Jaka was angry at his son Naga Linglung, and then
+14. the mouth of Naga Linglung was pegged by his father Prabu Jaka, and then
+15. Naga Linglung vanished and became the King of Spirits in
+16. Kesanga, which has become a sign until now,
+17. if Naga Linglung is enraged in Kesanga, it is certain
 
-As for the history in Guwa Terusan: Raden Daniswara, who was in ascetic sleep with his two servants, Pun Bejo and Daulat, had been motionless for a long time in Guwa Terusan, as if /* [?] */ the three corpses were empty. Then, his grandfather, Sang Yang Prabu Sindulo, felt pity for his grandson, Raden Putra Daniswara, and then tested /* [?] */ his grandson. Two Waraganas (heavenly nymphs) were ordered to tempt his grandson, Raden Putra Daniswara; their names were Dewi Sangkaningrat and Dewi M/* [aya] */ingkara. The meaning of Waragana is the shadow of a Widodari (nymph) in heaven. So both Waraganas, Sangkaningrat and M/* [aya] */ingkara, arrived at Kedung Kuwaca and tempted Raden Putra Daniswara who was in ascetic sleep. Despite many seductive efforts by the Waraganas, /* [?] */ Raden continued sleeping peacefully, having assumed the state of a corpse. The Waraganas then vanished and reported to Sang Yang* Prabu Sindulo: "The grandson remains unaffected." * Nata Sindulo came out, and Sang Yang Sindulo arrived at [p. 72.] the Kuwaca building where his grandson was sleeping. On the golden bed, Sang Yang Nata Sindulo spoke: "Enough, my son, wake up." Raden Putra Daniswara faintly heard the voice in his sleep, and then Raden Putra awoke. It was unmistakable in his heart that this was truly his grandfather, Nata Sindula, whose radiance was like the sun. Then Raden Putra bowed at his feet while weeping. Sang Yang Nata Sindulo spoke: "Who am I that you bow at my feet? Speak." Raden Putra Daniswara: "The descendant /* [¶] */ of the Land of Java; it is indeed Sang Yang Nata Sindulo." Smiling, he embraced his grandson and then kissed the crown of his head, with Nata Prabu Sindulo holding back tears. Raden Putra wept even more, realizing it was truly his grandfather. Then Sang Yang Nata Sindulo spoke: "Enough, my son, be quiet, for it is the will. But it is your fortune; your enemy, Aji Saka, is willed by Yang Wasesa to interrupt the Javanese kingdom for only three years. Now, my son, the time is almost up, yes, three years, and it is granted to you [p. 73.] by Sang Yang Wasesa. These two Waraganas, Sangkaningrat and Mayangkara, but for now it is not yet time for you to unite with them. Be disappointed." He summoned them, and then Sangkaningrat and Mayangkara arrived before Sang Yang Sindulo. Regarding the two Waraganas, Sang Yang Nata Sindulo spoke: "Both of these are your wives, but for now they are merely co-wives, just a burden for later, as often as you wish, when you return to Mendang. And another thing, serve as a follower—that will be the way you can return to Mendang, my son. In the middle of the forest, there is a widow, Kasihan, her younger sister, who has an only son named Jugul Muda. In Panukulan, the forest of life to the southeast, is her place. These two wives, Waraganas Sangkaningrat and Mayangkara, just let them follow later. Now, depart, for it is time for you to prepare. Bring your servants with you." Prabu Sindulo and the two Waraganas vanished. Raden Putra remained alone in the Kuwaca building and woke up his servants
+### [Folio 71]
+1. that there will be a great war in the Land of Java. As for the history in
+2. the Terusan Cave: Raden Putra Daniswara, who was
+3. in meditative sleep with his two retainers, pun Beja and Dau-
+4. -lat, for a long time none of them moved in the Terusan
+5. Cave, for all three of their bodies were empty like corpses. Then
+6. his grandfather, Sang Yang Prabu Nata Sindulo, took pity on
+7. his grandson, Raden Putra Daniswara, and then tested his grand-
+8. -son. Two Waraganas were ordered to tempt his grandson, Raden
+9. Putra Daniswara, named Dewi Sangkaningrat and Dewi
+10. Mayangkara; "Waragana" means the reflection of heavenly nymphs
+11. in paradise. Then the two Waraganas, Sangkaningrat and
+12. Mayangkara, arrived at Gedong Kuwaca, and then tempted Ra-
+13. -den Putra Daniswara who was in meditative sleep, and many were
+14. the antics of the Waraganas, but Raden slept peacefully as if
+15. transformed into a corpse. The Waraganas then vanished and reported to Sang Yang Prabu
+16. Sindulo that his grandson could not be tempted. Nata Sindulo smiled,
+17. and then Sang Yang Nata Sindulo arrived at the location of Gedong
+
+### [Folio 72]
+1. Kuwaca, at the place where his grandson Raden was sleeping on a golden couch,
+2. Sang Yang Nata Sindulo spoke: "Enough, my son, wake up!" Raden
+3. Putra Daniswara faintly heard the voice in the midst of
+4. his sleep, and then Raden Putra awoke, no longer in doubt
+5. in his heart that it was indeed his grandfather Nata Sindula, whose ra-
+6. -diance was like the sun. Then Raden Putra bowed at his feet while
+7. weeping, and Sang Yang Sindulo spoke: "Who am I that you bow
+8. at my feet? Speak!" Raden Putra Daniswara said: "[You are the sa-
+9. -ge] revered in the Land of Java, truly Sang Yang Nata Sindulo." Then he
+10. smiled, embraced his grandson and kissed his head,
+11. while weeping tears Sang Nata Prabu Sindulo, and Raden Putra wept
+12. even more bitterly knowing that it was indeed his grandfather. Then spoke
+13. Sang Yang Nata Sindulo: "Enough, my son, be quiet, for it is
+14. the will of Yang Wasesa, [your enemy Aji Saka]. It is
+15. your fortune that your enemy Aji Saka, by the will of Yang Wa-
+16. -sesa, interrupts the throne of Java for only three years; now
+17. it is almost at hand, my son, indeed three years, and it is granted to you
+
+### [Folio 73]
+1. by Sang Yang Wasesa. Those two are Waraganas, Sangkaningrat and Mayangkara,
+2. but now is not yet the time for you to unite with them." Summoned,
+3. then arrived Sangkaningrat and Mayangkara before Sang Yang Sindulo,
+4. both of them Waraganas. Sang Yang Nata Sindulo spoke: "These two
+5. are your wives, but for now they remain only as betrothed; in the future,
+6. as you wish when you have returned to Mendang, and furthermore
+7. serve as a retainer, that will be the way you can return, my son,
+8. to Mendang. In the middle of the forest there is a widow, named Kasihan,
+9. who has one son, named Jugulmuda;
+10. Panungkulan is the name of the forest, southeast is the location;
+11. your two wives, the Waraganas Sangkaningrat and Mayangkara,
+12. let them just follow later. Now, depart, for
+13. it is time for you to prepare; take your retainers
+14. with you." Prabu Sindulo vanished along with the two
+15. Waraganas. Raden Putra remained behind in Gedong Kuwaca,

@@ -4,6 +4,16 @@
 
 ## Text
 
-[p. 12.] / who is Kangjeng Rosulallah s.a.w., therefore there are two sentences of *sjahadat* (*testimony of faith*) only made as a sign that there is truly a servant and a Lord.
-
-O, Ngabdul Hamid but it cannot be called two: Nabi Mohammad s.a.w. and Robbil Ngalamin. If called two it becomes void your utterance of *sjahadat*, because it becomes *kajabariyah* (*Qadariyah*). If called it is certain that it is only one, yes it is void because it becomes *qodariyah*. O, Ngabdul Hamid so the perfection can see two becoming one not
+### [Folio 115]
+1. / who is Kangjeng Rosulallah s.a.w., therefore
+2. there are two sentences of *sjahadat* (*testimony of faith*) only made
+3. as a sign that there is truly a servant and a Lord.
+4. O, Ngabdul Hamid but it cannot be called
+5. two: Nabi Mohammad s.a.w.
+6. and Robbil Ngalamin. If called
+7. two it becomes void your utterance
+8. of *sjahadat*, because it becomes *kajabariyah* (*Qadariyah*). If
+9. called it is certain that it is only one,
+10. yes it is void because it becomes *qodariyah*.
+11. O, Ngabdul Hamid so the perfection
+12. can see two becoming one not

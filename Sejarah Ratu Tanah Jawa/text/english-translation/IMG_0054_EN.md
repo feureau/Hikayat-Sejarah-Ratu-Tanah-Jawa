@@ -8,42 +8,144 @@
 
 - 50 -
 
-planted in Palembang was named Arya Dilah, a child with Larasati. As for [p. 163.] the many others, the daughters of / Brawijaya are not described. One was named Raden Patah, his mother was the Chinese Princess who was entrusted to the son in Palembang. The son Raden Patah; the other was named Raden Bondan Kejawan, his mother was the Wandhan Kuning Princess who was entrusted to *Kyai Ageng* in Tarub, this Raden Bondan Kejawan Surati. Thus, the son of *Prabu* Brawijaya named Raden Patah was the one who began replacing the Buddhist religion in the land of Java with the Islamic religion. However, his father, *Prabu* Brawijaya, was asked to embrace the religion but refused. Raden Patah established his kingdom in Demak, titled His Highness Sultan of Demak, also known as *Sang Senopati* Jimbun Raden Patah. Then war broke out [p. 167.] between His Highness Sultan of Demak and his father, *Prabu* Brawijaya in Majapahit. This was because he was asked to embrace the Islamic religion, but his father, [p. 164.] *Prabu* Brawijaya of Majapahit, refused his son, and his time as an Islamic convert had come / Her Highness Ratu Darawati. But this was because Her Highness Ratu Darawati had embraced the Islamic religion; whoever belonged to her could not refuse. Ratu Darawati vanished to her husband, *Prabu* Brawijaya, the fourth Brawijaya in Majapahit, who marked the end of the Buddhist religion in the land of Java. In Demak, the one who replaced it became the beginning of Islam in the land of Java. The one who reigned in the state of Demak was Raden Patah, titled His Highness Sultan Senopati Jimbun.
+### [Folio 168]
+1. fathered *Kyai Ageng* Nis. *Kyai Ageng* Nis fathered *Kyai Ageng*
+2. Mataram (*Mentaram*). *Kyai Ageng* Mataram fathered His Highness Panembahan
+3. Senopati Ngalaga in Mataram. This was the beginning of the first
+4. reign of the descendants of Lembupeteng Bondhan Kejawan in Mataram,
+5. titled His Highness *Pamenahan Senopati Ngalaga Mangkurat Tanah Jawa*
+6. with his palace in Mataram. He was exceedingly powerful in battle
+7. in the land of Java. That is why the land of Java became
+8. a single kingdom. His Highness Sultan of Mataram was known
+9. as His Highness Sultan Seda Krapyak. His Highness Sultan Seda Krapyak
+10. fathered His Highness Sultan Ngabdulrahman, known as Sultan Agung.
+11. His Highness Sultan Agung was a King whose Islam was perfect,
+12. because he fulfilled the five pillars (of Islam). However, the palace
+13. of His Highness Sultan Agung moved from Kutha Gede Mataram, called
+14. still Mataram, and he then fathered His Highness Sunan Mangkurat.
+15. His Highness Sunan Mangkurat's palace moved to Pleret, also still
+16. Mataram; he was known as His Highness Sunan Tegalarum, because
+17. when His Highness Sunan died, it was his will to be buried in Tegalarum.
 
-As for the history of the son of Brawijaya who reigned as Sultan of Demak, he was the child of the Chinese Princess. He became the seed and the beginning of Islam in the land of Java. However, after the fourth reign of the kingdom in Demak, it then [p. 170.] moved its kingdom to Pajang. But after only one descent in Pajang, it then moved its kingdom / [p. 165.] to Mataram (*Mentaram*). This is the one whose lineage stretches long in the land of Java until the end of time, the uninterrupted descent of Mataram present in the land of Java.
+### [Folio 169]
+1. He then had two sons. His Highness Sunan Tegalarum's eldest
+2. son was named Sunan Mangkurat, the younger one was named Sinuwun
+3. Mangkubuwana. His palace moved from the land of Mataram
+4. to the land of Pajang, called Kartasura. However, the lineage
+5. of the older brother, His Highness Sunan Mangkurat, did not reign;
+6. the one who reigned in Kartasura was the lineage of the younger brother,
+7. His Highness Sinuwun Mangkubuwana, His Highness Sinuwun Prabu.
+8. His Highness Sinuwun Prabu had two sons, who reigned over
+9. the two kingdoms in the land of Java, Pajang and Mataram.
+10. But the kingdom of Pajang moved from Kartasura, and the palace
+11. of Pajang was called Surakarta. Meanwhile, the kingdom
+12. in the land of Mataram moved and was called Ngayogyakarta,
+13. and the names of these two Kings were the same, both were subsequently
+14. named Mangkubuwana, but what differed was only the beginning:
+15. in Pajang named Sunan, in Mataram named Sultan.
+16. This was the beginning of the ruin in the land of Java,
+17. because the infidels already participated in ruling all of the land of Java.
 
-As for the history of the one who became the seed of the kingdom in the land of Java in Mataram, whose lineage is uninterrupted until the end of time, it is the son /* [margin: putri / dene apa / t Ratu / Jawa] */ of Brawijaya named Lembupeteng. As for the history of the sons of Brawijaya named Lembupeteng, there were two: one was Lembupeteng of Mandura, named Lembupeteng Jaranpenoleh, the son of Brawijaya with Ratu Darawati, the Princess of Champa. The second was Lembupeteng Tarub, named Lembupeteng Bondhan Kejawan, the son of Brawijaya with the Wandhan Kuning Princess. Thus, Raden Lembupeteng Bondhan Kejawan was given to *Kyai Ageng* Kidang Tilangkas in Tarub. The reason Brawijaya wanted his son Raden Bondhan to be given to *Kyai Ageng* Tarub was because *Kyai Ageng* Tarub had a daughter, a child with a celestial maiden (*widodari*). So after the death of *Kyai Ageng* Tarub Kidang Telangkas, [p. 166.] Raden Bondhan was the one who became *Kyai Ageng* Tarub and had a child / [p. 168.] who
+### [Folio 170]
+1. They were patient; half of the land of Java was entrusted, and its revenues
+2. were offered to the reigning Kings in Pajang and Mataram.
+3. The half that reigned as King of the land of Java was divided
+4. equally, feeling like it belonged to the two Kings. This was the cunning
+5. of the infidels, may God curse them (*laknatullah*). In the front of Mataram,
+6. Pagelen and the mountainous outer regions (*Mancanagari*) were taken,
+7. which is why more and more Javanese people strayed from the Religion at that time.
+8. At first, not all forms of this were told, but it was the will of the writer
+9. to tell it. However, only in the kingdom of the land of Mataram
+10. in Ngayogyakarta, His Highness Sultan Mangkubuwana who reigned
+11. first in Ngayogyakarta was known as His Highness Sultan Prakosa.
+12. He had sons whose names did not change, still named His Highness Sultan Mangkubuwana,
+13. but their monikers varied. The second His Highness Sultan Mangkubuwana
+14. was known as His Highness Sultan Mangun Tapa. His Highness Sultan Mangun Tapa
+15. fathered the third Sultan Mangkubuwana, known as His Highness Sultan Raja.
+16. His Highness Sultan Raja fathered the fourth His Highness Sultan Mangkubuwana,
+17. known as His Highness Sultan Seda Pesiyar. This happened because it
 
----
+### [Folio 171]
+1. was superseded by the will of God Almighty (*Gusti Allah Subhanahu Watangala*)
+2. in the land of Java, who was destined to wage holy war (*prang sabil*)
+3. against the infidels, may God curse them (*kapir laknatullah*).
+4. The one destined by God Almighty (*Gusti Allah Subhanahu Watangala*)
+5. to reign as the Caliph of the Messenger of Allah (peace be upon him)
+6. and lead the holy war in the path of Allah was the eldest son
+7. of His Highness Sinuwun Sultan Raja, named: Sinuwun Sultan
+8. Ngabdul Khamid Erucakra Kabirul Mukminin Panatagama, Caliph
+9. of the Prophet Muhammad, the Messenger of Allah, peace be upon him,
+10. in the land of Java, *Senopati Ngalaga* of the holy war.
+11. At that time, the wars against the infidels, may God curse them,
+12. were fierce when clashing in battle with the Muslims. But when the Muslims
+13. clashed in battle, they were safe; sometimes there were no casualties,
+14. but many Muslims also became martyrs (*sahid*). Indeed, many types of apostate
+15. infidels were brought to the land of Java, envoys of the Dutch.
+16. Few were able to return to their own countries, many died in the land,
+17. and there were many signs of love and help from God Almighty
 
-- 51 -
+### [Folio 172]
+1. towards the Muslims. As for the hidden outcome, God knows best (*wallohu 'alam bissawab*).
+2. The twenty-third day of the month of Ramadan,
+3. the year Jim, the Hijrah of the Prophet one thousand two hundred
+4. and fifty-three, the Javanese Hijrah one thousand seven hundred and sixty-five.
+5. As for the history of the land of Java,
+6. after Islam began in Demak until now, it is not permitted to be drawn
+7. or made into a *wayang* story, for it is forbidden (*haram*)
+8. because Islam has entered the land of Java. Except for being told
+9. in writing, if it is drawn to create images like when it was still Buddhist
+10. in the land of Java, it is no longer allowed. Or if Muslims are drawn to make
+11. a *wayang* story, it is forbidden, because the Prophet
+12. Muhammad, the Messenger of Allah, peace be upon him, has prohibited it,
+13. meaning the command of Faith. As for what is called 'faith',
+14. the command contained in the Qur'an states that it is no longer allowed for Islam
+15. to be made into a *wayang* story or images, God willing (*insja Allah*),
+16. also because the contents of the land of Java from the time of Demak until now
+17. are only three things: humans, *iblis* (devils), and animals.
 
-fathered *Kyai Ageng* Nis. *Kyai Ageng* Nis fathered *Kyai Ageng* Mataram (*Mentaram*). *Kyai Ageng* Mataram fathered His Highness *Panembahan Senopati Ngalaga* in Mataram. This was the beginning of the first reign of the descendants of Lembupeteng Bondhan Kejawan in Mataram, titled His Highness *Pamenahan Senopati Ngalaga Mangkurat Tanah Jawa* with his palace in Mataram. He was exceedingly powerful in battle in the land of Java. That is why the land of Java became a single kingdom. His Highness Sultan of Mataram was known as His Highness Sultan Seda Krapyak. His Highness Sultan Seda Krapyak fathered His Highness Sultan Ngabdulrahman, known as Sultan Agung. His Highness Sultan Agung was a King whose Islam was perfect, because he fulfilled the five pillars (of Islam). However, the palace of His Highness Sultan Agung moved from Kutha Gede Mataram, called / [p. 169.] still Mataram, and he then fathered His Highness ^Sunan Mangkurat. His Highness Sunan Mangkurat's palace moved to Pleret, also still Mataram; he was known as His Highness Sunan Tegalarum, because when His Highness Sunan died, it was his will to be buried in Tegalarum. He then had two sons. His Highness Sunan Tegalarum's eldest son was named Sunan Mangkurat, the younger one was named Sinuwun Mangkubuwana. His palace moved from the land of Mataram to the land of Pajang, called Kartasura. However, the lineage of the older brother, His Highness Sunan Mangkurat, did not reign; the one who reigned in Kartasura was the lineage of the younger brother, His Highness Sinuwun Mangkubuwana, His Highness Sinuwun Prabu. His Highness Sinuwun Prabu had two sons, /* [margin: 30 / Ramadan / AH 1253 / 1765] */ who reigned over the two kingdoms in the land of Java, Pajang and Mataram. But the kingdom of Pajang moved from Kartasura, and the palace of Pajang was called Surakarta. Meanwhile, the kingdom in the land of Mataram moved and was called Ngayogyakarta. And the names of these two Kings were the same, [p. 171.] both were subsequently named Mangkubuwana, but what differed was only the beginning: [p. 170.] in Pajang named Sunan, in Mataram named Sultan. / This was the beginning of the ruin in the land of Java, because the infidels ^already participated in ruling all of the land of Java. They were patient; half of the land of Java was entrusted, and its revenues were offered to the reigning Kings in Pajang and Mataram. The half that /* [margin: Dutch / divide and / * Rule / Tactics] */ reigned as King of the land of Java was divided equally, feeling like it belonged to the two Kings. This was the cunning of the infidels, may God curse them (*laknatullah*). In the front of Mataram, Pagelen and the mountainous outer regions (*Mancanagari*) were taken, which is why more and more Javanese people strayed from the Religion at that time. At first, not all forms of this were told, but it was the will of the writer to tell it. However, only in the kingdom of the land of Mataram in Ngayogyakarta, His Highness Sultan Mangkubuwana who reigned first in Ngayogyakarta was known as His Highness Sultan Prakosa. He had sons whose names did not change, still named His Highness Sultan Mangkubuwana, but their monikers varied. The second His Highness Sultan Mangkubuwana was known as His Highness Sultan Mangun Tapa. His Highness Sultan Mangun Tapa fathered the third Sultan Mangkubuwana, known as His Highness Sultan Raja. His Highness Sultan Raja fathered the fourth His Highness Sultan Mangkubuwana, known as His Highness Sultan Seda Pesiyar. This happened because it [p. 171.] was superseded by the will of God Almighty (*Gusti Allah Subhanahu Watangala*) in the land of Java, who
+### [Folio 173]
+1. As for the history of the land of Java when it was still
+2. Buddhist, the end of which in Majapahit, the story was made using wooden *wayang*.
+3. It was called *Wayang Klithik*, starting from Majapahit
+4. up to Pajajaran. The end of this became the story
+5. in the land of Java, which were made as embodiments of all
+6. the people in the land of Java, big, small, bad, good, those who ended up
+7. fortunate or those who ended up miserable. These were what became
+8. imitations for all Javanese people. As for the history
+9. from Pajajaran up to Jenggala, the story was made using
+10. leather *wayang*, named *Wayang Gedhog*. Its story
+11. was no different from the deeds of ^Panadaran
+12. and all humans. Then in Jenggala beginning with Resi Gethayu
+13. up to *Prabu* Suwela Cala, that is *Sang Yang* Sindhula,
+14. the story was made using *wayang* drawn on *daluwang*
+15. like a picture. Its name was *Wayang Purwa Beber*,
+16. because the beginning (*purwa*) of the presence of humans in the land of Java was
+17. His Highness Sultan of Rum. They were of the Christian (*Srani*) religion, because they followed
 
----
+### [Folio 174]
+1. the Sultan of Rum. As for all the people of Rum, upon arriving
+2. in the land of Java, they changed their religion
+3. because they followed their King. King Sindhula was indeed of the Buddhist
+4. religion, and the mention of the Buddhist religion was only
+5. *Dewa Batara*. Yes, the people of Rum became the seed
+6. of humans in the land of Java until now. That is why
+7. it is called *Wayang Purwa Beber*, because the people of Rum became the seed
+8. of all humans in the land of Java until now. Then,
+9. from *Sang Yang* Sindhula until the intermediate realm (*ngalam antara*),
+10. the story was made using leather *wayang*. Its name was
+11. also *Wayang Purwa*, but it was the *Wayang Purwa* of the Gods experiencing
+12. the intermediate realm. This was what was followed and used as a designation
+13. for all the people in the land of Java, called the Buddhist Religion in the land
+14. of Java, from the intermediate realm until its end in Majapahit
+15. with the Buddhist religion for the people in the land of Java.
+16. The end, finished is the history of the Kings in the land of Java,
+17. as well as what became the seed of all the people in the land of Java.
 
-- 52 -
-
-who was destined to wage holy war (*prang sabil*) against the infidels, may God curse them (*kapir laknatullah*). The one destined by God Almighty (*Gusti Allah Subhanahu Watangala*) to reign as the Caliph of the Messenger of Allah (peace be upon him) and lead the holy war in the path of Allah was the eldest son of His Highness Sinuwun Sultan Raja, named: Sinuwun Sultan Ngabdul Khamid Erucakra Kabirul Mukminin Panatagama, Caliph of the Prophet Muhammad, the Messenger of Allah, peace be upon him, in the land of Java, *Senopati Ngalaga* of the holy war. At that time, the wars against the infidels, may God curse them, were fierce when clashing in battle with the Muslims. But when the Muslims clashed in battle, they were safe; sometimes there were no casualties, but many Muslims also became martyrs (*sahid*). Indeed, many types of apostate infidels were brought to the land of Java, envoys of the Dutch. Few were able to return to their own countries, many died in the land, [p. 175.] and there were many signs of love and help from God Almighty (*Gusti Allah Subhanahu Watangala*) [p. 170.] towards the Muslims. As for the hidden outcome, God knows best (*wallohu / 'alam bissawab*).
-
-The twenty-third day of the month of Ramadan, the year Jim, the Hijrah of the Prophet one thousand two hundred and fifty-three, the Javanese Hijrah one thousand seven hundred and sixty-five /* [margin: 30 / Ramadan / A.H. 1253 / 1765.] */. As for the history of the land of Java, after Islam began in Demak until now, it is not permitted to be drawn or made into a *wayang* story, for it is forbidden (*haram*) because Islam has entered the land of Java. Except for being told in writing, if it is drawn to create images like when it was still Buddhist in the land of Java, it is no longer allowed. Or if Muslims are drawn to make a *wayang* story, it is forbidden, because the Prophet Muhammad, the Messenger of Allah, peace be upon him, has prohibited it, meaning the command of Faith. As for what is called 'faith', the command contained in the Qur'an states that it is no longer allowed for Islam to be made into a *wayang* story or images, God willing (*insja Allah*), also because the contents of the land of Java from the time of Demak until now are only three things: humans, *iblis* (devils), and animals.
-
-[p. 173.] As for the history of the land of Java when it was still / Buddhist, the end of which in Majapahit, the story was made using wooden *wayang*. It was called *Wayang Klithik*, starting from Majapahit up to Pajajaran. The end of this became the story in the land of Java, which were made as embodiments of all the people in the land of Java, big, small, bad, good, those who ended up fortunate or those who ended up miserable. These were what became imitations for all Javanese people.
-
-As for the history from Pajajaran up to Jenggala, the story was made using leather *wayang*, named *Wayang Gedhog*. Its story was no different from the deeds of ^Panadaran (the Pandavas?) and all humans. Then in Jenggala beginning with Resi Gethayu up to *Prabu* Suwela Cala, that is *Sang Yang* Sindhula, the story was made using *wayang* drawn on *daluwang* (bark paper) like a picture. Its name was *Wayang Purwa Beber*. It was named so because the beginning (*purwa*) of the presence of humans in the land of Java was His Highness Sultan of Rum. They were of the Christian (*Srani*) religion, because they followed the Sultan of Rum. [p. 172.] / As for
-
----
-
-- 53 -
-
-[p. 174.] Thus, all the people of Rum, upon arriving in the land of Java, changed their religion because they followed their King. King Sindhula was indeed of the Buddhist religion, and the mention of the Buddhist religion was only *Dewa Batara*. Yes, the people of Rum became the seed of humans in the land of Java until now. That is why it is called *Wayang Purwa Beber*, because the people of Rum became the seed of all humans in the land of Java until now. Then, from *Sang Yang* Sindhula until the intermediate realm (*ngalam antara*), the story was made using leather *wayang*. Its name was also *Wayang Purwa*, but it was the *Wayang Purwa* of the Gods experiencing the intermediate realm. This was what was followed and used as a designation for all the people in the land of Java, called the Buddhist Religion in the land of Java, from the intermediate realm until its end in Majapahit with the Buddhist religion for the people in the land of Java. The end, finished is the history of the Kings in the land of / ^Java, /* [colophon boxed in pen] */ [p. 175.] as well as what became the seed of all the people in the land of Java. Its history, God willing (*insja'Allah*), is nothing other than God knows best (*wallahu 'alam bissawab ghofarolahum allahu ya ghofur3*). This is the end of copying the book of the history of the Kings of Java on Wednesday night, at nine o'clock, the fifth day, in the month of Dulkaidah, the year Jim, the Hijrah of the Prophet (peace be upon him) one thousand two hundred and fifty-three, Javanese Hijrah one thousand seven hundred and sixty-five. Written in Makassar.
-/* [end boxed colophon] */
-
-                            ______________________
-
-                                                        Wednesday 9 p.m.
-                                                        5 Dulkangidah.
-                                                        Jim   1765.
-
-                                            Beginning of Islam
-                                                in Java (Demak)
+### [Folio 175]
+1. Its history, God willing (*insja'Allah*), is nothing other than God knows best (*wallahu 'alam bissawab*
+2. *ghofarolahum allahu ya ghofur3*). This is the end of copying
+3. the book of the history of the Kings of Java on Wednesday night,
+4. at nine o'clock, the fifth day, in the month of Dulkaidah,
+5. the year Jim, the Hijrah of the Prophet (peace be upon him)
+6. one thousand two hundred and fifty-three, Javanese Hijrah one thousand
+7. seven hundred and sixty-five. Written in Makassar.

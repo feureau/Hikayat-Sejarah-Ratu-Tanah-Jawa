@@ -8,8 +8,78 @@
 
 - 33 -
 
-afraid of creating trouble for the King in the future, only if Prabu Wanadya is here, and if permitted, inevitably I /* [X] */ will fight back." The Maiden was embarrassed and so she said: "Hah, then be careful, I will report you to Sang Yang Sindula, disaster will surely befall you." Then the King (*Nata*) smiled and spoke softly: "My Jewel, go and report." The Maiden glared, then flew off for a moment and had already arrived in the presence of Sang Yang Sindula; she then kissed his feet while weeping. The King (*Nata*) smiled and said: "Speak, what is it?" Thus she reported everything that was wrong. Sang Yang Sindula said: "My granddaughter, I am indeed afraid, yes, of the person in the garden, for he is favored by the gods. Now return, report [p. 109.] to your King." If in Galuh the person in the garden is there, therefore she should quickly return and speak truthfully. Suradewatya then departed from the presence of Sang Yang Sindula; /* [X] */ flying for a moment, she arrived before Sang Prabu Wanadya, with all the court maidens gathered. Those who were before the King (*Nata*) were Ratu Ayu Ganawati and Ratu Ragawati, who were all startled at the arrival of Suradewati, who then prostrated at the feet of Sang Prabu Wanadya, and Suradewati wept.
+### [Folio 109]
+1. report to your Queen."
+2. If he in the garden is in Galuh, hurry back and report truly."
+3. Suradewati then departed from before Sang
+4. Yang Sindula; in a moment taking to the air she arrived before Sang Prabu
+5. Wanodya, all the waragana gathered, those before
+6. the King being Ratu Ayu Ganawati and Ratu Raga-
+7. -wati, both surprised at the arrival of Suradewati, who
+8. then fell at the feet of Sang Prabu Wanodya, Sura-
+9. -dewati weeping. Startled was the King's heart, knowing
+10. clearly something had happened. Then she spoke: "Come, sit down
+11. and report, is it true there is a human in the garden?" Thus
+12. having sat down, Suradewati then reported everything,
+13. telling all from beginning to middle to end. Then
+14. spoke the Queen of Galuh: "Did you not then report to
+15. your grandfather?" Suradewati replied, stating
+16. her grandfather's words: "Yes, that person is favored
+17. by the gods, so the King feared, and moreover
 
-The heart of the King (*Nalendra*) was stirred, it was clear that something had happened. Then she said: "Come, sit down and report, is it true there is a human in the garden?" Thus, having sat down, Suradewati then reported everything from the beginning, middle, to the end. Then the King of Galuh said: "Did you not then report to your royal grandfather?" Suradewatya replied with the words of Yang Nata: "Indeed, this person is favored by the Gods (*Dewa*), which is why the King (*Nalendra*) is afraid, and [p. 110.] warned again." Then Ratu Ganawati appeared angry and interrupted the King's words: "What does his home look like and what is the name of this human?" Then Suradewatya said to Ratu Ganapuspita: "As for the appearance of the human, he is very arrogant, tall, slender, handsome but reckless, with two servants who are very comical and disfigured. He claimed his home is the glass room (*getdong kuwaca*), and it seems he has slept there a long time on the King's bed, the golden bed. I arrived /* [X] */ when there was no one there, so I bathed in the garden. I did not expect that this person was there, so I just bathed /* [dumateng] */ without any manners, and it seems he observed all my clothes." Thus /* [M] */^they all the court maidens laughed loudly.
+### [Folio 110]
+1. warned against further action." Then feeling angered, Ratu Ganawati
+2. interrupted the King's words,
+3. saying: "What
+4. is the appearance of his home and what is that person's name?" Then spoke
+5. Suradewati to Ratu Ganapuspita: "As for the appearance of that
+6. human, he is exceedingly charming, sleek, handsome, and
+7. reckless; his two retainers are very mischievous comic attendants;
+8. he claims his home is Gedong
+9. Kuwaca; it seems he has slept on the King's couch for a long time,
+10. on the golden couch; when I arrived, that person was not there,
+11. so I went to bathe in the garden, not expecting
+12. that person to be present, bathing without propriety, as if spying
+13. on all my attire," Whereupon all the Waragana
+14. laughed loudly together.
+15. Then Ratu Ganawati asked again: "What makes you say
+16. he was spying?" Suradewati replied: "Because after
+17. I finished bathing, I then
 
-Then Ratu Ganawati asked again: "What is the sign that you call him observant?" Suradewati replied: "Because after I bathed, I [p. 111.] then picked flowers I was very startled, I struck him but he did not fight back, only my sword and dagger broke. Then I forced it until all my weapons were gone, but he still refused to fight back, promising to do so only tomorrow, if permitted by the Maiden King." So they all laughed loudly at this. Then Sri Nalendra smiled, and softly said: "What is the name of this human?" Suradewati bowed and said: "I have forgotten the name of that crazy person." Then the King (*Prabu*) said: "Why do you not remember?" Suradewati replied: "The name was complicated." Thus she reported everything about the name, making everyone laugh loudly together. Suradewati then seemed saddened by his actions /* ^e */ and words: "I feel that you are performing a duty, and different from those who are prosperous. No matter how much I grieve, it is like a cloud"
+### [Folio 111]
+1. went to pick flowers; I was greatly startled, for when I struck,
+2. he did not retaliate, but broke my sword and
+3. dagger; then he pressed on until
+4. all weapons were exhausted, yet refused
+5. to retaliate, promising instead
+6. for the future, if permitted by his Queen; whereupon they all laughed
+7. loudly." Then the King smiled, saying gently:
+8. "What is that person's name?" Suradewati bowed and said:
+9. "I have forgotten that crazy man's name."
+10. Spoke the Queen: "Do you not remember at all?" Suradewati
+11. replied: "That name was difficult," then recounting everything about
+12. the name, making everyone laugh together loudly; Suradewati
+13. then leaned against a wooden pillar, saying:
+14. "I feel you are merely a servant while another enjoys bliss;
+15. what am I worth? Like dark clouds, if thunder comes,
+16. how can rain fall?" Smiled
+17. Sang Prabu Wanodya, gently saying: "Hush now, do not
+
+### [Folio 112]
+1. weep."
+2. As for the chronicle of the Adipatis of the Western region,
+3. ready were the village elders gathering at the house of Kyai Satma
+4. in numbers; then Satma sounded the alarm drum, resounding with loud
+5. sound, innumerably many people. Thus they arrived
+6. at the forest, then made boundaries around its edges and set up encampments
+7. together. All the spirits and subtle beings residing
+8. at the forest edge were frightened and fled together,
+9. informing their leaders in great commotion and roaring sound.
+10. This was reported to Ratu Ganapuspita, then
+11. reported to Sang Prabu Wanodya, who commanded
+12. that all the people merely be frightened. Kyai Satma
+13. then ordered to begin clearing the forest, advancing together
+14. all the people.
+15. The subtle spirits then tormented them, scaring some of them,
+16. and there were spirits who poked people defecating, smearing
+17. their rears, causing hemorrhoids, so that many people fell ill.

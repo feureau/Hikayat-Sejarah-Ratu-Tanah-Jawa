@@ -8,4 +8,61 @@
 
 - 25 -
 
-[p. 83.] all the people of Panungkulan fought against the Clay Figures. Then Jaka Jugulmuda spoke, personally engaging in battle against the thousand Clay Figures alongside Bejo and Daulat, the four of them with Pacukilan. Bejo and Daulat met with Dora and Sembada. The thousand Clay Figures attacked Jugulmuda and Pacukilan. Jaka Jugulmuda and Pacukilan fought the thousand Clay Figures but were not overwhelmed; with Pacukilan, they fell and scattered, the thousand Clay Figures collapsing. Dora and Sambada also fought fiercely against Bejo and Daulat. When Prabu Jaka Mudik Batara saw Dora and Sembada defeated and collapsing, he was exceedingly angry. Then Prabu Jakamudik Batara swooped down, soaring into the sky, carrying the water of life. He sprinkled the water of life on the dead Clay Figures and Dora and Sembada, and they all simultaneously came back to life. Every time they died, they were sprinkled with the water of life, and the Clay Figures and Dora Sembada came back to life again. The four of them cried out in [p. 84.] frustration because no weapon could penetrate them; the four of them were almost crushed, swarmed by the thousand Clay Figures. When the two Waragonos, Sangkaningrat and Mayangkara, saw that Prabu Jakamudik Batara was in the sky carrying the water of life, the two Waraganas, Sangkaningrat and Mayangkara, took flight. Dewi Sangkaningrat drew her bow with tremendous power and shot a *jayatapa* arrow. The water of life was knocked from Sang Prabu Jaka's hand, caught by Mayangkara. The water of life was secured and thrown into the ocean by Dewi Mayangkara. Then Prabu Jaka, upon losing the water of life, fell into a daze, and seeing that the Clay Figures and Dora and Sembada had perished, their corpses scattered, Sangkaningrat and Mayangkara became furious, chasing him down. They descended before Raden Putra. Pursuing Sang Prabu Jaka down, Aji Saka and Raden Putra met, both incredibly powerful, clashing weapons for two days with neither showing weakness. Then they engaged in a battle of spiritual power, but Aji Saka was outmatched, even using [p. 85.] all his tricks, he was continually outmatched, Aji Saka by Raden Putra. Malaikat Ngijajil Laknatullah clearly saw that the true "Mas Tanpa Una" (Gold without Flaw) Mustofiun had arrived. Malaikat Ngijajil Laknatullah was terrified of Mas Tanpa Una Mustofiun and emerged from Aji Saka's body, fleeing into the sky. Thus Sang Aji Saka, now useless and his mind crushed, flew into the sky and met his teacher. Aji Saka wept and bowed at the feet of Malaekat Ngijajil Laknatullah. Then Malaekat Ngijajil Laknatullah spoke to Aji Saka: "Enough, my son, be quiet and accept your fate. Mas Tanpa Una Mustofiun cannot be opposed, for the one who owns Java is destined by Yang Wasesa. My son, you cannot be anything else if you still want to be a soul in the Land of Java. Perhaps in the future you can, but if you neglect [p. 86.] the physical form of Mas Tanpa Una Mustofiun now, I will just cast you to the foreign lands, your soul is the will of Sang Yang Wasesa, intended for you, my son, to rule the Seluman (spirits) in the foreign lands, my soul." Then Malaekat Ngijajil Laknatullah vanished,
+### [Folio 83]
+2. Jaka Jugulmuda, personally engaging in battle against the thousand Clay Figures,
+3. alongside Beja and Daulat, the four of them with Pacukilan. Beja and Daulat
+4. met with Dora and Sambada. The thousand Clay Figures attacked
+5. Jugulmuda and Pacukilan.
+6. Jaka Jugulmuda was swarmed by the thousand Clay Figures, but was not overwhelmed
+7. alongside Pacukilan; they fell and scattered,
+8. the thousand Clay Figures collapsing. Dora and Sambada were also
+9. defeated, fighting against Beja and Daulat. When Prabu
+10. Jaka Mudik Batara saw the Clay Figures [scattered] and Dora and Sambada
+11. defeated, he was exceedingly angry. Then Prabu Jaka Mudik
+12. Batara soared into the sky, carrying the water of life, and then
+13. sprinkled the water of life on the dead Clay Figures and Do-
+14. -ra and Sambada, and they all simultaneously came back to life.
+15. Every time they died, they were sprinkled with the water of life, the Clay Figures
+16. and Dora and Sambada, and came back to life again, until
+17. the four of them cried out in
+
+### [Folio 84]
+1. frustration, because if weapons could penetrate them, the four of them were almost crushed, swarmed by the
+2. thousand Clay Figures. When the two Waraganas saw, Sangkaningrat and Maya-
+3. -ngkara, that Prabu Jaka Mudik Batara was in the sky
+4. carrying the water of life, the two Waraganas took flight, Sangka-
+5. -ningrat and Mayangkara. Dewi Sangkaningrat drew her
+6. bow Ciptasura Wasesa and shot a *jayatapa* arrow,
+7. knocking the water of life from Prabu Jaka's hand, caught
+8. by Mayangkara. The water of life was secured and thrown into the o-
+9. -cean by Dewi Mayangkara, the water of life. Then Prabu
+10. Jaka, upon the loss of the water of life, fell into a daze
+11. and saw that the Clay Figures were gone, along with Dora and Sambada,
+12. their corpses scattered. Exceedingly furious were Sangka-
+13. -ningrat and Mayangkara; they chased him down, arriving before Raden Putra,
+14. pursuing Sang Prabu Jaka down. There met Aji
+15. Saka and Raden Putra, both exceedingly powerful, clashing
+16. weapons for two days with neither showing weakness. Then
+17. they engaged in a battle of spiritual power, but Aji Saka was outmatched, using all his
+
+### [Folio 85]
+1. tricks, but Aji Saka was continually outmatched by
+2. Raden Putra. Malaikat Ngijajil Laknatullah clearly
+3. saw that the true "Mas Tanpa Una" Mustofiun had indeed arrived.
+4. Malaikat Ngijajil Laknatullah was terrified of
+5. Mas Tanpa Una, and emerged from the body of Aji Saka, flying
+6. into the sky. Thus Sang Aji Saka was now useless,
+7. his mind crushed, flying into the sky, where he met
+8. his teacher. Aji Saka wept and bowed at the feet of Malaekat
+9. Ngijajil Laknatullah. Then Malaekat Ija-
+10. -jil Laknatullah spoke to Aji Saka: "Enough, my son, be quiet and accept
+11. your fate. Mas Tanpa Una cannot be op-
+12. -posed, for the divine owner of Java is destined by Yang Wasesa.
+13. My son, it cannot be otherwise. If you still desire to be a soul in the Land
+14. of Java, perhaps in the future you can, if you catch off guard the physical form of Mas
+15. Tanpa Una. For now I will just cast you to foreign lands,
+16. my soul, for it is the will of Sang Yang Wasesa that you, my son,
+17. rule the Spirits in foreign lands, my soul." Then
+
+### [Folio 86]
+1. vanished Malaekat Ngijajil Laknatullah, nor was left behind Aji Saka,

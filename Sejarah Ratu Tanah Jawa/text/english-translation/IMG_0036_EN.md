@@ -8,8 +8,78 @@
 
 - 32 -
 
-in this garden. Now your questioning is in vain, because we have met and have the same desire, I want to forbid you [p. 105.] you want to forbid [me] so we are just the same. If you ask /* [ana] */ for my name, it is long and you will not be able to call it. What is your name, my lady (*nilakrama*), I wish to know, and where do you come from?" Then Suradewati said harshly: "Indeed a reckless human, you are asked but have not answered, instead you ask in return. Galuh is my home, yes. Suradewati is my name, I have come to patrol this garden which belongs to Sang Prabu Wanadya, and the pool is a bathing place that others may not step into. Even a jinn or spirit would surely be killed if they enter the garden, for the prohibition is very strict. You are a human and furthermore have no manners, you will surely die, but I will forgive you, which is why I am only seizing your belongings." Then Suradewati spoke again: "Come, tell me your name and your home." The King smiled and said: "My home is the glass room. My name is long, and if you cannot say it, then there is no point in me admitting it." Then the maiden said again: "Well then, even if it is very long, I want to know, you [p. 106.] already know my name." The King smiled; /* "But say do not forget */ and call my name. Sang Prabu Banjaransari arum wangi tawang tuna sumbaga panji rerangin jebat kasturi terung gadung garu candana rasa mala Kang Mas Raden My Husband, come, call me." Then the maiden chuckled mockingly: "What kind of person's name is that? As soon as I follow it, you will just boast, claiming me as your wife."
+### [Folio 105]
+1. holding you is now just a single thing, if you ask about
+2. my name, it is long and unlikely you could pronounce
+3. my name; by your leave, what is your name? For I
+4. wish to know, and where do you come from?" Spoke
+5. loudly Suradewati: "You reckless human! Asked
+6. before giving your name, instead asking in return; Galuh is my home,
+7. yes. Suradewati is my name, I came to inspect
+8. this garden owned by Sang Prabu Wanodya; this spring
+9. pool is a bathing place that none may trespass. Even spirits and
+10. demigods surely face death if they enter this garden, so
+11. strictly forbidden it is. You are a human and moreover ignorant
+12. of manners, surely you shall perish, but
+13. I forgive you, so I shall merely strip you of your clothes."
+14. Spoke again Suradewati: "Come now, admit
+15. your name and your home." Smiled the King:
+16. "My home is Gedong Kuwaca; my name is long,
+17. if you cannot say it, it is useless to declare
 
-Then Manawi and Manawa said: "Sister, do not be so conceited, a woman and a man meeting, both alone and still young, we will be the witnesses." Then the two, Manawa and Manawi, were chased and plunged into the water, pretending to scare the King of Jenggala, while pleading with sweet words: "Sister, do not be so angry, it is useless. The intention in the heart of this man is good, appropriate, /* [X] */ he has the look of a King and perhaps this is indeed the one from the dream, Sri Nalendra [p. 107.] but it is a great pity for this man, for he has become an enemy of the kingdom / if he were not an enemy of the kingdom, my heart would be deeply in love. Your actions are reckless, it is better not to be seen." Suradewati then spoke fiercely: "Hey, hand over your kris and your clothes, or do you prefer to die?" Then the King smiled and said: "My love, my jewel, why take the dress and the kris, there is only one. You are welcome to take them, but take me along with them, and make me your servant to wait on your every command." Suradewatya glared and said: "I am not willing to keep you, you are unruly and reckless. If you do not give your kris, you had better die, disaster will soon befall you." The King smiled and said: "I left my kingdom searching for a way to die, so come, do as you wish." The maiden was furious: "Then disaster is upon you!" She unsheathed her sword, saying: 'This will be the end of you.'" The King (*Nalendra*) smiled and said: "Do not be angry, my goddess, this is useless." /* [XXXXXXX] */ The maiden attacked, and then struck [p. 108.] the King with her sword: "Your sword is broken." The King smiled and said: "There, your weapon is broken."
+### [Folio 106]
+1. who I am." Spoke again the waragana: "Very well, even if
+2. it is long, I wish to know, for you already know my name."
+3. Smiled the King: "Provided you do not forget,
+4. call my name: Sang Prabu Banjaransari Arum Wa-
+5. -ngi Tawang Tuna Sumbaga Panji Rerangin Jebat Kasturi Terung Gadung
+6. Garu Candana Rasa Mala, My Beloved Husband,
+7. now come on, call it!" The waragana laughed mockingly:
+8. "What kind of name is that? Why should I comply? It's nonsense,
+9. claiming to be my husband!" Spoke Menawi and
+10. Manawa: "Lady, do not be distant; a woman and a man meeting
+11. together, both still young, we shall be
+12. the witnesses." Then she chased Menawa and Menawi, who both plunged
+13. into the water, teasingly holding the King of Jenggala, speaking softly
+14. and gently: "Lady, do not be overly angry, it is useless, now
+15. in my heart I think this man is handsome, matching, regal,
+16. and capable; surely this is the fulfillment of the King's dream,
+17. but what a pity for this man, becoming a royal enemy;
 
-Then Suradewatya became enraged; /* [X] */ she drew her dagger (*patrem*) but it too snapped. The King of Jenggala said: "My jewel, your weapon /* ^inya */ is broken." The maiden wept and said: "Come, fight back, if you are truly a warrior." The King (*Nalendra*) smiled and said: "I am, my lady /* afraid */
+### [Folio 107]
+1. if he were not a royal enemy, my heart would love him greatly; doing reckless deeds,
+2. better he be out of sight!" Suradewati then spoke harshly, her words
+3. coming forth: "Hey, hand over your dagger and clothes,
+4. or rather die!" The King smiled and
+5. spoke: "Gracious my golden jewel, why demand clothes and dagger
+6. alone? Take everything, but with
+7. me as well, take me as your servant to serve your every wish."
+8. Suradewati glared and spoke thus: "I have no desire
+9. to keep you, shameless and reckless one! If you do not give
+10. your dagger, better that you perish, surely trouble
+11. shall overcome you now." The King smiled and said:
+12. "I came to this kingdom seeking the path of death, so do as
+13. you wish." Enraged, the waragana said: "Very well, trouble be upon you!" She then
+14. drew her sword, saying thus: "Fall upon your death!"
+15. Smiling, the King said: "Do not be angry, my divine jewel,
+16. this is useless," The waragana charged, then struck with her sword at
+17. the King: "Her sword broke," The King smiled and
+
+### [Folio 108]
+1. spoke: "Now your fingernails are broken," Enraged, Suradewati pulled
+2. her dagger, struck it, and her dagger broke. Spoke the King of Jenggala:
+3. "My golden jewel, your ring is broken." Weeping, the waragana spoke: "Come,
+4. strike back, if you are truly a warrior." The King smiled and
+5. spoke: "My lady, I fear to cause trouble now, but in the future,
+6. if Prabu Wanodya permits, surely I shall
+7. repay you." The waragana felt ashamed, saying:
+8. "Ha, be careful, brave one, I shall report you to
+9. Sang Hyang Sindula, surely trouble shall overcome you." The King
+10. smiled, gently saying: "My golden jewel, go ahead and speak."
+11. Glaring, the waragana took to the air in a moment,
+12. arriving before Sang Hyang Sindula; then bowed at his
+13. feet, weeping; smiling, the King said: "Tell me,
+14. what happened?" Thus everything that occurred was told.
+15. Spoke Sang Hyang Sindula: "My granddaughter, I fear the
+16. man in the garden, for he is favored by the gods; moreover,
+17. return home, report to your Queen."

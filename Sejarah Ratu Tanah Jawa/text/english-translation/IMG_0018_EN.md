@@ -8,4 +8,41 @@
 
 - 15 -
 
-Mahadewa, his kingdom at Gilingwesi was destroyed, and Prabu Manik Mahadewa [p. 48.] died at the hands of a giant. Getih Banjaran was the giant's name; his wife, Dewi Sulastri, was heavily pregnant, and she fled, unable to be caught by the giant. Dewi Sulastri fled to the forest and entered a cave, which happened to be the cave named Guwa Wesi (Iron Cave). Along with her, Dewi Sulastri brought three heirlooms: the Sarutama arrow, the Kalomisani keris, and the Cupu Manik Aji. Upon reaching the cave, Dewi Sulastri gave birth, assisted by all the Widodari (nymphs) who came to help. The newborn baby was named Raden Sutopo by Sang Yang Kanekoputra, because he immediately performed asceticism in Guwa Wesi, practicing with great rigor. Upon reaching adulthood, he married and fathered a son, named Raden Sakri. Upon reaching adulthood, he married and fathered Raden Sakutrem. Raden Sakutrem fathered Raden Palasari. Palasari fathered Raden Abiyasa. Abiyasa [p. 49.] fathered Pandu Dewanata, who became King in Ngastina. Pandu Dewanata fathered Sang Ngarjuna. Sang Ngarjuna fathered Sang Angkawijaya. Sang Angkawijaya fathered Parigesit. Parigesit fathered Gendrayana. Gendrayana fathered Udayana. Udayana fathered Kandihawan. Kandihawan fathered Jayamisena. Jayamisena fathered Jayamijaya. Jayamijaya fathered Prabu Selacala. This Prabu Selacala was also known as Sang Yang Prabu Sindula, handsome and still young. He was immune to aging, but his flaw was his lack of scripture, which was the will of God, Subhanahu Wata 'Ala, the Only Mighty One, the Creator. At that time, the land of Jawa suffered the wrath of the Lord of the Worlds, being cleansed. Cleansed means no human beings remained; they were all transformed into evil spirits, or became fierce forest animals. [p. 50.]
+### [Folio 47]
+16. Mahadewa, his kingdom at Gilingwesi was destroyed,
+17. and Prabu Manik Mahadewa [p. 48.] died at the hands of a giant.
+
+### [Folio 48]
+1. Getih Banjaran was the giant's name; his wife, Dewi Sul-
+2. -astri, was heavily pregnant, and she fled,
+3. unable to be caught by the giant. Dewi Su-
+4. -lastri fled to the forest and entered a cave, which happened to be
+5. the cave named Guwa Wesi (Iron Cave). Along with her,
+6. Dewi Sulastri brought three heirlooms: the Sa-
+7. -rutama arrow, the Kalomisani keris, and the Cupu Manik Aji.
+8. Upon reaching the cave, Dewi Sul-
+9. -astri gave birth,
+10. assisted by all the Widodari (nymphs) who came to help. The newborn
+11. baby was named Raden Sutopo by Sang Yang Kanekoputra, because
+12. he immediately performed asceticism in Guwa Wesi, practicing with great
+13. rigor. Upon reaching adulthood, he married and fathered a son, Ra-
+14. -den Sakri. Upon reaching adulthood, he married and fathered Raden
+15. Sakutrem. Raden Sakutrem fathered Raden Pa-
+16. -lasari. Palasari fathered Raden Abiyasa. Abiyasa
+17. [p. 49.] fathered Pandu Dewanata, who became King in Ngastina. Pandu
+
+### [Folio 49]
+1. Dewanata fathered Sang Ngarjuna. Sang Ngarjuna
+2. fathered Sang Angkawijaya. Sang Angkawijaya fathered Pari-
+3. -gesit. Parigesit fathered Gendrayana. Gendrayana fathered
+4. Udayana. Udayana fathered Kandihawan. Kandihawan
+5. fathered Jayamisena. Jayamisena
+6. fathered Jayamijaya.
+7. Jayamijaya fathered Prabu Selacala. This Prabu Selacala was also known as Sang
+8. Yang Prabu Sindula, handsome and still young. He was immune
+9. to aging, but his flaw was his lack of scripture, which was the will of
+10. God, Subhanahu Wata 'Ala, the Only Mighty One, the Crea-
+11. -tor. At that time, the land of Jawa suffered the wrath
+12. of the Lord of the Worlds, being cleansed in the land of Jawa. Cleansed
+13. means no human beings remained; they were all transformed into evil spirits,
+14. or became fierce forest animals. [p. 50.]

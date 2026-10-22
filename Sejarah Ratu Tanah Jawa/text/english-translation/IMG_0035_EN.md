@@ -8,10 +8,59 @@
 
 - 31 -
 
-"my feeling is, it is clear that this is a human who claims to be the King of Java." Ratu Ganawatiya replied: "Even so, indeed truly, what is there to fear in that?" The King of Galuh spoke again: "Suradewati, go to the garden and see this one who claims to be the King (*Nalendra*). If he is there, after bathing, then approach him! Speak to the Royal Ancestor: 'If I dreamed like this, what is the will of the Royal Ancestor King Sindula [p. 102.] there, and bring your companions in case you are startled by the one in the dream.'" Then Dewi Suradewati said: "There is no need to bring companions, even if it is true that the one from the King's dream is there. I am ready to meet him, what is there to fear, and if I return, I will bring his head." Sang Prabu Wanadya smiled and spoke softly: "Do not boast, just depart."
+### [Folio 102]
+1. and bring your companions lest you meet the one in the dream."
+2. Then spoke Dewi Suradewati: "There is no need to bring companions,
+3. even if it is true there is one who became the King's dream,
+4. I undertake to meet him, for what is there to fear? Upon returning, I shall
+5. surrender my head." Smiling, Sang Prabu Wanodya said gently:
+6. "Do not boast so, now be on your way." Bowing,
+7. she took to the air, as the King dismissed the court; thus Suradewati
+8. traveled in a mere moment. She arrived at the cave door,
+9. which happened not to witness the exit of Ki Satma, but in meditation
+10. alone; Suradewati proceeded directly to Gedong Kuwaca;
+11. there were traces of a human, but no person was present; thus
+12. she thought in her heart: "Here are traces of a human, where has he gone? Truly
+13. real was the dream of the King; if I find him, surely trouble shall befall
+14. you, human." Meanwhile the King of Jenggala happened to be
+15. strolling in the garden with his two retainers, Menawi and Menawa, who
+16. had both awoken from their sleep. Suradewati
+17. proceeded to the garden, intending to bathe first,
 
-Paying her respects, she flew off. The King dismissed the court. Thus Suradewatya's journey took only a moment. She arrived at the door of the cave, exactly at the time Ki Satma had departed, only the ascetic was there. Suradewati continued her journey straight /* ^g */ to the glass room, where there were traces of a human, but the human was not there. Thus she whispered in her heart: "Here are traces of a human, where did he go? The dream of Sri Nalendra is indeed true. If I meet him, inevitably disaster will befall this human." Then the King of Jenggala was currently playing in the garden with his two servants (*panakawan*), Menawi and Menawa, having both woken from their sleep. Meanwhile Suradewatya continued her journey [p. 103.] to the garden, intending to bathe first. Her intention was that after bathing, she would approach the King to report on the dream of his grandchild.
+### [Folio 103]
+1. intending after bathing to go before the King and
+2. report concerning her grandson's dream. Then
+3. Dewi Suradewati went to the garden. Meanwhile the King of Jenggala
+4. saw that a waragana had entered the garden, exceedingly beautiful
+5. in appearance, but alone without companions; he then hid to spy
+6. upon her with his two retainers. Meanwhile Dewi Sura-
+7. -dewati was unaware of the King; she then set aside her bow,
+8. sword, and dagger at the edge of the spring
+9. pool, then undid her hair coil and wrapped herself in a white
+10. bathing cloth, then plunged into the water; being fair-skinned in clear water,
+11. the bathing cloth clung tightly to her waist,
+12. making her curves visible in the water. The King of Jenggala
+13. knew not what to do, while Menawa and Menawi crawled and peered
+14. in their spying, as if wanting to grab her. After bath-
+15. -ing, the waragana dressed; after dressing,
+16. the waragana picked flowers; then she was stalked from
+17. behind. Then conveniently both waragana were approached, as
 
-So Dewi Suradewati went to the garden. Then the King of Jenggala saw that there was a court maiden entering the garden, whose appearance was exceedingly beautiful, but she was alone without companions. He then hid alone with his two servants. Meanwhile, Dewi Suradewati, unaware of the King, laid down her bow, sword, and dagger (*patrem*) at the edge of the spring pool. Then she let her hair down and took off her wrapped dress, wearing only a white bathing cloth (*cuwunane*), and plunged into the water. Her skin was naturally fair, the water was clear, and the cloth clung closely to her chest, so her breasts were visibly protruding. Then the King of Jenggala was confused about what to do. Menawa and Menawi were both crawling on their hands and knees behind her, looking as if they wanted to just grab her. After the maiden had bathed and dressed herself, she picked flowers. The King sneaked up on her from behind. He then surprised [p. 104.] the maiden, as the King of Jenggala said: "This is the one making a mess and destroying all the flowers."
-
-The maiden was startled, tried to break free, full of anger and cursing, saying: "Like someone grabbing a concubine, there are no men here, where are your manners from? Daring to enter the flower garden. Fortunately it was not the King bathing with Ratu Ganawati. If you were caught by Ratu Ganawati, /* [Wus] */ surely you would die. You are lucky to have been caught by me, because the King of Galuh owns this bathing pool, so you have trespassed into her grounds. Hand over your kris and your clothes, you can keep just one piece of clothing, and the same for your two servants. And what is your name, where is your home, human, that you are so bold and audacious?" Then the King spoke with a smile: "Do not be so angry. I beg /* ^inya */ for forgiveness. If you ask about my home, it is in this garden."
+### [Folio 104]
+1. the King of Jenggala spoke: "Here is the one messing with my flowers,"
+2. whereupon the waragana was startled, striving to pull away
+3. with great fierceness and cursing, saying: "Like
+4. someone grabbing his lover, a man with no manners, where are you
+5. from, that you dare enter the royal garden? It is fortunate
+6. it was not the King bathing nor Ratu Ganawati; if caught
+7. by Ratu Ganawati, you would surely die; you are lucky
+8. to be caught only by me, because the Queen of Galuh
+9. owns this bathing place, so you have trespassed on private land;
+10. hand over your dagger and clothes as ransom,
+11. you and your two servants, and what is your name and where
+12. is your house, human, that you possess such bold courage?"
+13. Spoke the King with a smile: "Do not be so angry,
+14. I ask forgiveness; if you ask about my home,
+15. it is in this garden; now asking me becomes
+16. pointless, because we have met according to destiny;
+17. I wish to hold you, I wish to hold you,

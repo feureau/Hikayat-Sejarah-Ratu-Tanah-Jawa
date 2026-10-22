@@ -8,8 +8,62 @@
 
 - 35 -
 
-humans with loud cheers together... like herding goats, all the jinn fleeing. Then all the jinn commanders gathered in their flight. They then arrived before Sang Patih Ganapuspita, all reporting that they were overwhelmed in the battle, for the multitude of humans were powerful and all had skin like iron vessels. Ratu Ganawati and Ratu Ragawati were exceedingly angry with all the jinn Dukes. Then all the jinn were ordered to return, with the two Queens personally leading them. [p. 116.] All the jinn Dukes were exceedingly afraid of Ratu Ganapuspita, so then all the jinn sounded their signals, mixing with the sounds of flutes and drums. Thus then they were heard by all the jinn who had fled, arriving in groups. Meanwhile, Kyai Satma, hearing the jinn's signals, knew they wanted to resume the battle. So then Satma sounded the signal, gathering the village elders and Dukes, for indeed they had just gained their confidence. It was not long before the multitude of jinn arrived in groups to attack, then their numbers vanished, commanded by Ratu Ganapuspita and Ratu Ragawatya. Therefore all the subtle spirits' attack /* ^yh */ the Dukes and village elders all held their ground and had no intention of retreating, for there was no disappointment. Thus their battle was fierce, weapons no longer having any effect, thus they fought fiercely. Sri Nalendra was very happy, seeing that his army had no disappointment between the jinn and the humans. Then they separated, divided by the night, all retreating respectfully, both the jinn and the humans.
+### [Folio 116]
+1. then all the spirits sounded their alarm drums, with flutes,
+2. pipe instruments, and small drums. Hearing this,
+3. all the spirits who had fled gathered together and arrived.
+4. When Kyai Satma heard the drums of the spirits,
+5. as if they wished to renew battle, Satma sounded his alarm drum,
+6. surrounding the elders and Adipatis, who had just gained courage.
+7. In no time the spirits arrived in crowds to attack,
+8. but their fear vanished when led by
+9. Ratu Ganapuspita and Ratu Ragawati. Thus all
+10. the attacking forces met the Adipatis and elders, who stood firm
+11. without intention of backing down; without fail,
+12. fierce combat ensued, weapons striking relentlessly,
+13. making the battle intense; greatly pleased was the King,
+14. seeing that none of his troops were overwhelmed, spirits against
+15. humans; then at nightfall the battle ceased, and both sides retired
+16. to their respective places, spirits and humans alike.
+17. Then Ratu Ganawati and Ratu Ragawati entered the palace,
 
-[p. 117.] Then Ratu Ganawati and Ratu Ragawati entered the palace and said to Prabu Rara: "Against the jinn, they were overwhelmed in battle, the humans are all powerful." Prabu Rara said: "What is the name of the one leading the multitude of humans?" Ratu Ganapuspita replied: "His name is Ki Buyut Satma." The King (*Nalendra*) said again: "If so, Ganawati, send an envoy to Ratu Angin-angin, order him to mobilize all the Kings of the jinn, order them to attack those humans all at once until none are left." Then Ratu Ganawati sent an envoy to summon Ratu Angin-angin and ordered him to mobilize all the Kings of the jinn. Even for three days, the jinn remained quiet /* ^i */ and did not come out to battle. Meanwhile, Kyai Satma was exceedingly troubled in his heart, but apart from Ki Satma, the multitude of humans were all rejoicing, along with Satma's children and grandchildren, for they had no worries, because they were victorious in the battle with the jinn. The Kingdom of Galuh had become visibly real, and the jinn appeared like humans. Everything about their behavior and the whole Kingdom.
+### [Folio 117]
+1. reporting to Queen Rara: "The spirits were overwhelmed in battle, the humans all possess
+2. power."
+3. Spoke Queen Rara: "Who is the leader
+4. of all those humans?" Spoke Ratu Ganapuspita: "Named
+5. Ki Buyut Satma." Spoke the King again: "If so, Ganawati,
+6. send a messenger to Ratu Angin-angin, commanding to summon all
+7. the spirit Kings, command them to crush those humans completely, let
+8. none be left behind." Then Ratu Ganawati
+9. sent a messenger to summon Ratu Angin-angin, ordering to gather
+10. all the spirit Kings; for three days, the spirits
+11. did not come out to battle. Thus Kyai Satma was deeply
+12. troubled in his heart, but except for Ki Satma, the crowd of people feasted,
+13. including Satma's children and grandchildren, without restraint,
+14. because they were victorious in battle against the spirits. The kingdom of Galuh
+15. was clearly visible, the spirits appeared like humans, in all
+16. their actions and everything in the realm. Thus Kyai Satma and
+17. his wife Ni Satmi sat on the left, not joining
 
-Meanwhile Kyai Satma and his wife Ni Satmi both sat apart [p. 118.] not joining the celebration. It was past midnight, and Ki Satma was weeping. Ni Satmi softly said: "Why are you weeping, Kyai?" Satma softly said: "Yes, Nyai, you know that the jinn /* ^t */ who fought were merely servants, their warriors have not yet emerged along with Prabu Wanadya. For I feel that common people will surely suffer, if Prabu Wanadya becomes angry, inevitably all these humans will be wiped out. For how much can we withstand, except for the King (*Nalendra*), who does not disappoint." Thus Nyai Satmi then joined in weeping. Both of them were troubled in their hearts, only hoping for the King (*Nalendra*) to arrive /* [x] */ at the battlefield. Then, within three days, all the mountains in the Land of Java resounded with roars, answering with thunderous rumbles throughout the world, and the Land of Java turned and shook violently. All the Kings of the Jinn had arrived in the kingdom of Segaluh together, Ratu Kidul leading them /* [x] */; Linglung Tunggul Wulung arrived, leading the multitude of Subtle Spirits, fully gathered in the kingdom of Segaluh [p. 119.] completely. Then it became pitch black with the arrival of Sang Yang, and
+### [Folio 118]
+1. in the feasting; late at night, Ki Satma wept, Ni
+2. Satmi said gently: "Why do you weep, Kyai?" Satma gently
+3. spoke: "Yes, Nyai, know that in this battle
+4. it was only the servants; the real soldiers have not come out, nor
+5. Prabu Wanodya; for I feel as common
+6. people we cannot prevail; if Prabu Wanodya becomes angry, surely
+7. all these people will be destroyed. For what can we do,
+8. unless matched against Kings, which would not fail." Thus Nyai
+9. Satmi then joined in weeping; both were troubled
+10. in their hearts, hoping the King would arrive on the battlefield.
+11. After three days, then sounded all the
+12. mountains of Java booming in echo and roaring
+13. sound throughout the world, shaking and trembling
+14. the land of Java. All the spirit Kings had
+15. arrived in the realm of Segaluh, with Ratu Kidul leading
+16. them; Linglung Tunggul Wulung arrived, leading all
+17. the Siluman, all gathered in the realm of Segaluh.
+
+### [Folio 119]
+1. Then pitch black darkness descended upon the arrival of Sang Hyang, with

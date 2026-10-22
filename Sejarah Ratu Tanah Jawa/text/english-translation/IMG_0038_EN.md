@@ -8,10 +8,57 @@
 
 - 34 -
 
-"like a cloud for example, if it gets its thunder, the rain will surely fall." Sang Prabu Wanadya smiled [p. 112.] and softly said: "Hush, do not cry."
+### [Folio 113]
+3. Then Kyai Satma personally led his children and grandchildren, and Kyai Satma knew
+4. all the forms of those subtle spirits, and his children and grandchildren
+5. attacked the spirits, who then dispersed, and reported to Ratu
+6. Ganawati; whereupon all the spirit leaders were ordered to personally
+7. take charge and advance all the spirits. They opposed Buyut
+8. Satma and his children and grandchildren alone; the crowd of people did not yet
+9. see the forms of those spirits, even thinking Kyai Satma
+10. was crazy along with his children and grandchildren, though some
+11. among them realized that Buyut Satma was fighting against real spirits,
+12. and truly steadfast was Buyut Satma. His fight along with
+13. his children and grandchildren was surrounded by all the spirits; swinging wildly
+14. went Buyut Satma, undaunted along with his children and grandchildren.
+15. Meanwhile the King of Jenggala saw and
+16. watched the fight of Buyut Satma and his children and
+17. grandchildren, though the King remained invisible, and even the spirits
 
-As for the story of the Dukes of the western lands, the village elders were ready, all gathering at the house of Kyai Sat/* [m] */ma in throngs. Then Satma sounded the signal, and the sound thundered, the number of people was uncountable. Thus they had arrived at the forest, and then a perimeter was made at its edge, and they all set up camp properly. All the jinn and subtle spirits whose homes were at the edge of the forest were afraid and all fled, and they informed their leaders. There was a great uproar and the sound thundered. It was then reported to Ratu Ganapuspita, and then reported to Sang Prabu Wanadya, but they were ordered to just terrify all the people. So Buyut Satma ordered to quickly clear the forest, and all the people advanced together. [p. 113.] Then the subtle spirits teased them, some terrified them, and there were subtle spirits who poked them /* [X] */ when people were defecating, their anuses were smeared with Gudam (pitch?), and then many people became sick.
+### [Folio 114]
+1. knew not of the King, but Satma caught the fragrance of Jayengkaton oil,
+2. and Buyut Satma knew well that it was the fragrance of
+3. his Master, so Buyut Satma's heart felt calmed.
+4. Exceedingly pitiful felt the King towards the fight of Kyai Satma and
+5. his children and grandchildren; if struck by weapons, Satma and his children
+6. and grandchildren would surely be overwhelmed; then prayed the King
+7. to Sang Hyang Wasesa: that the kingdom of Galuh be made visible, and
+8. all the people see the spirits and their kingdom; suddenly bright and clear
+9. in an instant, all the people saw the kingdom
+10. and everything; the forest vanished, and the kingdom
+11. appeared like heaven, with countless people surrounding
+12. Ki Satma and his children and grandchildren, as Buyut Satma swung wildly
+13. with his family. Then all the elders and
+14. Adipatis were roused, sounding their drums, advancing together
+15. in haste to aid Ki Satma, charging together at
+16. all the spirits; then they engaged in fierce combat without fail, for equal
+17. were the numbers of spirits and humans; greatly pleased was the King,
 
-Then Kyai Satma took the lead with his children and grandchildren, and Kyai Satma understood the true forms of all these subtle spirits, and his children and grandchildren attacked, and the subtle spirits immediately scattered. They then went and reported to Ratu Ganawati, and then all the jinn Dukes were ordered to take form and all the jinn took action. However, it was only Buyut Satma and his children and grandchildren. The multitude of people had not yet seen the true forms of the jinn, and instead thought Kyai Satma and his children and grandchildren were crazy. But among them, some realized that Buyut Satma was truly fighting the subtle spirits, and Buyut Satma was exceedingly steadfast. In his battle with his children and grandchildren, surrounded by all the jinn, Buyut Satma swung wildly. Satma and his relatives were not overwhelmed. The King of Jenggala had seen and watched the battle of Buyut Satma and his children and grandchildren, but the King remained unseen. [p. 114.] Even the jinn did not see the King (*Nalendra*), but Satma smelled the scent of *lenga jayeng-katon* (visibility oil). Buyut Satma recognized that this was the scent of his Lord, so Buyut Satma's heart became calm. The King felt great pity seeing the battle /* [X] */ of Kyai Satma and his children and grandchildren. If they were to be struck by weapons, Satma and his children and grandchildren would not survive a single moment. Then the King prayed to Sang Yang Wasesa. Let the Kingdom of Galuh be visible, and let the multitude of people see the jinn and their kingdom. Suddenly it became bright as day, and all the people saw the kingdom and everything. The forest had vanished, the kingdom appeared like heaven (*suwarga*), and many, many people were surrounding Ki Satma and his children and grandchildren, while Buyut Satma and his relatives swung wildly. Then the village elders and the Dukes furiously sounded the signal, advancing together to help Ki Satma, simultaneously attacking the jinn. Then they fought fiercely without yielding, for the number of jinn and humans was equal. [p. 115.] The people were very happy, the village elders and Dukes, although the King remained unseen.
-
-Thus when Kyai Satma looked at the forest, it had vanished and was replaced by a kingdom that was exceedingly grand and beautiful. All the jinn were greatly shocked that their attack was blocked. The jinn were extremely terrified of the multitude of humans, because the humans had skin like iron vessels against all the jinn's weapons, which did not penetrate at all. So all the jinn retreated and fled, and were then pursued by all the humans.
+### [Folio 115]
+1. watching his army; indeed the elders and Adipatis were filled with zeal, though the King had not yet revealed himself.
+2. When Kyai Satma looked at the forest, it had
+3. vanished, replaced by a realm exceedingly grand and beautiful.
+4. Then all the spirits were greatly astonished at
+5. receiving their attack; exceedingly terrified were all the spirits of the
+6. crowd of humans, because humans possessed invulnerable skin, so that
+7. the weapons of the spirits did not penetrate them at all, causing
+8. all the spirits to retreat and flee; then they were pursued by all
+9. the humans with loud cheering like driving sheep, all
+10. the spirits fleeing in panic. All the spirit officers gathered
+11. together in their flight, arriving before Sang Patih
+12. Ganapuspita, reporting that they were overwhelmed in battle, for all the
+13. humans were powerful and had invulnerable skin; exceedingly
+14. enraged were Ratu Ganawati and Ratu Ragawati at all
+15. the spirit Adipatis. Then all spirits were ordered to turn back,
+16. with both Queens leading them personally; exceedingly
+17. terrified were all the spirit Adipatis before Ratu Ganapuspita,

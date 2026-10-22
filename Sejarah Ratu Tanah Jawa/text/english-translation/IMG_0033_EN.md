@@ -8,6 +8,59 @@
 
 - 29 -
 
-if I were indeed capable, but I am not of royal descent. Remain here, all of you, while I go to search for the King, for I would rather perish if I do not find the King." Then all of Satma's family wept. Nyai Satmi then embraced Satma's feet, speaking brokenly: "Kyai, in life or death I am unwilling to be left behind; I must follow you." Ki Satma spoke gently: "Nyai, are you determined? If you are firm in your promise to me, be very careful not to bring sorrow upon my life or death when I go to search for the King." Ni Satmi said: "Kyai, I submit to your will." Kyai Satma then departed, with Ni Satmi close behind him. He brought no servants, only his wife. Ki Satma's family who remained behind were sorrowful. [p. 96.] Kyai Satma set out, penetrating deep into the forest. Ni Satmi wept all along the way, walking beside him, for on the path she was told to return, but Nyai Satmi still insisted. When Ki Satma reached the middle of the forest, there was a smooth stone beneath a *cemara* tree. Ki Satma rested, feeling pity for his wife. Ki Satma sat on the stone with Ni Satmi behind him. After about seven days, he heard a voice: "Hey, Satma and Satmi, if you are searching for the King, he is present now, but he is meditating and sleeping in Gedong Kuwaca in Guwa Terusan. His location is to the north-west, close from here, but the cave is hidden. The markers are a heron (*cangak*) and a *nagapuspa* tree standing side-by-side. Sit there. If the door of the cave becomes visible, do not dare to enter unless you are invited by the one sleeping inside Gedong Kuwaca." The voice then vanished, and Kyai Satma felt immense relief in his heart upon hearing that voice. [p. 97.] Then Satma and his wife walked toward Guwa Terusan. By good fortune, they arrived at Guwa Terusan, but the door was not yet visible. The *nagapuspa* and *cangak* stood neatly arranged, and the ground was clean as if swept, with not a single fallen leaf to be seen. Kyai Satma and Nyai Satmi then sat cross-legged for three days, and then Guwa Terusan became visible. The entrance to the cave had a gate, but it remained closed. Satma and Satmi felt great relief in their hearts.
+### [Folio 96]
+1. penetrating deep into the forest, Ni Satmi wept all along the way, a wo-
+2. -man slender in her gait, because along the way
+3. she was told to turn back, but Ni Satmi persisted.
+4. Thus they arrived in the middle of the forest, the journey of Ki Satma;
+5. there was a flat stone under a pine tree, and Ki Satma rested,
+6. feeling pity for his wife, sitting on the stone; Ki Satma sat,
+7. Ni Satmi behind him for about seven days, when
+8. they heard a voice: "O Satma and Satmi, if you seek
+9. your King, now he is already there, but he is still sleeping in meditation
+10. in Gedong Kuwaca, at Guwa Terusan; its location
+11. is to the northwest, near from here,
+12. but the cave is hidden in spirit form; its only mark is a heron
+13. and nagapuspa trees side by side at its entrance; there you shall sit;
+14. if the door of the cave appears, do not dare enter unless
+15. you are summoned by the one sleeping inside the
+16. Gedong Kuwaca." The voice vanished; then Kyai
+17. Satma felt greatly relieved upon hearing that voice.
 
-As for the story of the one sleeping on the golden bed in Gedong Kuwaca, it was indeed the King of Jenggala, with Manawa and Manawi at his feet, remaining motionless the whole time. Then Sang Yang Sindula came to help his grandson. Nata Sindula descended to Gedong Kuwaca and arrived. He gently woke his grandson, speaking softly: "Enough, my child Prabu Jenggala, wake up, for I have arrived." Sri Jenggala awoke and immediately kissed the feet of his grandfather Nata Sindula. Sindula spoke: "Enough, my child, sit down. All your requests have been granted, my child, by Sang Yang Wasesa. [p. 98.] Whatever your desire regarding the kingdom of Galuh, my life, it belongs to you and all the *waragana*." The King of Jenggala paid homage to his grandfather Nata Sindula. Then Nata Sindula spoke again: "Outside the cave, there is a meditating person searching for you, named Buyut Satma, along with his wife. They are your attendants. Greet them, my life, and command them to return home first, and give them your orders according to your desire." Ratu Sindula then vanished. Then the door of the cave became visible.
+### [Folio 97]
+1. Then Satma and his wife walked to Guwa Terusan, as fate
+2. favored their journey; arriving at Guwa Terusan, the door was not yet visible,
+3. nagasari trees and a heron stood in order as if arranged, clean as if
+4. swept, the ground had no fallen leaves to be seen. Kyai Satma
+5. and Nyai Satmi then both sat cross-legged on the ground; after three days, Guwa
+6. Terusan appeared, the cave's entrance had a gateway, but
+7. was still closed; Satma and Satmi felt exceedingly relieved.
+8. As for the chronicle of the one sleeping on the golden couch in Gedong Kuwaca,
+9. it was Prabu Jenggala, with Menawa and Menawi at his feet, unmoving
+10. all the while. Then Sang Hyang Sindula came to help
+11. his grandson; Nata Sindula descended to Gedong Kuwaca; having
+12. arrived, he awakened his grandson, speaking gently: "My
+13. son Prabu Jenggala, awaken, for I have arrived." Then awoke Sri
+14. Jenggala and immediately bowed at the feet of his grandfather Nata Sin-
+15. -dula. Said Sindula: "My son, sit down;
+16. all that you prayed for has been granted, my son,
+17. by Sang Hyang Wasesa, whatever you desire concerning the kingdom of Galuh,
+
+### [Folio 98]
+1. my dear one, it now belongs to you along with all the waragana."
+2. The King of Jenggala paid homage to his grandfather Nata Sindula.
+3. Then Nata Sindula spoke again: "Outside the cave there is a man meditating,
+4. who is seeking you, named
+5. Buyut Satma, along with his wife; he is your support;
+6. greet him, my dear one, and tell him to return first
+7. to his house, and give him orders according to your wish."
+8. Ratu Sindula vanished. Then the cave door became visible;
+9. Ki Satma and Ni Satmi saw that the cave door appeared,
+10. and opened inside, showing Gedong Kuwaca; in the middle on a golden couch
+11. sat one whose radiance was like the bright moon,
+12. with two sleeping below him. Ki Satma and Ni Satmi
+13. bowed down, feeling greatly relieved in their hearts
+14. upon seeing the three sleeping. Then Ki
+15. Satma and Ni Satmi were beckoned by the King of Jenggala, summoned to enter
+16. Gedong Kuwaca together. Entering, they immediately
+17. fell at his feet, like in a dream, weeping.

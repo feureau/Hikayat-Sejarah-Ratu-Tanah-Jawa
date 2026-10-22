@@ -8,8 +8,72 @@
 
 - 36 -
 
-and things intensified, the sound roared endlessly. All the humans were exceedingly terrified hearing that sound, and once again all the jinn were unseen. Moreover, in the kingdom, all the people became confused, not knowing what to do. Hearing the sound of the jinn sounding the battle signal, which thundered and resonated, the people were even more confused and in an uproar. Ki Satma then countered by sounding his signal, while weeping, inseparable from his wife, towards all the people. It was certain they would all be wiped out, but it was shameful to retreat, yet they could not see the enemy, so they just faced the sound. Then the King of Jenggala earnestly looked upon his overwhelming army, and therefore he appeared, along with his two servants Manawi and Manawa. Thus Kyai Satma and Nyai Satmi both looked and saw the King (*Nalendra*) standing before them. They immediately prostrated at his feet, and their hearts became exceedingly calm. [p. 120.] Thus then the King prayed deeply to Yang Wasesa, Mustofiun, for all things to /* [Mas-Tanpa-una] */. /* [nukya] */ Thus then Ratu Angin-angin and Linglung Tunggal Wulung saw that the King of Java was solely ruling. Furthermore, Ratu Ayu Ganawati, Ratu Ragawati, and all the Kings were no longer in doubt that Sang Yang Sindula was right there, blazing like the sun, becoming brightly illuminated by the light of the King (*Nalendra*). The Kingdom of Galuh and everything became visible. All the Kings vanished, leaving only the eighty-four maidens, along with the jinn whose homes were there, and the humans who had gone mad. /* [X] */ 
+### [Folio 119]
+2. storms howling, roaring sound without
+3. end, exceedingly terrifying; all the people heard that sound,
+4. and moreover again invisible were all the spirits. As for
+5. the realm, it caused confusion among all the people, bewildered
+6. in their actions; thus hearing the sound of the spirits sounding alarm drums
+7. for battle, loudly beaten and heard, causing great confusion and
+8. panic among all the people. Ki Satma then matched them sounding alarm drums
+9. while weeping, inseparable from his wife, before all the people.
+10. Thus it was certain they would all be destroyed, but
+11. ashamed to retreat, yet not knowing the enemy, they merely
+12. faced towards that sound. Then the King of Jenggala, sternly
+13. watching his vast army, feeling great pity, revealed himself, along with
+14. his two retainers, Menawi and Manawa. Thus Kyai
+15. Satma and Nyai Satmi both looked upon the King standing
+16. before them, then immediately fell at his feet, feeling exceedingly relieved
+17. in their hearts; then the King prayed
 
-Then when it was reported to Sang Prabu Wanadya that her army had been abandoned, and all the Kings of the Jinn and Subtle Spirits had vanished without leaving a single soldier behind, Sang Nata Prabu Wanadya became angry and ordered the [p. 121.] eighty Maidens, instructing them to be ready for battle. For the King herself wanted to enter the battle and fight alone against the remaining jinn /* ^a */, and the enchanted humans /* ^n */ were ordered to just stand in formation and only cheer. Everyone replied, "As you command." Thus it is told that Sri Naranata of Jenggala sat in the encampment, attended by all the Dukes and village elders (*buyut*) thronging together with Satma's children and grandchildren, whose hearts were all like mountains. Satma and Satmi paid their respects. The King of Jenggala said to Buyut Satma: "Father, tomorrow during the battle, let the common people just line up in the back and cheer loudly. But all the Dukes and village elders, with your four children leading them, let them cheer continuously. I suspect, father, tomorrow the warriors and the Maiden King (*Prabu Rara*) will come out to battle, while I will just observe. As for you and mother, father, and Manawa and Manawi, you all just attend to me." 
+### [Folio 120]
+1. to Sang Hyang Wasesa Mustofiun for everything through Mas-Tanpa-una.
+2. Then Ratu Angin-angin saw,
+3. as well as Linglung Tunggal Wulung, that he was the sole
+4. ruler, the King of Java, as did Ratu Ayu Gena-
+5. -wati, Ratu Ragawati, and all those Kings, knowing
+6. without doubt that Sang Hyang Sindula was standing
+7. upon his chest, blazing like the sun, making it bright and illuminated by
+8. the King's radiance; visible was the realm of Galuh and
+9. everything, while all those Kings vanished, leaving
+10. only eighty-four waragana, along with the spirits
+11. native to the region and humans who had been taken.
+12. When Sang Prabu Wanodya was informed
+13. that she had been deserted by the forces of all the Kings of
+14. Spirits and Siluman, who had all vanished
+15. without a single soldier remaining, enraged was the King
+16. Prabu Wanodya, ordering the eighty
+17. waragana to prepare for battle,
 
-Satma replied "As you command," and his four children were indeed still young. The Dukes and village elders whose hearts were like mountains [p. 122.] wanted to fight in single combat against the Maidens (*Waragana*). The King saw that they were ready. The King then dismissed the court. Now it is told that the King of Galuh felt extremely ashamed that her kingdom and her court Maidens had been humiliated. Thus Prabu Wanadya at night intended to pray to Yang Wasesa in the shrine with her companions, Ni Sebetan, whose name was Ragula, and Ni Tunjungbang. Outside the shrine, the three of them waited /* [X] */ with offerings, and the smoke of incense rose high into the sky. Meanwhile, the King of Jenggala smelled a scent. It was past midnight, and Manawi and Manawa had both gone to sleep. He woke them both up. Thus the King of Jenggala transformed himself into Dewi Sri, intending to go to the palace
+### [Folio 121]
+1. for the King herself intended to go out to battle against the spirit forces,
+2. while the human side was merely commanded to stay in line and
+3. cheer loudly; all said "at your command".
+4. Now it is told that Sri Naranata of Jenggala
+5. sat in camp, receiving in audience all the Adipatis
+6. and elders gathered around, as well as Satma's children and grandchildren whose
+7. hearts were brave. Satma and Satmi listened as the King of
+8. Jenggala spoke to Buyut Satma: "Father,
+9. tomorrow in battle let the common folk stand in line in the rear,
+10. cheering loudly; but all the Adipatis
+11. and elders, with your four sons leading them,
+12. shall cheer loudly; I expect tomorrow, father, the waragana
+13. and Queen Rara will come out to fight, while I shall
+14. merely observe, while you and your wife, father, and Menawa and Menawi
+15. shall wait upon me." Satma said "at your command";
+16. his four sons were indeed still young.
+17. The Adipatis and elders were all filled with courage,
+
+### [Folio 122]
+1. as they wished to fight one-on-one against the Waragana, observed
+2. by the King, for all possessed invulnerable skin; then ended
+3. the royal court. Now Ratu Galuh is told of, feeling exceedingly ashamed
+4. that her realm and all the Waragana had been taken over.
+5. Thus Prabu Wanodya at night intended
+6. to pray to Yang Wasesa in the meditation chamber with her attendants,
+7. Ni Sebetan, Ragula, and Ni Tunjungbang outside
+8. the chamber, the three tending offerings and incense smoke rising
+9. to the sky. Meanwhile the King of Jenggala caught the fragrance
+10. late at night; Menawi and Manawa, both sleeping,
+11. were awakened. Then assuming divine form,
+12. Sri Jenggala proceeded towards the palace.
